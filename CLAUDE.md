@@ -10,22 +10,18 @@ Note: the manuscript volume (`Volumen_I_El_Heredero_sin_Nombre/`) and `Hoja_de_R
 
 ## Document map and how they relate
 
-Lore is split into focused documents, each declaring in its header which others it complements — read those headers before editing, since claims must stay consistent across files:
+The lore was substantially rebuilt: the old 6-origins/21-level magic system and all faction/college/house worldbuilding tied to it (formerly in `Lore_Mundo_Completo.md`, `Mundo_Humano.md`, `Hoja_de_Ruta_Historia.md`, `Sellados.md`, `Mapa_Ruta_Sistema_Magia.md`, `Sistema_de_Niveles_Digestion_Eco.md`, `Sistemas_de_Magia_Clasificacion.md`) were deleted — that lore is being rewritten from scratch around the new magic system. Only two lore docs currently exist:
 
-- **Lore_Mundo_Completo.md** — consolidated core lore: cosmology, eras, factions, the power system ("El Eco"), geography, language. The central reference; other docs extend specific sections of it.
-- **Mundo_Humano.md** — the non-practitioner human population: demographics, empires, daily life. Complements Lore_Mundo_Completo.md and Fauna_y_Flora.md.
-- **Fauna_y_Flora.md** — non-human life tied to the Eco (beasts, world-scale creatures, flora). Complements the "Mapa de Poder" (Lore_Mundo_Completo.md section 7).
-- **Sistemas_de_Magia_Clasificacion.md** — reference doc surveying magic-system tropes from literature/anime/RPGs, used as design input.
-- **Mapa_Ruta_Sistema_Magia.md** — working roadmap that tracks decisions already made vs. pending for the magic system; cross-check before changing magic rules so decided points aren't silently reverted.
-- **Sistema_de_Niveles_Digestion_Eco.md** — mechanics of leveling: the 21-level / 7-division / 4-tier system defined in Lore_Mundo_Completo.md section 6, and what advancing a level means mechanically per Senda (path).
-- **Poderes_Nivel_1-5.md** — concrete powers/spells/rituals for each of the 6 power origins (Lore_Mundo_Completo.md section 5), for levels 1–5.
-- **Sellados.md** — lore on "Los Sellados," practitioners from past eras (near Level 22, División VI–VII) who sealed themselves to survive their era's collapse.
-- **Hoja_de_Ruta_Historia.md** — overall story skeleton across 10 planned volumes; complements Hoja_de_Ruta_Protagonista.md, Lore_Mundo_Completo.md, Mundo_Humano.md, Sellados.md (protagonist roadmap currently only in git history).
-- **Prompts_Mapas_Mundo.md** — 7 image-generation prompts (1 world map + 6 regional) sharing a common style guide, for producing visually consistent maps.
+- **Sistema_del_Rastro.md** — the current magic system: Trazadores extract "huellas" (temporal fragments) from themselves, others, or objects under a strict equivalent-exchange law. Defines the 4+1 Categories, the 10-stage soul progression ("Calado"), Voluntad training, and the Sendas (combat/utility/social specializations). This is the central reference going forward — any new lore should be built consistent with it, not the deleted system.
+- **Geografia_del_Mundo.md** — the 25 known continents (3 habited, 22 uninhabited) and the Tortugas-León. Each habited continent has exactly 10 cities, a limit tied directly to Sistema_del_Rastro.md's Calado stage 10 ("Trascendencia") and its Marcas de Alma mechanic — keep that link consistent when extending either doc. Cosmology, eras, and human society are still unwritten.
+- **Fauna_y_Flora.md** — non-human life (beasts, world-scale creatures, flora). Still uses its own independent 1–22 beast level scale (unrelated to human Trazador progression now) — only beasts of Level 7+ form núcleos usable by Trazadores (Sistema_del_Rastro.md section 5.2).
+- **Prompts_Mapas_Mundo.md** — 7 image-generation prompts (1 world map + 6 regional) sharing a common style guide, kept even though it predates the rewrite — useful for visual consistency once geography is redefined.
+
+Everything else (cosmology, eras, factions, language, human society, story roadmap) is being rebuilt and does not exist yet — don't assume any of the old names/structures (Ascendidos, Sellados, the 6 facciones-dioses, etc.) still apply unless redefined under the new system.
 
 ## Working conventions
 
 - Documents are written in **Spanish**; match that language and tone when editing or extending lore/prose.
-- Each doc's intro paragraph lists which other docs it "complementa" (complements) — when changing a fact (level system, factions, geography, power origins), check and update cross-referenced docs rather than letting them diverge.
-- Numbered sections inside lore docs (e.g., "Lore_Mundo_Completo.md sección 5/6/7") are referenced by number from other docs — preserve section numbering or update all cross-references if reordering.
-- Roadmap-style docs (`Mapa_Ruta_Sistema_Magia.md`, `Hoja_de_Ruta_Historia.md`) distinguish "decisiones ya tomadas" (decided) from open/pending sections — don't overwrite decided material without being asked.
+- Each doc's intro paragraph lists which other docs it "complementa" (complements) — when changing a fact, check and update cross-referenced docs rather than letting them diverge.
+- Numbered sections inside lore docs are referenced by number from other docs — preserve section numbering or update all cross-references if reordering.
+- `Sistema_del_Rastro.md` has a "Pendiente por desarrollar" section tracking open design questions and decisions already resolved (marked with strikethrough) — check it before re-deciding something already settled, and update it as new lore questions get resolved in conversation.
