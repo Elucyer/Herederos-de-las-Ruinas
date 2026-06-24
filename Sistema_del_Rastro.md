@@ -118,6 +118,13 @@ El nombre de cada etapa (sección 5.1) es el término técnico — lo que un Tra
 - A partir de **Arconte** (Vorágine), el nombre se reserva casi exclusivamente para figuras legendarias — la mayoría de la población jamás conocerá a uno en persona, y mucho menos a un **Umbral**, que ya no se considera completamente humano en el imaginario popular.
 - **Trascendido** es, en la práctica, sinónimo de **Océano** — la diferencia es de registro: "Océano" describe la etapa, "Trascendido" describe a la persona.
 
+### 5.1.2 Esperanza de vida y dificultad creciente
+
+Cada Grieta sellada (sección 5.1) no solo ensancha cuánta huella puede sostener un Trazador — también **extiende su esperanza de vida**, etapa por etapa: un alma que resiste más sin fragmentarse, literalmente, dura más. Es la razón en-mundo de que un Trascendido (Océano) no muera de vejez (sección 5.1, etapa 10) — es el extremo final de una progresión que ya empieza a notarse desde Cárcava o Quebrada, mucho antes de acercarse a Trascendencia.
+
+- **La dificultad escala junto con el beneficio**: abrir y sellar correctamente una Grieta exige más Voluntad entrenada (sección 5.2) en cada etapa sucesiva — no de forma lineal, sino acelerada. La distancia de Voluntad entre Filtración y Cuenca es trivial comparada con la distancia entre Confluencia y Vorágine.
+- **Implicación narrativa**: nadie "se apura" hacia las etapas altas solo por vivir más — el costo de intentarlo crece más rápido que la recompensa, y el riesgo de fracasar una Grieta (sección 5.2.1) crece con él. Esto es, en parte, lo que mantiene el umbral estadístico de la sección 5 (80-90% nunca pasa de Sima): no es solo que la mayoría no lo intente, es que cada etapa adicional es genuinamente más cara que la anterior.
+
 ### 5.2 Entrenamiento de la Voluntad
 
 Cada Grieta solo se sella correctamente si el Trazador tiene suficiente **Voluntad** entrenada; sin ella, la Grieta lo destroza en vez de ensancharlo. La Voluntad es el verdadero eje de progresión del sistema — las etapas son hitos narrativos, la Voluntad es lo que determina si se sobrevive a ellos.
@@ -210,6 +217,14 @@ La Ley Fundamental (sección 1) sostiene que todo momento, en teoría, queda dis
 ## 9. Sendas — formas de expresar el poder extraído
 
 La Categoría dice qué huella puede tocar un Trazador y el Calado cuánta puede sostener; la **Senda** es la forma concreta en que canaliza ese poder hacia un efecto. No son exclusivas de una sola Categoría salvo cuando se indica.
+
+### 9.1 Doble Senda — excepción ligada a Sima
+
+La inmensa mayoría de los Trazadores desarrolla una sola Senda en toda su vida. La excepción conocida está atada directamente al disparador de la etapa **5. Sima** (sección 5.1): "primer cruce a un tipo de huella fuera de su camino habitual". Para la enorme mayoría ese cruce es un evento aislado, sin consecuencia más allá de la Grieta misma — pero en los casos más raros, ese primer cruce no se cierra: el Trazador conserva acceso genuino a la nueva forma de canalizar huella, y termina con **dos Sendas** en vez de una.
+
+- No se puede provocar a voluntad ni predecir antes de Sima — como con el Techo de Voluntad (sección 5.2.1), nadie sabe si le ocurrirá hasta que ya está cruzando esa Grieta.
+- La segunda Senda casi siempre comparte Categoría con la primera (el cruce de Sima es de *tipo de huella*, no de Categoría) — por eso un Categoría I que desarrolla doble Senda lo hace casi siempre entre las Sendas que ya son compatibles con su Categoría (ej.: Rastreador y Profeta del Rastro, ambas Cat. I).
+- Es, en la práctica, tan raro como cualquier otra rareza estadística del sistema (Categoría IV, Trascendencia) — la mayoría de los Trazadores con doble Senda nunca llega a saberlo si no alcanza Sima, y la mayoría no alcanza Sima.
 
 **Combate directo**
 - **Elementalistas** — los clásicos magos de elementos: traducen huellas en fuego, agua, viento, tierra. La forma elemental es la "piel" visual más común que toma una huella, no una fuente de poder distinta.
