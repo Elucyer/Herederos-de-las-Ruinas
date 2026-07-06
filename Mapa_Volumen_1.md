@@ -124,7 +124,7 @@ Anomalías ya escritas en los capítulos — ninguna está resuelta en el Acto 0
 
 1. Nombre del contacto de la Biblioteca Infinita (Acto 2, arco 2) y el archivo/documento físico exacto que cita.
 2. Bajar este mapa un nivel más: beats capítulo a capítulo dentro de cada arco, cuando se necesite para empezar a escribir prosa — especialmente los 3 bloques de "años de entrenamiento", que necesitarán su propio ritmo interno de montaje (qué se narra en detalle vs. qué se resume).
-3. Escena de apertura concreta del capítulo 1 (Acto 0, beat 1) — el primer párrafo/imagen.
+3. ~~Escena de apertura concreta del capítulo 1~~ — resuelto en prosa (cap. 001: el código de silbidos de la locomotora).
 4. ~~Título de la novela / del Volumen I~~ — resuelto: Volumen I = **"Lo Que Nunca se Borra"** (`Biblia_de_la_Historia.md`, epígrafe).
 5. Si Renn Sodt y otros personajes secundarios menores envejecen visiblemente junto a Kael a lo largo de los 20 años de vida adulta del volumen, o si algunos se quedan atrás/cambian de oficio en algún punto de los años de entrenamiento — no resuelto todavía. Incluye el futuro de **Tamsin** (`Biblia_de_la_Historia.md` sección 3.4.6 y pendiente #9 de ese documento).
 6. **Quién está detrás de las anomalías sembradas en el Acto 0** (sección 3.1): quién autorizó la apertura R-VA-117 de la custodia de las Voces, y qué "corrigió" exactamente el sello de revisión en el registro de los padres. Ambas deben resolverse de forma coherente entre sí — apuntan al registro central de Vel Aris — y decidirse antes de que la investigación de Kael las toque en el Acto 1-2.
