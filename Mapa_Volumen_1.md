@@ -1,0 +1,117 @@
+# Mapa del Volumen I — "Herederos de las Ruinas"
+
+Documento de planificación capítulo a capítulo del Volumen I: arcos internos de cada acto, subtramas, antagonistas y su escalada, y presupuesto de capítulos. Complementa `Biblia_de_la_Historia.md` (premisa, tema, ficha del protagonista y estructura macro en 3 actos, sección 4) — este documento desarrolla esa estructura a nivel de arco y capítulo. También depende de `Sistema_del_Rastro.md` (magia), `Geografia_del_Mundo.md` (continentes/instituciones/facciones) y `Fauna_y_Flora.md` (zonas de peligro). Cualquier cambio aquí que afecte la ficha de Kael, su elenco o su progresión de Calado debe reflejarse también en `Biblia_de_la_Historia.md`.
+
+---
+
+## 0. Resumen y presupuesto de capítulos
+
+Formato ya fijado (`Biblia_de_la_Historia.md` sección 5): capítulos de 2.000-4.000 palabras, estilo novela ligera serializada. Objetivo de extensión del Volumen I: **~348 capítulos**, repartidos así:
+
+| Acto | Edad de Kael | Capítulos | Calado al cierre del acto |
+|---|---|---|---|
+| Acto 0 — El Aprendiz de Cumbresenda | 12 → 17 (5 años) | 13 | Cuenca (etapa 2) — Categoría I encaminada antes de la expedición |
+| Acto 1 — Avar: el hallazgo | 17 → 23 (6 años) | 110 | Cuenca consolidada, Voluntad entrenada en campo — Senda Rastreador confirmada bajo presión real |
+| Acto 2 — Sylvaris: la investigación | 23 → 30 (7 años) | 130 | Borde de Cárcava (etapa 2 alta, sin cruzar) |
+| Acto 3 — Nórdkar / El Eco en Bucle: la confirmación | 30 → 37 (7 años) | 95 | Cruce a Cárcava (etapa 3) en el cierre del volumen |
+| **Total** | **12 → 37 (25 años)** | **348** | |
+
+**Regla de escalada de peleas (válida para los 3 actos)**: Kael nunca gana un enfrentamiento por poder bruto superior — gana por información, terreno, trabajo en equipo o el error del enemigo, nunca porque su Calado lo iguale. Cualquier combate donde deba "ganar" requiere que el oponente esté en desventaja por otra razón (sorpresa, terreno, recursos agotados, o que Soraya/el grupo carguen el peso real del enfrentamiento mientras Kael resuelve el problema real con su Senda de Rastreador). Es la misma lógica que ya fija `Biblia_de_la_Historia.md` sección 6.5: su poder es irrelevante para la trama de este volumen, lo que importa es lo que sabe.
+
+## 0.1 Por qué 25 años, no unos meses
+
+Avanzar de Cauce Naciente a apenas Cárcava en pocos meses contradiría la propia regla de dificultad creciente del sistema (`Sistema_del_Rastro.md` sección 5.1.2): cada Grieta exige más Voluntad entrenada que la anterior, y entrenar Voluntad real —no solo sobrevivir un evento puntual— toma años de disciplina sostenida (sección 5.2 de ese documento), con o sin núcleos de bestia de por medio. El Volumen I respeta eso: **las expediciones principales (el hallazgo, la investigación en Sylvaris, la confrontación en El Eco en Bucle) no ocurren una tras otra** — entre cada una hay **años de entrenamiento real**, cazando en las zonas de peligro ya diseñadas (`Fauna_y_Flora.md` sección 5.3) tanto para entrenar Voluntad con núcleos de Nivel 7+ (`Sistema_del_Rastro.md` sección 5.2) como para conseguir núcleos de repuesto para las Voces (`Biblia_de_la_Historia.md` sección 3.1.1). Esos años se narran en bloques de tiempo comprimido (varios capítulos por año, no uno por año) — el ritmo de un montaje de entrenamiento, no de un diario.
+
+**Calendario interno resultante:**
+
+| Tramo | Edad | Duración |
+|---|---|---|
+| Acto 0 | 12-17 | 5 años |
+| Acto 1 completo (incluye ~3 años de entrenamiento de campo) | 17-23 | 6 años |
+| Acto 2 completo (incluye ~3 años de entrenamiento de campo) | 23-30 | 7 años |
+| Acto 3 completo (incluye ~5 años de entrenamiento y espera de ventana de acceso) | 30-37 | 7 años |
+| **Total Volumen I** | **12-37** | **25 años** |
+
+**Por qué esto no contradice la esperanza de vida extendida del mundo**: la extensión de vida ligada al Calado (`Sistema_del_Rastro.md` sección 5.1.2) "ya empieza a notarse desde Cárcava o Quebrada" — Kael pasa casi todo el volumen por debajo de ese punto y apenas cruza a Cárcava en el último capítulo. Para él, estos 25 años transcurren exactamente como para cualquier humano sin beneficio alguno de longevidad — el efecto narrativo de "el tiempo se mueve distinto para los poderosos" es, a propósito, algo que el lector todavía no ve en este volumen, reservado para volúmenes posteriores cuando Kael mismo empiece a notarlo.
+
+**Tiempos de viaje** (`Geografia_del_Mundo.md` sección 2.5.4): entre continentes vía portal el tránsito es casi inmediato (horas); lo que consume años no es el viaje, es el entrenamiento y la espera de condiciones favorables (ventanas de acceso, sección 4.3 de ese documento) una vez ya en el continente correcto.
+
+## 1. Antagonistas del volumen (escalada deliberada)
+
+- **Acto 1 — Hesker Voll**, Arqueólogo (Cat. V) mercenario, contratado de forma anónima (en realidad un agente menor de El Mercado de las Profundidades, `Geografia_del_Mundo.md` sección 2.9.4) para drenar cualquier reliquia de la ruina antes de que el Instituto la resellara. Motivación puramente mercenaria, sin saber lo que realmente está en juego. Reaparece varios años después de la primera pista, cuando la investigación encubierta de Kael finalmente lo cruza con él. No muere ni es capturado del todo — escapa, sembrando su regreso en el Acto 2.
+- **Acto 2 — El Comisario Draeve**, Curtidor de Alma (Cat. II, rareza IV no confirmada en él) enviado en secreto por **El Padre de las Cáscaras** (Trascendido #5, `Sistema_del_Rastro.md` sección 10.6) para verificar y enterrar cualquier rastro de la huella imposible — su maestro teme que una segunda Trascendencia reciente desestabilice el equilibrio del que depende su propio "negocio" de Cáscaras institucionales (sección 6.1 del sistema). Se vuelve personal cuando intenta forzar la Grieta ya dañada de Bram Yutsen para "limpiar" un cabo suelto, casi matándolo — el primer enemigo que Kael no puede simplemente investigar, tiene que sobrevivirlo.
+- **Acto 3 — Draeve (escalado) + Hesker Voll (reaparición)**, convergiendo con Kael y su grupo en El Eco en Bucle durante la misma ventana de acceso (`Geografia_del_Mundo.md` sección 4.3) — una carrera de 3 bandos por la misma huella imposible. Kael no puede vencer a Draeve en poder bruto (Cat. II/IV vs. su Cuenca-Cárcava apenas cruzada, incluso después de años de entrenamiento): la resolución depende de usar el propio bucle temporal del continente (`Geografia_del_Mundo.md` sección 4.6) en su favor, mientras Soraya Vahn y el resto del grupo cargan el combate físico real.
+
+## 2. Subtramas y dónde evolucionan (ahora a lo largo de años, no de meses)
+
+- **Ilsa Marrow** (quiere dejar el oficio, `Biblia_de_la_Historia.md` sección 3.4.3) — su padre Gran Duque presiona por su regreso a Nórdkar de forma intermitente durante los años de entrenamiento del Acto 1; en el Acto 2 decide, tras años de indecisión, que terminará lo que sea que esto se vuelva pero no buscará ascenso real; en el Acto 3 es ella quien más cuestiona si vale la pena el riesgo que están tomando — contraste directo y constante con la mentira interna de Kael (sección 3.1 de ese documento), ahora con el peso añadido de ver pasar más de una década de su propia vida en algo que nunca quiso del todo.
+- **Bram Yutsen** (Vaciado parcial, sección 3.4.4) — su condición se estabiliza durante los años de entrenamiento del Acto 1 (suficiente Voluntad ajena, vía Curtidores aliados, para contenerla sin curarla); se deteriora de golpe en el Acto 2 cuando Draeve intenta forzar su Grieta; en el Acto 3 su recuperación parcial (nunca completa) es uno de los pocos triunfos claros del volumen, sin resolver del todo el debate moral de la sección 6 de `Sistema_del_Rastro.md`.
+- **Archimaestra Yvenna Castor** — su orden de silencio se mantiene firme durante el Acto 1, incluso años después del hallazgo; en el Acto 2, el grupo descubre indirectamente (sin confirmarlo del todo) que su motivo no es solo institucional; en el Acto 3 no aparece físicamente, pero su decisión de no escalar el caso a algo más serio es, retrospectivamente, lo que le dio a Draeve años de ventaja para moverse primero — un hilo de culpa que el Volumen II puede retomar.
+- **Fricción Instituto-Biblioteca** (`Sistema_del_Rastro.md` sección 8.1) — trasfondo constante del Acto 2, nunca resuelta: ninguna de las 2 Instituciones le da a Kael una respuesta limpia, ambas le dan una pieza parcial del rompecabezas.
+- **Soraya Vahn** — pasa de supervisora de examen a, en la práctica, mentora de campo a largo plazo durante los años de entrenamiento de los Actos 1-3 — la relación se profundiza con el tiempo sin que ella le revele jamás que conoció a sus padres, hasta un punto de tensión que el Volumen II puede pagar.
+
+## 3. Acto 0 — El Aprendiz de Cumbresenda (Kael de 12 a 17 años, ~13 capítulos)
+
+No empieza en el Momento Ancla — empieza unos meses antes, todavía como un niño común de la escuela de formación, y avanza en pequeños saltos de tiempo hasta el examen de campo final. La función de este acto es **introducir el mundo a través de la vida diaria de Kael**, nunca por explicación directa: cada capítulo enseña una capa (la ciudad, la gente, las clases sociales, la economía) porque Kael la vive, no porque el narrador la describa.
+
+**Beats (12-13 cap.):**
+1. **Meses antes de los 12** (~3 cap.) — Kael en la escuela de formación de Cumbresenda, todavía sin Marca despierta, uno más entre aprendices comunes. Introduce la vida cotidiana de la ciudad (`Geografia_del_Mundo.md` sección 2.6.1), el contraste de clases dentro del mismo aula —compañeros de familias de gremio acomodadas frente a huérfanos institucionales como él— y el peso social de ser "el huérfano Doran" antes de ser nadie por mérito propio (`Biblia_de_la_Historia.md` sección 3.1). Un compañero mayor repite que terminará como sus padres: la herida en carne viva, antes de que la magia la dispare.
+2. **El Momento Ancla** (~2 cap.) — disparado por ese mismo estrés social/emocional, no por un evento mágico externo (`Sistema_del_Rastro.md` sección 3). Ingresa a la Etapa 0 (Filtración). Lo que el lector aprende sin infodump: cómo se siente despertar la Marca desde dentro, antes de que el sistema completo (Calado, Categorías, Sendas) se explique más adelante.
+3. **Salto a los 13: el mercado y la economía común** (~2 cap.) — primer permiso de salida de la escuela; Kael ve de cerca el comercio diario de Cumbresenda (precios, gremios, el Gremio de la Cuerda Larga, `Geografia_del_Mundo.md` secciones 2.9.1 y 2.11) y, por primera vez, a un Explorador licenciado volviendo de una expedición exitosa — el oficio que quiere heredar, visto desde afuera.
+4. **Salto a los 14-15: Cauce Naciente y el primer Desbordamiento** (~3 cap.) — primera extracción deliberada y voluntaria; en paralelo, la ciudad sufre un Desbordamiento menor (`Geografia_del_Mundo.md` sección 2.1) que muestra el peligro real del mundo y la respuesta institucional — primer contacto narrativo con el riesgo que ya mató a sus padres.
+5. **Salto a los 16: Cuenca y la cohorte** (~2 cap.) — el alma de Kael se encamina a Categoría I; conoce formalmente a quienes serán su cohorte de examen — **Ilsa Marrow, Bram Yutsen, Renn Sodt** — y a **Soraya Vahn** como instructora de campo. Las clases sociales ya insinuadas en el beat 1 se vuelven concretas: la nobleza menor de Ilsa, el origen de gremio de Bram, la familia agricultora de Renn (`Geografia_del_Mundo.md` sección 2.5.1).
+6. **17 años: la entrega de las Voces y la víspera del examen** (~1-2 cap.) — el Instituto le entrega formalmente **Voz de Alba y Voz de Ocaso** (`Biblia_de_la_Historia.md` sección 3.1.1), custodiadas desde la muerte de sus padres; cierre del acto con la cohorte ya lista para partir hacia la expedición. Transición directa y explícita al Acto 1.
+
+## 4. Acto 1 — Avar: el hallazgo (Kael de 17 a 23 años, ~110 capítulos)
+
+- Expedición rutinaria del protagonista (cartografiar una quebrada, inspeccionar una ruina menor) cerca de **Cumbresenda** (decidido sobre Eltar, `Biblia_de_la_Historia.md` sección 3.4.1).
+- Encuentran la huella reciente en un lugar que debería estar sellado hace milenios.
+- El Instituto de las Ruinas la sella de nuevo y ordena silencio — primera señal explícita de que algo se oculta.
+- Lo que el lector aprende sin infodump: El Eco, las Ruinas, los Exploradores, la vida cotidiana de Avar ya quedó cubierta en el Acto 0 — este acto profundiza en las zonas de peligro y la política institucional.
+
+**Arcos internos:**
+1. **La expedición y la salida** (17 años, ~5 cap.) — última preparación logística y partida hacia la quebrada/ruina menor; ya no necesita presentar al elenco (resuelto en Acto 0), solo poner el grupo en movimiento. Objetivo de Kael: aprobar sin destacar ni fallar.
+2. **La expedición y el hallazgo** (17 años, ~10 cap.) — la quebrada, la ruina sellada, la huella imposible. Climax del arco: Bram toca la huella por curiosidad competitiva y sufre la Grieta forzada (`Biblia_de_la_Historia.md` sección 3.4.4). Primer uso real de la Categoría I de Kael bajo presión.
+3. **El silencio del Instituto** (17 años, ~15 cap.) — Yvenna Castor ordena resellar y callar; Kael, fiel a su defecto (no soltar una pregunta), empieza a investigar por su cuenta contra la orden directa, en los ratos libres que le deja su nueva vida de Explorador junior. Objetivo: entender qué vieron, no desobedecer por desobedecer.
+4. **Años de entrenamiento I** (17 → 20 años, ~20 cap.) — la investigación se enfría a propósito (el Instituto vigila), y Kael pasa estos 3 años cazando y entrenando Voluntad en las zonas de peligro de Avar (Las Fauces de Escarcha, El Horno Yermo, Las Gargantas Sordas, `Fauna_y_Flora.md` sección 5.3) junto a Soraya y su cohorte — progreso lento y real, núcleos de Nivel 7+ consumidos en entrenamiento (`Sistema_del_Rastro.md` sección 5.2) y también para reabastecer las Voces. La presión familiar sobre Ilsa y la condición de Bram evolucionan en el fondo, año a año, sin un evento único que las resuelva todavía.
+5. **Primer antagonista: Hesker Voll** (20 → 21 años, ~25 cap.) — la investigación retomada con más cuidado y más Voluntad cruza, al fin, el camino de Hesker Voll, que ha estado buscando la misma ruina por encargo de El Mercado de las Profundidades. Primeras escaramuzas reales con un antagonista con nombre propio.
+6. **Escalada y confirmación de Senda** (21 → 22 años, ~20 cap.) — confrontación directa con Hesker Voll (huye, no muere); la Senda Rastreador de Kael, entrenada durante los años de caza, se confirma del todo bajo presión real de combate — la diferencia entre tener una Senda y haberla probado cuando importa.
+7. **Decisión de cierre de acto** (22 → 23 años, ~15 cap.) — con suficiente evidencia y suficiente Voluntad entrenada, Kael decide desafiar la orden de silencio del Instituto y buscar respuestas en la Biblioteca Infinita; el grupo, ya con años de historia compartida detrás, decide acompañarlo, cada uno con su propia razón. Cierre del Acto 1.
+
+## 5. Acto 2 — Sylvaris: la investigación (Kael de 23 a 30 años, ~130 capítulos)
+
+- La pista lleva al protagonista a buscar precedentes en la Biblioteca Infinita (única institución con archivos de 3 Eras confirmadas, `Sistema_del_Rastro.md` sección 8.1).
+- Aprende, porque lo necesita para seguir investigando (nunca como clase magistral): qué es el Calado, qué es Umbral, quiénes son los 12 Trascendidos conocidos.
+- Fricción con la Biblioteca: sus archivos no contradicen abiertamente lo que descubre, pero tampoco lo confirman — alguien con autoridad real ya sabe más de lo que admite.
+- Lo que el lector aprende: la Biblioteca, las Sendas, la historia documentada de las Eras.
+
+**Arcos internos:**
+1. **Llegada a Sylvaris** (23 años, ~15 cap.) — choque cultural (identidad de cuenca, `Geografia_del_Mundo.md` sección 2.1.1), primer contacto con la burocracia de la Biblioteca Infinita. Objetivo: conseguir acceso a archivos relevantes sin levantar sospechas del Instituto.
+2. **La investigación documental** (23 → 24 años, ~20 cap.) — un contacto dentro de la Biblioteca (aprendiz de archivista o Profeta del Rastro junior) ayuda a Kael a entender el Calado, Umbral y los 7 Trascendidos conocidos — todo porque la trama lo exige, nunca como clase. Primeras pistas de que los archivos no cuadran del todo con lo que vieron en Avar.
+3. **Años de entrenamiento II** (24 → 27 años, ~25 cap.) — mientras la Biblioteca procesa solicitudes y Kael espera acceso a archivos más restringidos, el grupo entrena en las zonas de peligro de Sylvaris (El Vientre Verde, Los Bajíos del Letargo, La Espesura sin Eco, `Fauna_y_Flora.md` sección 5.3) — Voluntad más profunda, primer roce deliberado de Kael con la idea de Sima (todavía lejana). La indecisión de Ilsa y la condición de Bram siguen evolucionando año a año.
+4. **El Comisario Draeve** (27 → 28 años, ~25 cap.) — aparece el antagonista del acto; enfrentamientos reales en el terreno ya conocido de entrenamiento; Draeve empieza a cercar al grupo sin que sepan todavía a quién sirve.
+5. **Fracturas internas** (28 → 29 años, ~20 cap.) — subtrama de Ilsa (decide, tras años de dudar, quedarse hasta el final pero sin buscar ascenso); deterioro de Bram cuando Draeve intenta forzar su Grieta dañada, casi matándolo — momento más oscuro del acto. Fricción Instituto-Biblioteca como trasfondo político constante.
+6. **El punto medio: la pista de El Eco en Bucle** (29 años, ~15 cap.) — confrontación intermedia con Draeve (escapa, herido); la Biblioteca da una respuesta ambigua que apunta al continente VI. Kael cruza al borde de Cárcava (acumula la presión de la huella que sabe que tendrá que sacrificar, sin cruzar todavía).
+7. **Cierre de acto** (29 → 30 años, ~10 cap.) — decisión de partir hacia Nórdkar para llegar a El Eco en Bucle; despedida tensa de Sylvaris con Draeve todavía libre.
+
+## 6. Acto 3 — Nórdkar / El Eco en Bucle: la confirmación (Kael de 30 a 37 años, ~95 capítulos)
+
+- El rastro apunta al continente prohibido VI, **El Eco en Bucle** (`Geografia_del_Mundo.md` sección 4.6) — el lugar que el 13er Trascendido eligió a propósito para intentar Umbral repetidamente sin que el intento fallido quedara registrado como definitivo (`Sistema_del_Rastro.md` sección 10.6.1).
+- Cierre del Volumen I: el protagonista no derrota a nadie ni se vuelve poderoso — confirma que el 13er Trascendido existe y que el "solo hay 12" es, en efecto, falso. El mundo entero descansa sobre un conteo que ya no es cierto.
+- Gancho de cierre de volumen: el 13er Trascendido sigue oculto y nadie más lo sabe todavía — ni siquiera el protagonista llega a saber su identidad. Esa pregunta sostiene el Volumen II en adelante.
+
+**Arcos internos:**
+1. **Llegada a Nórdkar** (30 años, ~10 cap.) — choque cultural con la jerarquía de gremio/nobleza (`Geografia_del_Mundo.md` sección 2.5.2.1); primer contacto con lo que exige llegar hasta El Eco en Bucle.
+2. **Años de entrenamiento III y la espera de la ventana de acceso** (30 → 35 años, ~30 cap.) — el tramo más largo del volumen: las ventanas de acceso al continente VI son impredecibles (`Geografia_del_Mundo.md` sección 4.3), así que el grupo pasa estos 5 años entrenando con la intensidad que exige acercarse a Cárcava de verdad, cazando bestias de mayor nivel para Voluntad y para las Voces, y reabasteciéndose para la expedición más peligrosa del volumen. Hesker Voll y Draeve reaparecen en el radar del grupo durante este tramo, moviéndose también hacia el mismo objetivo.
+3. **Preparativos finales** (35 → 36 años, ~10 cap.) — logística de la expedición (`Geografia_del_Mundo.md` sección 4.3), confirmación de que Hesker Voll y Draeve van también hacia El Eco en Bucle. Tensión creciente dentro del grupo (Ilsa cuestiona, una última vez y en serio, si vale el riesgo).
+4. **El Eco en Bucle** (36 años, ~20 cap.) — exploración del continente en bucle, encuentro con La Quimera de Fragmentos (`Fauna_y_Flora.md` sección 5.2) y los peligros propios de las ruinas que repiten su colapso. Set-piece de combate mayor del volumen.
+5. **Clímax: la carrera de 3 bandos** (36 → 37 años, ~15 cap.) — Kael, Draeve y Hesker Voll convergen sobre la misma huella imposible. Kael no vence a Draeve por poder (regla de escalada, sección 0) ni siquiera después de 20 años de entrenamiento — la resolución depende de usar el propio bucle temporal a su favor mientras Soraya y el grupo cargan el combate físico. Bram tiene su momento de recuperación parcial.
+6. **Confirmación y cierre de volumen** (37 años, ~10 cap.) — Kael confirma que el 13er Trascendido es real sin descubrir su identidad; cruza a Cárcava sacrificando una huella propia ligada a sus padres (`Biblia_de_la_Historia.md` sección 6.2); regreso y gancho de cierre del Volumen I.
+
+## 7. Pendiente por desarrollar
+
+1. Nombre del contacto de la Biblioteca Infinita (Acto 2, arco 2) y el archivo/documento físico exacto que cita.
+2. Bajar este mapa un nivel más: beats capítulo a capítulo dentro de cada arco, cuando se necesite para empezar a escribir prosa — especialmente los 3 bloques de "años de entrenamiento", que necesitarán su propio ritmo interno de montaje (qué se narra en detalle vs. qué se resume).
+3. Escena de apertura concreta del capítulo 1 (Acto 0, beat 1) — el primer párrafo/imagen.
+4. ~~Título de la novela / del Volumen I~~ — resuelto: Volumen I = **"Lo Que Nunca se Borra"** (`Biblia_de_la_Historia.md`, epígrafe).
+5. Si Renn Sodt y otros personajes secundarios menores envejecen visiblemente junto a Kael a lo largo de los 20 años de vida adulta del volumen, o si algunos se quedan atrás/cambian de oficio en algún punto de los años de entrenamiento — no resuelto todavía.

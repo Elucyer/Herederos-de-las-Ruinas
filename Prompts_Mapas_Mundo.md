@@ -1,6 +1,6 @@
 # Prompts para Mapas — "Herederos de las Ruinas"
 
-Set de 7 prompts (1 mapa general + 6 regionales) pensados para generar una serie de mapas consistentes entre sí, alineados con `Geografia_del_Mundo.md` (3 continentes habitados, 22 inhabitados, sistema de portales) y `Fauna_y_Flora.md` (Anclados, bestiario). Usa la **Guía de estilo compartida** como base y pégala (o resúmela) junto con cada prompt regional para mantener coherencia visual.
+Set de 10 prompts (1 mapa general + 9 regionales) pensados para generar una serie de mapas consistentes entre sí, alineados con `Geografia_del_Mundo.md` (3 continentes habitados, 22 inhabitados, sistema de portales) y `Fauna_y_Flora.md` (Anclados, bestiario). Usa la **Guía de estilo compartida** como base y pégala (o resúmela) junto con cada prompt regional para mantener coherencia visual.
 
 ---
 

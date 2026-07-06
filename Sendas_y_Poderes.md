@@ -141,6 +141,28 @@ En vez de extraer la huella de una bestia para consumirla, la usan para domestic
 
 ---
 
+## Resumen rápido: ventaja y desventaja de cada Senda
+
+Para comparar de un vistazo sin reconstruir cada sección — la ventaja es lo que hace única a la Senda dentro del sistema, la desventaja es el límite duro que ninguna progresión de Calado quita del todo.
+
+| Senda | Categoría | Ventaja característica | Desventaja característica |
+|---|---|---|---|
+| **Elementalistas** | Cualquiera (vía Cuenca) | Daño elemental directo y escalable, el más legible y reconocible socialmente | Empieza con una sola afinidad; ampliarla exige un sacrificio con resonancia temática específica, nunca garantizado |
+| **Verdugos del Instante** | III | Arma psicológica/letal devastadora, pasa a reactiva en Sima | Necesita huella ajena previa o contacto para apuntar; encadenar el trauma en Vorágine arriesga contaminar al propio Verdugo |
+| **Invocadores de Eco** | I/III | "Summon" de algo o alguien real del lugar, escala a más duración y número | Frágil (un golpe la disipa) y limitada a lo que el lugar ya recuerda con claridad — no inventa ni mejora |
+| **Ilusionistas / Manipuladores de Emociones** | Cualquiera | Control perceptivo/emocional fuerte, escala a multisensorial y multiobjetivo | Base muy limitada (un sentido, un objetivo); multiobjetivo exige compartir una sola ilusión, no personalizar — solo el Emperador-Trascendido rompe esa regla |
+| **Nigromantes** | I (única) | Único acceso real al "instante final" de una muerte — investigación e intimidación sin equivalente | El eco no comunica información nueva, solo repite lo ya vivido; combativamente casi nula, solo distracción psicológica |
+| **Sanadores** | Cualquiera (con consentimiento) | Cura real, "rebobina" heridas; escala a heridas más viejas y trabajar de memoria | Necesita conocer o haber presenciado el estado sano previo; su versión ofensiva (desrebobinar) es rechazada éticamente por la mayoría |
+| **Rastreadores** | I | La Senda "detective": lee huellas ambientales, escala a leer lo oculto y dar ventaja reactiva en combate | Base limitada a huellas recientes e intensidad media; en combate es puramente reactiva, nunca ofensiva |
+| **Arquitectos de Cauce** | I | Control de terreno único — puede volver el campo de batalla en su contra; restauración permanente desde Cárcava | Base pequeña y temporal; nunca produce daño directo por sí misma |
+| **Custodios** | Cualquiera | Única Senda de defensa pura disponible a cualquier Categoría; escala a proteger grupo en Confluencia | Cero daño ofensivo; depende de cercanía física y se agota tras absorber lo suficiente |
+| **Cantores del Recuerdo** | I/II | Magia social de bajo riesgo, valiosa en ritual, duelo público y propaganda | La más débil en combate de todo el sistema; efecto puramente atmosférico/emocional |
+| **Tejedores de Vínculo** | III (consentimiento) | Control único sobre relaciones humanas (terapia, matrimonios, sabotaje social); arma de oportunidad real en combate | Solo opera sobre vínculos genuinos ya existentes — no puede crear ni falsificar un lazo de la nada |
+| **Arqueólogos** | V | Versatilidad total de efecto según el objeto en mano; cero consecuencia personal del resto de Categorías | Poder fijo a la mitad de un Trazador equivalente; depende por completo de tener el objeto correcto y de agotarlo en el acto |
+| **Profetas del Rastro** | I/IV | Única Senda capaz de prever un Colapso de Era — divinación dura de valor estratégico real | Costo fijo de vida útil que no abarata con el Calado; inútil para decisiones individuales triviales; la Senda más rara del sistema |
+| **Curtidores de Alma** | II/IV | Único método de lectura certera de Calado ajeno y manipulación directa de Grietas — peso médico y político real | Solo puede tocar almas de Calado igual o menor al propio; pésimos en combate abierto, necesitan contacto sostenido |
+| **Domadores** | III/IV | Crean compañeros permanentes y transferibles — el único mercado de poder vinculado del sistema | Vínculo inicial lento, no instantáneo; limitado a bestias por debajo de Nivel 15 hasta cruzar Sima |
+
 ## Pendiente por desarrollar
 
 1. Si alguna Senda no listada aquí pero mencionada de forma genérica en `Sistema_del_Rastro.md` necesita su propia entrada al aparecer en la trama.
