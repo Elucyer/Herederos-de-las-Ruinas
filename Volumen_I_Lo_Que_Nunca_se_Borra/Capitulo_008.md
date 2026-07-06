@@ -46,6 +46,28 @@ Kael sintió, por primera vez desde que había despertado su Marca, que su Categ
 
 —Suficiente por hoy —dijo Ressk finalmente, cuando el sol ya empezaba a bajar tras los muros del patio interior—. No quiero que ninguno se agote intentando forzar más de lo que el cuerpo puede dar en un solo día. Eso es, de hecho, una de las primeras lecciones reales que tienen que aprender: el entusiasmo es bueno, pero la prisa es lo que más Trazadores débiles termina rompiendo antes de tiempo.
 
+Esa misma semana, Ressk dedicó una sesión entera a teoría, sin un solo objeto sobre las mesas por primera vez desde que habían empezado.
+
+—Antes de que alguno de ustedes se encamine, quiero que sepan hacia qué —dijo, apoyado contra el muro del patio interior, con los seis aprendices sentados en semicírculo frente a él—. Cuando su alma se decida, y va a decidirse sola, sin pedirles opinión, tomará uno de tres caminos. En la calle los llaman los que rozan, los que extraen y los que reescriben. Los nombres de archivo son más elegantes y nadie los va a usar con ustedes jamás, así que aprendan estos.
+
+Levantó un dedo.
+
+—Los que rozan toman las huellas de los lugares y de las cosas: la historia que un sitio acumula con los años. Es el camino más seguro para el alma, y el que menos respeto impone en una taberna, lo cual debería importarles exactamente nada. —Segundo dedo—. Los que extraen pagan con lo propio: sus recuerdos, sus momentos, su propia vida como combustible. Es el material más poderoso que existe, y el precio es el que se están imaginando. En cada generación hay Extractores que gastan de más, y a lo que queda de ellos... —Ressk se detuvo un instante, eligiendo las palabras con más cuidado del habitual—. Recuerdan todo. No sienten nada. La gente los llama Cáscaras, y les deseo de corazón que ninguno tenga que ver uno de cerca. —Tercer dedo—. Y los que reescriben toman de los demás. Con permiso, es un oficio como cualquier otro. Sin permiso, es la razón de que exista la mitad de las leyes que regulan a los Trazadores en los tres continentes.
+
+—¿Se puede elegir? —preguntó Dessen.
+
+—No. Y agradézcanlo: la gente elige mal casi todo, y esto es demasiado importante.
+
+—¿Y la cuarta? —preguntó otro de los aprendices—. La que usted mencionó el otro día.
+
+—La cuarta ni se elige ni se enseña. Si alguno de ustedes resultara ser eso, el Instituto lo sabría antes que ustedes mismos, y esa conversación la tendrían con gente mucho más importante que yo. —Ressk se apartó del muro—. Tres caminos. Los que existen para la gente como nosotros. Y una cosa más, la última teoría del día, porque es la que ningún manual pone en la primera página: van a escuchar hablar del Techo. Cada alma tiene un límite de cuánta Voluntad puede llegar a entrenar, fijado desde el Momento Ancla, y no hay método, maestro ni núcleo de bestia que lo mueva un dedo. Nadie conoce el suyo hasta que lo alcanza. Y cuando lo alcanza, no suena ninguna campana: simplemente dejas de avanzar, y pasas años sin saber si es el Techo, o el método, o la mala suerte.
+
+—¿Y usted...? —empezó Dessen, y se arrepintió a media frase.
+
+—Yo dejé de avanzar en Cuenca hace veinte años —dijo Ressk, con una naturalidad que costaba más de lo que aparentaba—. Todavía no sé cuál de las tres cosas fue. Esa incertidumbre es parte del oficio, y quien no pueda vivir con ella hará bien en quedarse en Filtración, donde se vive perfectamente sin averiguarlo nunca.
+
+Nadie dijo nada después de eso, y Ressk, con la misma voz tranquila de siempre, los despidió hasta la próxima sesión.
+
 En las semanas siguientes, las sesiones con Ressk dejaron de centrarse en objetos sueltos y empezaron a incluir ejercicios más largos: extraer la misma huella varias veces seguidas sin agotarse, distinguir entre una huella "fresca" —de algo ocurrido recientemente— y una huella "vieja", asentada durante años en el mismo objeto. Kael descubrió que tenía una facilidad particular para esto último, algo que Ressk no dejó de notar.
 
 —Tienes buen oído para lo viejo —le dijo, una tarde tranquila de entrenamiento, mientras Kael lograba distinguir, sin error, tres capas distintas de huella superpuestas en una misma piedra del patio—. La mayoría de los aprendices Categoría I se especializan en huellas recientes primero, porque son más intensas, más fáciles de sentir. Tú pareces ir al revés.
@@ -58,7 +80,7 @@ En las semanas siguientes, las sesiones con Ressk dejaron de centrarse en objeto
 
 —Eso no lo decide nadie todavía, ni siquiera tú mismo. —Ressk lo miró con una seriedad que Kael ya empezaba a reconocer como genuina, no como mera formalidad de instructor—. Pero si tuviera que apostar, diría que tu oficio futuro y tu forma de sentir las huellas combinan bien. Un Explorador necesita justo este tipo de paciencia con lo viejo: saber leer un lugar que lleva siglos sin que nadie lo toque, y entender qué pasó ahí antes de que tú llegaras.
 
-Kael guardó esa conversación con el mismo cuidado con que guardaba todas las piezas sueltas de información que el mundo le ofrecía, sintiendo que, poco a poco, las distintas partes de su vida —el oficio que quería, la Categoría que había despertado, la paciencia que ya tenía desde niño por simple necesidad— empezaban a alinearse en una misma dirección, en vez de sentirse como fragmentos separados que solo coincidían por casualidad, sin ningún hilo real que los conectara entre sí.
+Kael se quedó dándole vueltas a esa conversación el resto del día, sintiendo que, poco a poco, las distintas partes de su vida —el oficio que quería, la Categoría que había despertado, la paciencia que ya tenía desde niño por simple necesidad— empezaban a alinearse en una misma dirección, en vez de sentirse como fragmentos separados que solo coincidían por casualidad, sin ningún hilo real que los conectara entre sí.
 
 Esa noche, de vuelta en el dormitorio, le contó a Tamsin lo que había pasado, describiendo con todo el detalle posible la sensación exacta del candil encendiéndose bajo su voluntad, y ella, que llevaba un año entero sin mostrar ningún signo de Momento Ancla propio, lo escuchó con una atención que no disimulaba del todo la melancolía de saber que su camino y el de Kael, sin que ninguno de los dos lo hubiera decidido, ya empezaban a separarse.
 
@@ -66,7 +88,7 @@ Esa noche, de vuelta en el dormitorio, le contó a Tamsin lo que había pasado, 
 
 —No tiene por qué ser así —dijo Kael, incómodo de pronto con la idea—. Tú también puedes encontrar tu propio camino. No todo el mundo necesita una Marca para que su vida importe.
 
-—Lo sé. —Tamsin sonrió, una sonrisa pequeña pero genuina—. No estoy triste por eso, Kael. Solo estoy siendo honesta sobre cómo van a ser las cosas. Tú vas a entrenar, vas a cruzar rutas, vas a tener historias que contar. Yo probablemente termine en algún taller, o en uno de los centros de producción, viviendo una vida mucho más tranquila que la tuya. Y está bien. No todos necesitamos la misma clase de vida para sentirnos completos.
+—Lo sé. —Tamsin sonrió, una sonrisa pequeña pero genuina—. No estoy triste por eso, Kael. Solo estoy siendo honesta sobre cómo van a ser las cosas. Tú vas a entrenar, vas a cruzar rutas, vas a tener historias que contar. Yo he empezado a ayudar en la biblioteca, ¿sabías? El bibliotecario dice que tengo memoria de archivo, que es su manera elegante de decir que me acuerdo de dónde va cada cosa sin que me lo repitan dos veces. No es cruzar rutas. Pero los libros no te preguntan quién era tu padre, y alguien tiene que acordarse de dónde queda guardado todo lo que ustedes van a traer de vuelta. Y está bien. No todos necesitamos la misma clase de vida para sentirnos completos.
 
 Kael no supo qué responder a eso del todo.
 

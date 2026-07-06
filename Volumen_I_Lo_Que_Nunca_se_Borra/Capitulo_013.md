@@ -12,7 +12,21 @@ Kael firmó donde le indicaron, con una mano que no estaba del todo segura de no
 
 —Esto ha estado aquí desde que tus padres fueron declarados desaparecidos —dijo el hombre, bajando con cuidado, sosteniendo la caja con ambas manos como si su peso real fuera mayor del que aparentaba—. Por protocolo, ningún menor puede reclamar equipo de campo de un familiar caído hasta cumplir la edad suficiente para portarlo en una expedición real. Hoy la cumples.
 
-Colocó la caja sobre el mostrador y la abrió con un pequeño mecanismo de cierre que cedió con un chasquido seco, liberando un leve olor a madera vieja y aceite de mantenimiento que llevaba años sellado en su interior.
+Dejó la caja sobre el mostrador, pero antes de abrirla acercó de nuevo el libro de custodias para anotar la entrega. Fue entonces cuando Kael, siguiendo la pluma del hombre con la vista, se fijó en la página completa por primera vez. La custodia Doran tenía tres líneas: el depósito, fechado hacía doce años; la entrega de hoy, con su propia firma todavía fresca; y entre las dos, una tercera línea que no tenía por qué estar ahí. *Apertura y devolución*, decía, con fecha de hacía unos siete años — y en el espacio reservado al nombre del solicitante, en vez de una firma, un simple código: **R-VA-117**.
+
+—¿Qué es esa línea del medio? —preguntó.
+
+El administrador se ajustó los anteojos y miró donde Kael señalaba.
+
+—Apertura administrativa. Una auditoría de inventario, supongo — cada tantos años se comprueba que el contenido de las custodias coincida con el registro. —Frunció el ceño, apenas, releyendo la línea—. Aunque es raro, ahora que lo dices. Las auditorías se firman con nombre. Y en nueve años en este puesto, no recuerdo ninguna que haya tocado una custodia familiar.
+
+—¿Se puede saber de quién es el código?
+
+—Desde aquí, no. Los códigos de autorización se emiten en el registro central, en Vel Aris. —Cerró el libro con la naturalidad de quien da un tema por agotado—. No le des importancia, Doran. Quien haya abierto esta caja, la devolvió completa: el inventario coincide pieza por pieza con el del depósito. Eso es lo único que a ti debería importarte hoy.
+
+Kael no dijo nada más. Pero mientras el hombre buscaba la llave del mecanismo de cierre, sacó su cuaderno y copió el código en la última página, junto al *Sector 7-Delta* y todas las demás piezas sueltas que todavía no encajaban en nada.
+
+El administrador abrió por fin la caja con un pequeño mecanismo de cierre que cedió con un chasquido seco, liberando un leve olor a madera vieja y aceite de mantenimiento que llevaba años sellado en su interior.
 
 Dentro, sobre un paño oscuro ya algo desteñido por los años, descansaban dos revólveres gemelos.
 
@@ -76,7 +90,19 @@ Tamsin tomó una de las dos con cuidado, sopesándola entre sus manos, sintiendo
 
 —Quizás no importa tanto saber cuál era de quién —dijo Tamsin, devolviéndole el revólver con el mismo cuidado con que lo había tomado, casi como si temiera dañar algo invisible al manipularlo—. Importa que ahora son tuyas las dos. Que vas a llevarlas juntas, como ellos las llevaron juntos durante años.
 
-Kael guardó esa frase con el mismo cuidado con que guardaba cualquier pieza de sabiduría improvisada que Tamsin le ofrecía sin proponérselo, sintiendo que, de algún modo, ella siempre encontraba la forma correcta de decir lo que él mismo no lograba articular del todo.
+Kael no respondió enseguida. Tamsin siempre encontraba la forma correcta de decir lo que él mismo no lograba articular.
+
+—Yo también tengo algo que contarte —dijo ella entonces, con una mezcla de orgullo y pudor que Kael no le conocía—. Ayer hice mi primer Saldo. Uno de verdad.
+
+—¿Cómo que hiciste un Saldo? El Saldo lo hace la familia.
+
+—Cuando hay familia. —Tamsin se abrazó las rodillas—. Murió uno de los viejos del ala de mantenimiento. Cuarenta años limpiando calderas del Instituto, sin mujer, sin hijos, sin nadie. Antes lo habrían enterrado con dos frases del administrador de turno y listo. Pero la Maestra Korr se acordó de mi discurso del Día de los Caídos —el de la Exploradora que me inventé— y me lo pidió a mí: que preguntara por él a quienes lo conocieron, y que contara su Saldo. Pasé dos días juntando momentos con la gente de mantenimiento. Que silbaba desafinado. Que alimentaba a un gato al que le puso el nombre de un supervisor que odiaba. Que una vez cruzó medio distrito a pie, de noche, para avisarle a una viuda antes de que la lista oficial la golpeara sin aviso. —Se quedó un momento callada—. Y anoche lo conté todo, en el patio de calderas, delante de los que quisieron venir. Vinieron muchos más de los que esperaba.
+
+Kael la miró en la penumbra, entendiendo de pronto algo que llevaba años delante de él sin nombre: que Tamsin, que no tenía una sola historia propia que contar de su padre, llevaba toda la vida entrenándose para guardar las de los demás.
+
+—Vas a ser eso —dijo—. La que guarda.
+
+—Alguien tiene que serlo. Ustedes los Trazadores gastan historia para hacer sus cosas. —Lo dijo sin acusación, casi con ternura—. Alguien tiene que quedarse de este lado, apuntando lo que no debería gastarse.
 
 —¿Tienes miedo? —preguntó ella, después de un momento, guardando las Voces de nuevo en su estuche con el mismo cuidado que Kael había empleado al sacarlas.
 

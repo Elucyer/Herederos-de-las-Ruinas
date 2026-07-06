@@ -21,4 +21,4 @@
 | 013 | Lo que volvió a sus manos | 6. 17 años — entrega de las Voces |
 | 014 | La última noche en que nada pasó | 6. 17 años — víspera del examen |
 
-Estado: **completo, pendiente de revisión del autor.**
+Estado: **completo, pendiente de revisión del autor.** Pase editorial aplicado: semillas de misterio en caps. 001, 002, 005, 006, 009 y 013 (inventario en `Mapa_Volumen_1.md` sección 3.1); viñetas de lore (escala de la ciudad, El Saldo, rareza del despertar, mapa del mundo, Categorías/Techo, escala de bestias, Marcas de Grieta, Tres Poderes/Artífices, las Eras) en caps. 002, 003, 005, 006, 008, 010, 011, 012 y 014; arco de Tamsin (biblioteca → aprendiz de archivo → primer Saldo) en caps. 008, 011, 013 y 014.

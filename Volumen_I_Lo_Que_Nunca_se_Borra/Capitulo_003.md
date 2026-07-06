@@ -68,7 +68,21 @@ Kael giró la cabeza para mirarla en la penumbra. Apenas distinguía el contorno
 
 —¿Y si alguien pregunta detalles que no tienes pensados?
 
-—Entonces invento más rápido de lo que ellos preguntan. —Se rió de su propia respuesta, una risa nerviosa que delataba más inseguridad de la que admitía—. Es broma. Más o menos.
+—Entonces invento más rápido de lo que ellos preguntan. —Se rió de su propia respuesta, una risa breve y nerviosa—. Es broma. Más o menos.
+
+—¿Dónde aprendiste eso? —preguntó Kael, medio en broma—. Lo de llorar a alguien inventado como si fuera un oficio.
+
+Tamsin tardó en responder, y cuando lo hizo, su voz había cambiado un poco.
+
+—De las vecinas de mi madre. Cuando ella murió, le hicieron el Saldo. ¿Sabes lo que es?
+
+—He oído el nombre. —Lo había oído en la calle, en boca de adultos, siempre en voz baja: *le hicieron el Saldo*, dicho como quien dice que a alguien le cerraron los ojos.
+
+—Es lo que hace la gente que no tiene magia, que es casi toda la gente —dijo Tamsin—. Cuando alguien muere, los que lo conocieron se juntan y cuentan sus momentos en voz alta. Uno por uno. La vez que hizo tal cosa, el día que dijo tal otra. Todo lo que se pueda contar se cuenta, aunque tome la noche entera. Dicen que lo que se cuenta en el Saldo queda sellado en los que escuchan, y que mientras alguien vivo pueda repetirlo, esa persona no terminó de irse del todo. —Hizo una pausa—. Yo tenía seis años. No me dejaron contar nada, era muy pequeña. Me acuerdo de estar sentada en un rincón, escuchando a esas mujeres contar cosas de mi madre que yo no sabía, y de pensar que se la estaban repartiendo. Tardé años en entender que era al revés. Me la estaban guardando.
+
+—¿Y tu padre? Nadie hizo un Saldo por él.
+
+—No se puede hacer el Saldo de alguien de quien no se sabe nada. Esa es la regla que nadie dice en voz alta: el Saldo solo guarda lo que alguien recuerda. —Tamsin se acomodó contra la almohada—. Por eso el viernes voy a inventarle una historia entera a una Exploradora que no existió. Porque sé exactamente lo que se siente que no haya nada que contar.
 
 Se quedaron en silencio un rato más, escuchando los sonidos habituales del Ala Norte de noche: el viento contra los cristales reforzados, el quejido lejano de una de las tuberías de vapor que calentaban el edificio, la respiración pareja de los otros veinte niños que ya se habían dormido sin necesidad de pensar en nada de esto. En algún punto del cuarto, alguien hablaba en sueños, una serie de palabras inconexas que nadie más que el propio durmiente podría interpretar, y en algún otro rincón, alguien más giraba bajo las mantas con la inquietud propia de un sueño que no terminaba de ser tranquilo.
 

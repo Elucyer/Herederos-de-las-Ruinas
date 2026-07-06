@@ -42,6 +42,22 @@ Vannel se detuvo. Algunos compañeros giraron la cabeza, esperando la reprimenda
 
 No era una respuesta completa, y Kael lo sabía. Pero el Instructor Vannel tenía una regla tácita: nunca daba la respuesta entera de una sola vez, porque decía que una respuesta entera, sin que el aprendiz tuviera que ganarse el resto, no se quedaba en la cabeza de la misma forma. Kael anotó la frase en el margen de su cuaderno, junto a otras docenas de respuestas a medio terminar que llevaba acumulando desde que había empezado a hacer ese tipo de preguntas, un cuaderno que ya llenaba su segunda libreta porque la primera se había quedado sin páginas en blanco mucho antes de lo esperado.
 
+Fue otro aprendiz, esta vez, quien hizo la pregunta que desvió la clase — un chico de la fila del fondo que quiso saber por qué, si el Instituto llevaba generaciones cartografiando Cumbresenda, el mapa oficial de la ciudad seguía teniendo bordes en blanco.
+
+Vannel caminó hasta el gran mapa que colgaba junto a la pizarra —el mismo que llevaba ahí desde antes de que ninguno de ellos naciera, amarillento, con la escuela marcada con un alfiler rojo diminuto en medio de una mancha de calles que se iba deshaciendo hacia los bordes en trazos cada vez más tentativos, hasta volverse papel vacío.
+
+—Porque un mapa completo de Cumbresenda no existe, ni va a existir mientras ustedes vivan —dijo, sin dramatismo, como quien informa del clima—. Escuchen bien esto, porque es la primera lección real de geografía que van a recibir: toda ciudad es más grande que la vida de quien la habita. ¿Alguno sabe cuánto tardaría un tren en cruzar esta ciudad de punta a punta, sin detenerse nunca, sin recargar, sin dormir?
+
+Nadie respondió. Vannel golpeó el mapa con el dorso de los dedos, justo en el borde donde los trazos se rendían.
+
+—Veinte años, dice la leyenda. Cinco en globo, volando recto, si el viento y la suerte acompañaran cada día del trayecto. Y digo *leyenda* porque nadie lo ha hecho jamás: no existe registro, en ningún archivo del Instituto, de una sola persona que haya visto los dos extremos de esta ciudad con sus propios ojos. Los números exactos se los inventó el folclore. Lo que no se inventó es esto: ninguno de ustedes, ni sus nietos, ni los nietos de sus nietos, va a conocer completa la ciudad donde nació.
+
+—¿Entonces para qué cartografiamos? —preguntó el mismo chico del fondo, con más valentía que tacto.
+
+—Esa —dijo Vannel, y por primera vez en toda la mañana algo parecido a una sonrisa le cruzó la cara— es la primera pregunta inteligente del día. Piénsenla hasta la próxima clase. Y de paso piensen esta otra: si los trenes que van a Eltar tardan semanas en llegar, y cruzar nuestra propia ciudad tardaría veinte años... ¿qué les dice eso sobre por dónde pasan las vías de larga distancia, y por dónde no pasarán nunca?
+
+Kael pasó el resto de la hora dándole vueltas a esa segunda pregunta, y la respuesta que se le ocurrió —que las rutas entre ciudades no salían del centro de nada, sino del borde correcto hacia el borde correcto, y que por lo tanto había distritos enteros, océanos de ciudad, por donde ninguna vía de larga distancia pasaría jamás— le pareció tan enorme que la anotó en el cuaderno con un signo de interrogación al lado, para ganarse el resto otro día.
+
 La clase siguió su curso —franjas climáticas, rutas conocidas, el nombre de las tres Instituciones y su reparto de continentes, una lección que Kael ya se sabía de memoria desde mucho antes de entrar a esa aula, repetida con tanta frecuencia a lo largo de los años que algunos compañeros bostezaban abiertamente sin que Vannel se molestara en corregirlos—, y cuando por fin sonó la campana que marcaba el cambio de hora, salió al patio con la cabeza todavía llena de la respuesta a medias del instructor.
 
 El patio de la Escuela de Formación, a esa hora, era un hervidero de uniformes grises moviéndose entre las columnas de piedra que sostenían el ala principal. Grupos de aprendices se formaban y se deshacían según edades, según amistades, según el simple azar de quién se cruzaba primero con quién al salir del aula. Kael cruzó hacia el rincón donde solía sentarse a comer su ración del mediodía —pan, queso curado, algo de fruta seca que llegaba en los mismos trenes que traían el equipo de expedición— cuando una voz conocida, y no precisamente bienvenida, lo interceptó a medio camino.
@@ -89,9 +105,23 @@ Pasó los dedos sobre la tinta, como si pudiera sentir algo a través del papel,
 
 —Nunca hay actualizaciones en esos casos, Doran. Lo sabes.
 
-—Lo sé. Igual prefiero comprobarlo.
+—Lo sé. Igual prefiero comprobarlo. —Kael dudó un momento, con el dedo todavía sobre la página—. ¿Puedo preguntarle algo? Esta marca, junto a la entrada. —Señaló el pequeño sello de tinta azulada estampado en el margen, un círculo con tres líneas cruzadas, apenas del tamaño de una uña. Llevaba más de un año viéndolo sin mirarlo de verdad, asumiendo que era una formalidad más del archivo—. Ninguna otra entrada de la página lo tiene. ¿Qué significa?
 
-El bibliotecario no dijo nada más. Se limitó a esperar, con la paciencia de quien ha visto pasar a suficientes huérfanos del Ala Norte haciendo exactamente lo mismo a lo largo de los años, hasta que Kael cerró el libro despacio y lo devolvió.
+El bibliotecario se inclinó sobre el volumen, y por un momento su amabilidad cansada se volvió algo más despierto.
+
+—Es un sello de revisión de archivo. Significa que alguien cotejó esta entrada contra el expediente original y la dio por correcta. —Frunció apenas el ceño—. Es raro verlo en un registro de expedición menor, si te soy honesto. Esa revisión se reserva para documentos que alguien con autoridad consideró que valía la pena verificar. O corregir.
+
+—¿Corregir?
+
+—Verificar —repitió el bibliotecario, como si la primera palabra se le hubiera escapado sin permiso—. No le des demasiadas vueltas, Doran. El Instituto tiene sellos para todo; la mitad de las veces ni ellos mismos recuerdan para qué sirve cada uno.
+
+Kael cerró el libro despacio y lo devolvió. Ya se daba la vuelta cuando el bibliotecario volvió a hablar, con el tono de quien lleva un rato decidiendo si decir algo o no.
+
+—No eres el único que ha pedido este volumen, ¿sabes? Hace años, antes de que tú empezaras a venir, una mujer lo consultaba de vez en cuando. Exploradora, por el uniforme de campo. Nunca dijo qué buscaba, y un día simplemente dejó de venir.
+
+—¿Recuerda su nombre?
+
+—Nunca lo dio. —El bibliotecario se encogió de hombros, volviendo ya a sus papeles—. Solo recuerdo que leía la misma página mucho más tiempo del que hace falta para leerla. Igual que tú.
 
 Caminó de vuelta al dormitorio mientras el sol empezaba a esconderse detrás de las terrazas más altas de Cumbresenda, pintando de naranja las vías del ferrocarril que cruzaban la ciudad como cicatrices de luz. Pasó junto al patio de honor, donde las banderas viejas de cohortes graduadas colgaban inmóviles en el aire frío de la tarde, y se preguntó, no por primera vez, si alguna de esas telas desteñidas llevaría alguna vez el nombre de sus padres bordado en algún rincón que nadie se hubiera detenido a leer con suficiente atención.
 
@@ -105,4 +135,4 @@ Esa noche, durante la cena, le contó a Tamsin lo que el Instructor Vannel le ha
 
 —Funciona mejor que quedarse sin preguntar nunca nada.
 
-Tamsin no pudo discutirle eso, y la cena terminó entre risas tranquilas, las últimas de un día que, sin que ninguno de los dos lo notara especialmente, había sido como cualquier otro.
+Tamsin no pudo discutirle eso, y la cena terminó entre risas tranquilas. Fue solo más tarde, en la oscuridad del dormitorio, cuando Kael cayó en cuenta de que no le había contado ni lo del sello ni lo de la mujer del uniforme — y de que no habría sabido explicar por qué. Era la primera pieza en seis años que no encajaba del todo en la historia oficial de sus padres. Y algo en él, sin pedirle permiso a nadie, ya había decidido guardársela.

@@ -56,6 +56,34 @@ El comerciante terminó aceptando el precio, a regañadientes, y Kael se alejó 
 
 Siguió explorando, perdiéndose deliberadamente por callejones que no figuraban en ningún mapa que hubiera visto antes, descubriendo rincones del distrito comercial que no parecían existir en ninguna guía oficial: un patio interior donde se vendía solo equipo usado de expediciones fallidas —cuerdas con cortes sospechosos, cantimploras abolladas, un casco de cuero con una grieta que nadie se atrevía a explicar del todo—; una pequeña plaza donde un grupo de niños jugaba una versión simplificada de cartografía con piedras y tiza, trazando rutas imaginarias sobre el suelo de adoquines; un puesto solitario, casi escondido entre dos edificios más grandes, donde un anciano vendía pequeños amuletos tallados en madera de Acero-Vivo importada de Nórdkar, jurando que protegían contra la mala suerte en cualquier ruta, aunque ningún Trazador respetable admitiría jamás creer en algo así en voz alta.
 
+Fue en uno de esos callejones donde encontró el puesto de los mapas. No los mapas de ruta de las calles principales, actualizados cada temporada y caros como el buen equipo — este puesto vendía reimpresiones baratas, cartas viejas, curiosidades para coleccionistas sin dinero. Y ahí, colgado con dos pinzas de madera en la pared del fondo, estaba el primer mapa del mundo entero que Kael veía en su vida.
+
+—El mundo conocido —dijo el vendedor, siguiendo su mirada—. Veinticinco continentes. Los tres grandes son los nuestros: Avar, aquí, donde estamos tú y yo. Sylvaris, el de los ríos. Nórdkar, el del hielo. Las líneas doradas entre los tres son los portales — por ahí se cruza en horas lo que un barco no cruzaría en generaciones.
+
+—¿Y los otros veintidós?
+
+—Inhabitados. —El vendedor lo dijo con el tono práctico de quien repite una lección de escuela—. Que no es lo mismo que vacíos, chico. Cada uno tiene nombre, y cada nombre se lo ganó. —Fue señalando manchas de tinta en los bordes del mapa, cada una más lejos de las líneas doradas—. Los Filos de Cristal, donde el suelo entero es huella cristalizada de hace eras. El Durmiente, que dicen que no es un continente sino una criatura del tamaño de uno, dormida desde antes de que las eras se contaran — hay quien jura que existen asentamientos sobre su lomo, aunque yo no conozco a nadie que lo haya visto. El Eco en Bucle, donde el mismo desastre lleva repitiéndose desde la Segunda Era, día tras día, como una campana que nadie puede parar. A algunos se puede entrar, cuando se abre ventana de acceso. Los Exploradores de verdad, los que vuelven ricos o no vuelven, es ahí donde van.
+
+—¿Cuánto cuesta el mapa?
+
+—Más de lo que llevas encima, por la cara que pones. —El vendedor se encogió de hombros, sin crueldad—. Míralo el rato que quieras. Mirar es gratis, y a tu edad conviene: es la única forma de viajar que no cobra por adelantado.
+
+Kael se quedó frente al mapa hasta aprendérselo — la forma de los tres continentes, las líneas doradas de los portales, los nombres de los bordes—, y esa noche lo dibujaría de memoria en su cuaderno, torcido y fuera de escala, con la letra apretada de quien copia algo que no quiere perder.
+
+Fue en el patio del equipo usado donde lo vio: un hombre que no encajaba. No por la ropa —vestía como cualquier viajero acomodado, abrigo largo, botas buenas— sino por la forma en que tocaba las cosas. Llevaba guantes finos de cuero pese a que la tarde no estaba fría, y los mantenía puestos mientras revisaba el equipo con la vista, apartando cuerdas y cantimploras sin ningún interés real. Solo de vez en cuando, frente a una pieza concreta, se quitaba el guante derecho con un gesto práctico, apoyaba dos dedos desnudos sobre el objeto durante apenas un segundo, y volvía a ponérselo.
+
+—¿Busca algo en particular? —le preguntó el vendedor, con el tono de quien ya ha decidido que ese cliente tiene dinero.
+
+—Historia —dijo el hombre, sin levantar la vista—. Cosas que vengan de ruinas, no de rutas. Cuanto más vieja, mejor. Lo demás es óxido con precio.
+
+Terminó comprando una sola pieza: una hebilla de bronce deformada, medio fundida por algo que no parecía fuego común, que el vendedor le dejó por dos Marcas con cara de estar ganando en el trato. El hombre pagó sin regatear, y por la forma cuidadosa en que envolvió la hebilla en un paño antes de guardarla —la misma con que el Instituto guardaba las cosas que de verdad importaban—, Kael tuvo la certeza de que el vendedor acababa de perder algo sin enterarse.
+
+Al pasar junto a él, el hombre lo miró un instante, notando el uniforme gris.
+
+—Aprende esto gratis, chico —dijo, con una media sonrisa que no llegaba a los ojos—: todo objeto guarda algo. La mayoría de la gente solo ve el óxido.
+
+Se perdió entre los puestos antes de que Kael pudiera decidir si la frase había sido un consejo o una burla.
+
 En un puesto de comida humeante, gastó dos de sus pocas Marcas en una ración caliente que olía a especias que no reconocía, y se sentó en un peldaño de piedra a comerla mientras observaba el ir y venir del mercado. Notó, sin proponérselo, los pequeños detalles que distinguían a quien tenía dinero de quien no: las botas nuevas frente a las botas remendadas, los que pagaban sin mirar el precio frente a los que regateaban cada Marca, los niños que acompañaban a sus padres comerciantes con ropa abrigada de buena calidad frente a los aprendices del Instituto, fácilmente reconocibles por el uniforme gris, que cruzaban el mercado en pequeños grupos contando cada moneda dos veces antes de gastarla.
 
 Él era, sin remedio, de los segundos.

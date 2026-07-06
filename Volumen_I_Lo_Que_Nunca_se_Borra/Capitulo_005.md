@@ -66,6 +66,16 @@ Korr lo consideró un momento, con la misma seriedad que dedicaba a cualquier pr
 
 —Nadie lo sabe con certeza, Kael. Ni los archivos más antiguos de la Biblioteca Infinita tienen una respuesta completa para eso. Es una de esas cosas que el mundo todavía no nos ha explicado del todo, por mucho que llevemos generaciones intentando entenderla.
 
+»Lo que sí se sabe —añadió, tras un momento, quizá porque la cara de Kael dejaba claro que esa respuesta no le alcanzaba— es lo raro que es. Los archivos hablan de un despertar por cada billón de personas, y es uno de esos números que no significan nada hasta que se viven: hay distritos enteros de esta ciudad donde no ha despertado nadie en diez generaciones, donde la magia es algo que sale en las historias de taberna y nada más. Todo el mundo carga la Marca dormida, igual que todo el mundo tiene un tipo de sangre — y casi nadie, en toda su vida, la verá despertar en alguien que conozca.
+
+—¿Entonces por qué...? —Kael dejó la pregunta a medias, pero Korr la entendió entera.
+
+—¿Por qué esta escuela ve más Momentos Ancla que un distrito entero de gente común? —Se quedó un momento en silencio, como decidiendo cuánta verdad cabía en un día como ese—. Por quiénes duermen en ella, Kael. Hijos de Exploradores. Hijos de Trazadores caídos en servicio. La probabilidad se hereda a medias — nunca la certeza, ningún hijo de Trazadores tiene el despertar garantizado, pero la balanza se inclina. El Instituto no lo dice en voz alta, y yo no te lo voy a repetir fuera de este cuarto: este dormitorio es muchas cosas, y una de ellas es el lugar donde el Instituto espera a que la sangre de los que perdió haga lo que la sangre hace. —Hizo una pausa—. En este dormitorio han dormido cientos de niños desde que yo llegué. Tú eres el segundo que despierta bajo mi cuidado.
+
+—¿El segundo? —Kael levantó la vista—. ¿Quién fue el primero?
+
+—Alguien que ya no está aquí, y esa historia no es para hoy. —Korr se levantó, alisándose el uniforme, y ya en la puerta se detuvo un momento—. Un consejo más, y es gratis. Vas a notar que los adultos no dicen la palabra "Ancla" cerca de los niños pequeños. Unos, porque creen que nombrarla la atrae antes de tiempo. Otros, porque creen que nombrarla la espanta. Llevan siglos sin ponerse de acuerdo en cuál de las dos cosas es cierta, lo que debería darte una idea bastante exacta de cuánto entendemos de verdad sobre todo esto.
+
 Esa noche, cuando por fin volvió al dormitorio, encontró a Tamsin sentada en su cama, esperándolo despierta a pesar de que ya hacía rato que debía dormir.
 
 —Todo el Ala Norte está hablando de eso —dijo, sin rodeos—. ¿Es verdad? ¿Despertaste?
@@ -113,3 +123,27 @@ Tamsin no tuvo una respuesta inmediata para eso, y ambos se quedaron un momento 
 —Que nunca has sabido soltar una pregunta una vez que la tienes —dijo Tamsin, con una sonrisa cansada que se adivinaba más por el tono de voz que por la poca luz del cuarto—. Y ahora la pregunta más grande de tu vida acaba de instalarse dentro de ti mismo. No me sorprende nada que prefieras entenderla antes que tenerle miedo sin más.
 
 Se acostó en su propia cama después de eso, y Kael hizo lo mismo, ambos en silencio, escuchando los mismos sonidos de siempre del Ala Norte —el viento, las tuberías, la respiración ajena de los demás niños— pero por primera vez en su vida sintiendo que esa habitación, ese dormitorio, esa ciudad entera que se extendía más allá de la ventana hacia un oeste que nunca terminaba de aclararse, ya no era exactamente el mismo lugar en el que se había despertado esa mañana.
+
+---
+
+Tres días después, la Maestra Korr fue a buscarlo al final de las clases y, sin explicarle a dónde iban, lo llevó de vuelta al patio principal. El banco seguía donde siempre, idéntico a como había sido durante toda la vida de Kael: piedra gris, bordes gastados, la superficie pulida por generaciones de aprendices.
+
+—Tócalo —dijo Korr.
+
+—¿No es peligroso?
+
+—Ya no. Eso es exactamente lo que quiero que entiendas. Tócalo.
+
+Kael apoyó la palma sobre la piedra fría, preparándose para el temblor, el cosquilleo, la puerta abriéndose otra vez. No pasó nada. La piedra era solo piedra: fría, áspera, muda de una forma que no supo describir, porque nunca había sabido que las cosas pudieran sonar hasta que dejaban de hacerlo.
+
+—No hay nada —dijo.
+
+—No. Ya no hay nada. —Korr se sentó en el banco, sin ninguna ceremonia, y le hizo un gesto para que se sentara a su lado—. Esos dos niños que viste. Llevaban ahí décadas, quizá más. Cada aprendiz que se sentó en este banco durante todos esos años se sentó, sin saberlo, al lado de esa risa. Y ya no está. La gastaste tú, en un solo instante, para algo que ni siquiera decidiste hacer.
+
+Kael retiró la mano despacio, como si la piedra pudiera acusarlo.
+
+—No fue mi intención.
+
+—Lo sé. Por eso te lo enseño ahora, antes de que tengas intenciones. —Korr miró el patio, las banderas descoloridas, los muros que llevaban siglos acumulando tardes—. Esto es lo que somos los que tocamos el Rastro, Kael. Cada cosa que hacemos la paga algo que no puede protestar. Un lugar, un objeto, una historia que estaba ahí y deja de estar. La gente cree que la magia es lo que se ve: la luz, el eco, el truco. La magia es esto. —Golpeó la piedra muda con los nudillos, dos veces—. El silencio que queda después.
+
+Volvieron al Ala Norte sin hablar. Esa noche, Kael escribió en su cuaderno, debajo de las respuestas a medias del Instructor Vannel, la primera línea que era suya y de nadie más: *dicen que nada se borra nunca. No es verdad. Nosotros borramos.*

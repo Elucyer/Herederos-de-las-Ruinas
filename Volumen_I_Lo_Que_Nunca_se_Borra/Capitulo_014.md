@@ -44,6 +44,18 @@ Ilsa le lanzó una mirada fingidamente ofendida que terminó disolviéndose en u
 
 Se quedaron un rato más así, hablando de cosas pequeñas —el equipo que cada uno llevaría, las rutas exactas que Soraya Vahn había mencionado en la última sesión informativa, la comida que extrañarían durante los días que durara la expedición, alguna anécdota torpe de los primeros entrenamientos cuando ninguno sabía todavía coordinarse del todo—, hasta que el frío de la noche empezó a calar más de lo que la conversación podía compensar.
 
+Fue Ilsa, mirando el cielo, quien dejó caer la pregunta que ninguna clase respondía nunca del todo.
+
+—¿Saben por qué el Instituto se llama "de las Ruinas"? —Los otros tres la miraron—. Mi tutor de casa decía que la gente cree que es por las ruinas que exploramos. Y no. Es porque todo esto —abarcó con el gesto el patio, la ciudad, el mundo entero— ya es la ruina de algo. El mundo ha terminado varias veces. Las Eras. La Biblioteca Infinita tiene archivos de tres completas, contando la nuestra, que sus propios registros llaman la Cuarta; el Instituto jura que existe desde la Primera, y la Biblioteca jura que eso no puede probarse, y llevan generaciones cobrándose esa disputa en silencio. Pero en lo importante nadie discute: cada era anterior colapsó, y el mundo que pisamos está construido encima de los pedazos. Los continentes inhabitados, las ruinas que catalogamos, la mitad de lo que un Explorador cartografía en su vida — son los huesos de mundos que ya se terminaron.
+
+—¿Y la nuestra? —preguntó Renn, en voz baja—. ¿La Cuarta? ¿Cuánto le queda?
+
+—Acaba de empezar, dicen. —Ilsa se encogió de hombros—. Nadie de los que estamos sentados aquí va a ver el final de nada. Probablemente.
+
+—"Probablemente" —repitió Bram—. Gracias, Marrow. Yo que venía a dormir tranquilo antes del examen.
+
+La risa que siguió fue más corta que las anteriores, y durante un momento los cuatro se quedaron mirando las piedras del patio como si acabaran de darse cuenta de sobre cuántas capas de mundo terminado estaban sentados.
+
 —Antes de que se nos acabe la noche —dijo Renn, de repente, con una seriedad poco habitual en él—. Quiero decir algo. Por si mañana las cosas se complican y no tengo otra oportunidad de decirlo.
 
 Los otros tres lo miraron, sorprendidos por el cambio de tono.
@@ -92,7 +104,7 @@ Kael se quedó un momento más a solas, mirando hacia el oeste —la misma direc
 
 Recogió el estuche de las Voces, sintiendo su peso familiar contra el costado, y caminó de vuelta hacia el dormitorio que pronto dejaría de ser su hogar fijo, fuera cual fuera el resultado del examen del día siguiente. Encontró a Tamsin ya despierta, esperándolo con una pequeña sonrisa cansada, y se acostaron sin necesidad de mucha conversación adicional, ambos sabiendo que las palabras importantes ya se habían dicho, en distintos momentos, a lo largo de los años que habían compartido ese mismo cuarto.
 
-Despertó antes de que sonara cualquier silbido de tren, con el estuche de las Voces ya empacado junto a la puerta, repasando mentalmente, una vez más, cada detalle de la lista de equipo que Soraya les había entregado semanas atrás. Tamsin seguía dormida, y Kael, por una vez, no la despertó para despedirse formalmente; prefirió dejarle una nota corta sobre la mesilla, prometiendo contarle todo a su vuelta, y salir del dormitorio en silencio mientras el resto del Ala Norte todavía dormía.
+Despertó antes de que sonara cualquier silbido de tren, con el estuche de las Voces ya empacado junto a la puerta, repasando mentalmente, una vez más, cada detalle de la lista de equipo que Soraya les había entregado semanas atrás. Tamsin seguía dormida, y Kael, por una vez, no la despertó para despedirse formalmente; prefirió dejarle una nota corta sobre la mesilla —*te lo contaré todo a la vuelta: cada momento, en orden, como se cuenta un Saldo*— y salir del dormitorio en silencio mientras el resto del Ala Norte todavía dormía.
 
 Afuera, el aire tenía ese frío particular de las horas previas al amanecer, cuando la ciudad entera parecía sostener la respiración antes del primer movimiento del día. Caminó hacia la estación donde había acordado encontrarse con el resto de la cohorte, sintiendo el peso familiar de las Voces contra su costado, y por el camino se permitió, por última vez antes de que todo cambiara, mirar hacia el oeste una vez más, hacia esa misma ciudad inmensa que llevaba memorizando desde niño sin haber cruzado todavía ni una fracción de ella.
 

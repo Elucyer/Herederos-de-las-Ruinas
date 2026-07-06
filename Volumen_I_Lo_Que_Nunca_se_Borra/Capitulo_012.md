@@ -94,6 +94,22 @@ Ninguno de los otros tres supo qué hacer con esa última frase, así que simple
 
 —Mi padre nunca ha salido de la zona agrícola en su vida —respondió Renn, con una risa nerviosa—. Pero sí, es sabio a su manera.
 
+En algún punto de la noche, la conversación derivó —ninguno recordaría después exactamente cómo— hacia lo que cada uno sabía del mundo y a los otros les faltaba, y resultó ser la mejor clase que ninguno de los cuatro había recibido ese año.
+
+Ilsa, con la voz de quien recita algo que le enseñaron antes de aprender a leer, les explicó cómo funcionaba de verdad el poder entre la gente que lo tenía: que había tres escaleras —la sangre, el dinero y el Eco—, y que las dos primeras solo mandaban mientras la tercera no entrara en la sala.
+
+—En casa lo llaman los Tres Poderes. Mi padre puede sentar a su mesa a quien quiera de las otras dos escaleras, y aun así, si entra una Trazadora de Calado alto, todo el mundo se pone de pie. Incluido él. Sobre todo él. —Sonrió sin alegría—. Hay un dicho: *la sangre abre puertas, el Eco abre mundos*. En mi familia se repite mucho. Casi siempre en voz baja, y nunca delante de mi padre.
+
+Bram, a cambio, les contó lo que se aprendía creciendo en un taller de Tal Veyr: que la palabra "Artífice", que la gente usaba para cualquier objeto raro, era en realidad un rango de gremio que costaba una vida entera alcanzar; que un taller común como el de su familia reparaba y mantenía, pero jamás fabricaba, porque fabricar de verdad exigía materiales que solo salían de bestias de división alta y manos que llevaban cincuenta años sin temblar.
+
+—Por eso una pieza de Artífice vale lo que vale. La gente cree que paga el objeto. No. Paga las cacerías que costó el núcleo, los veinte años del aprendiz que fundió la aleación, y el siglo de gremio que hay detrás de que un tambor de revólver no te reviente en la mano. Mi padre dice que un Artífice no vende objetos: vende años acumulados de otra gente.
+
+—Tu padre otra vez —dijo Ilsa.
+
+—Mi padre otra vez —admitió Bram—. Pero dime que no es verdad.
+
+Nadie pudo.
+
 La conversación siguió así un rato más, mezclando bromas con planes serios, cada uno revelando poco a poco más de sí mismo de lo que probablemente había planeado al sentarse esa primera vez. Hablaron de horarios de entrenamiento compartido, de qué zonas del patio de prácticas usar para ejercicios combinados, de si valía la pena pedirle a Ressk o a algún otro instructor que los supervisara fuera del horario regular de clases.
 
 Cuando finalmente se levantaron de la mesa, ya bien entrada la noche, con el comedor casi vacío salvo por el personal de limpieza que esperaba paciente a que terminaran, los cuatro se despidieron con la incomodidad torpe de quienes todavía no saben exactamente qué tipo de relación están construyendo, pero que sienten, de todos modos, que algo importante acaba de empezar.

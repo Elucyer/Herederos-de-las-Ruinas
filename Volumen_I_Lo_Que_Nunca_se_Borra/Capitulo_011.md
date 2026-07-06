@@ -52,7 +52,21 @@ Soraya Vahn lo consideró un momento, con una seriedad que no parecía habitual 
 
 —Eso, Doran, es exactamente lo que vas a tener que aprender el año que viene, junto con el resto de tu cohorte. —Una sombra de algo parecido a una sonrisa cruzó brevemente el rostro de Soraya, la primera muestra de calidez real que Kael había visto en ella—. No te lo voy a regalar antes de tiempo.
 
-Se fue sin despedirse formalmente, dejando a Kael con la sensación extraña de haber sido medido por alguien que ya sabía exactamente qué buscar, aunque él todavía no entendiera del todo qué había encontrado, ni por qué aquella mención de sus padres había provocado una reacción tan contenida en una mujer que, hasta ese momento, no había mostrado ninguna emoción real frente a él.
+Ya se daba la vuelta cuando pareció recordar algo, y se volvió a medias.
+
+—Una cosa más, Doran, y esta sí te la regalo, porque a tu cohorte nadie se la va a enseñar a tiempo. El año que viene van a empezar a tratar con Trazadores de verdad, no con instructores de escuela. —Soraya se subió apenas la manga izquierda; en el dorso del antebrazo, una línea fina y pálida, como una veta de mármol bajo la piel, cruzaba en diagonal—. ¿Sabes qué es esto?
+
+—Una Marca de Grieta. —Lo había leído: cada etapa del Calado dejaba una cicatriz, distinta en cada persona, sin manual posible para leerlas.
+
+—Bien. Ahora la regla que el libro no trae: acabo de hacer algo que casi nadie hace. —Se bajó la manga—. Mostrarla es decir cuánto aguanto antes de romperme, y eso no se le dice a cualquiera, igual que un jugador no enseña sus cartas. Vas a conocer Trazadores que las esconden bajo la ropa, bajo maquillaje, bajo maneras de moverse ensayadas durante años. Vas a conocer a más de uno que presume de un Calado que no tiene, porque a distancia nadie puede desmentirlo. Así que: nunca pidas ver una cicatriz, nunca preguntes la etapa de nadie directamente, y cuando alguien te muestre la suya sin que se la pidas, presta mucha atención — o confía en ti de verdad, o quiere que le tengas miedo. Aprender a distinguir esas dos cosas te va a servir más que cualquier hechizo.
+
+—¿Y usted? —se atrevió Kael—. ¿Por qué me la mostró a mí?
+
+Soraya lo miró un momento largo, con esa expresión que parecía ver algo más detrás de él.
+
+—Buena pregunta —dijo. Y se fue sin responderla.
+
+Kael se quedó con la sensación extraña de haber sido medido por alguien que ya sabía exactamente qué buscar, aunque él todavía no entendiera del todo qué había encontrado, ni por qué aquella mención de sus padres había provocado una reacción tan contenida en una mujer que, hasta ese momento, no había mostrado ninguna emoción real frente a él.
 
 Esa tarde, de vuelta en el patio de prácticas, encontró a Tamsin esperándolo con la misma curiosidad de siempre, aunque ahora con un matiz distinto: ella seguía sin Marca despierta, a sus dieciséis años, y ambos sabían, sin necesidad de decirlo, que las probabilidades de que algún día la tuviera ya empezaban a ser bajas, una realidad que ninguno de los dos mencionaba directamente pero que flotaba siempre cerca de cualquier conversación sobre el futuro de Kael.
 
@@ -92,4 +106,4 @@ Tamsin no respondió de inmediato, dejando que la frase se asentara entre los do
 
 —Entonces quizás no se trata de tener miedo a la respuesta en sí misma —dijo finalmente—. Se trata de estar listo para recibirla. Y eso, a diferencia de la respuesta misma, sí puedes controlarlo, poco a poco, con el tiempo que te queda antes de que llegue.
 
-Kael asintió, sintiendo el peso de la conversación asentarse de un modo extrañamente reconfortante, y los dos se quedaron ahí un rato más, hablando de cosas más livianas —el examen de Vannel de la semana siguiente, una broma reciente de Bram que ya corría por todo el curso—, hasta que el frío de la tarde finalmente los empujó de vuelta hacia el calor del dormitorio.
+Kael asintió, sintiendo el peso de la conversación asentarse de un modo extrañamente reconfortante, y los dos se quedaron ahí un rato más, hablando de cosas más livianas —el examen de Vannel de la semana siguiente, una broma reciente de Bram que ya corría por todo el curso, y la noticia de que el bibliotecario del Ala Norte había pedido formalmente a Tamsin como aprendiz de archivo, algo que ella contó fingiendo que no le importaba demasiado y sin poder dejar de sonreír—, hasta que el frío de la tarde finalmente los empujó de vuelta hacia el calor del dormitorio.

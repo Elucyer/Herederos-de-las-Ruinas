@@ -73,3 +73,7 @@ Tamsin no dijo nada inmediatamente. Solo extendió la mano sobre la mesa y la de
 —Entonces más vale que aprendas bien las diez ciudades —dijo finalmente, con una sonrisa pequeña—. Porque no vas a encontrar nada si ni siquiera sabes nombrar bien por dónde empezar a buscar.
 
 Kael se rió, terminó su pan, y los dos se levantaron juntos hacia la primera clase del día.
+
+Estaban cruzando el patio cuando lo escucharon: un solo silbido, largo, sostenido, subiendo desde los talleres hasta perderse sobre los techos. Un tren médico. Alguna expedición volvía antes de tiempo, y con peores noticias de las esperadas. A su alrededor nadie se detuvo —los trenes médicos llegaban cada tanto, y la ciudad ya había aprendido a no pararse a escucharlos—, pero Kael sí, un segundo apenas, el tiempo justo de preguntarse, como cada vez, si en algún andén de Cumbresenda habría alguien esperando a alguien que ya no iba a bajar caminando.
+
+Después siguió andando. Era, todavía, un día como cualquier otro.
