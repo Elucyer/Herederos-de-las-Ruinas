@@ -1,149 +1,135 @@
-# Capítulo 5 — Lo que se quiebra primero
+# Capítulo 5 — El mercado de las cien rutas
 
-Retrocedió un paso, dos, sin pensarlo, alejándose de Tarvok y de sus palabras como si pudiera dejarlas atrás físicamente. El talón le golpeó contra el borde de piedra de uno de los bancos bajos que rodeaban el patio —los mismos bancos donde generaciones de aprendices se habían sentado a comer, a llorar, a esperar resultados de examen— y la mano, buscando equilibrio, se apoyó de lleno sobre la piedra fría.
+Pasaron casi dos años antes de que Kael consiguiera su primer permiso de salida sin acompañante.
 
-Lo que pasó después, Kael no podría describirlo del todo, ni esa tarde ni en mucho tiempo. No fue un dolor, exactamente. Fue más parecido a abrir una puerta que no sabía que existía y encontrar, al otro lado, algo que llevaba ahí mucho más tiempo del que cualquiera hubiera imaginado.
+No habían sido dos años fáciles. Después del Día de los Caídos, la escuela lo había puesto bajo lo que llamaban "observación de Filtración": revisiones semanales con un instructor distinto a Korr, ejercicios simples para enseñarle a reconocer cuándo algo a su alrededor tenía demasiada historia antes de tocarlo sin pensar. Había aprendido que las herramientas viejas de los talleres de mantenimiento eran casi siempre seguras, y que ciertas piedras del ala más antigua del edificio —las que llevaban siglos en el mismo lugar— era mejor no tocarlas sin supervisión. Había aprendido también que su Marca, ahora despierta, no le daba ningún poder real todavía, solo la capacidad de meterse en problemas si no tenía cuidado.
 
-Por un instante —nadie supo decir después cuánto duró, si fue un parpadeo o varios segundos— el aire sobre el banco pareció temblar, como el calor sobre las dunas en pleno verano, y entre ese temblor se dibujó algo: la silueta borrosa de dos niños mucho más pequeños que Kael, sentados exactamente en ese mismo lugar, riendo de algo que ninguno de los presentes podría escuchar, vestidos con un uniforme gris casi idéntico al de hoy, salvo por un detalle de corte que ya nadie usaba —las mangas más anchas, los botones de un material distinto, algo que sugería décadas de diferencia entre ese instante prestado y el presente real.
+Tarvok, después de aquel día, había dejado de burlarse de él casi por completo. No por arrepentimiento —Kael dudaba que Tarvok supiera lo que era eso— sino por algo más simple: nadie en el Ala Norte se atrevía ya a meterse demasiado con el único aprendiz de su curso que había despertado su Marca, y mucho menos después de lo que medio patio había visto, o creído ver, esa tarde.
 
-Duró apenas lo que dura un suspiro. Después, la silueta se deshizo igual que el humo se deshace en el viento, y el patio volvió a ser solo piedra, banco, tarde fría.
+A los trece años, con el permiso en el bolsillo y un puñado de Marcas —la moneda, no el otro tipo— ahorradas de pequeños mandados para los instructores, Kael bajó por primera vez solo hacia el distrito comercial de Cumbresenda. Iba con una pregunta concreta, anotada en la penúltima página del cuaderno: cuánto costaba, exactamente, el equipo con el que un aprendiz se presentaba a su examen de campo final.
 
-Pero el silencio que dejó detrás fue absoluto.
+No era curiosidad. Era aritmética. Quería saber cuántos años de mandados lo separaban de la línea de salida.
 
-—¿Qué fue eso? —dijo Olvic, con una voz que ya no tenía nada de la burla de minutos atrás, retrocediendo instintivamente un par de pasos como si el banco mismo pudiera repetir lo que acababa de mostrar.
+El tren urbano lo dejó tres niveles por debajo de la escuela, en un andén que olía a carbón y a aceite de máquina, donde un letrero de hojalata oxidada anunciaba destinos que Kael nunca había escuchado mencionar en clase: el Distrito de los Talleres, la Cuesta de los Globos, el Embarcadero Seco. Caminó las últimas calles hasta el corazón del distrito comercial: una extensión de puestos, toldos y carretas que se perdía en ambas direcciones más allá de lo que la vista alcanzaba a seguir.
 
-Kael no respondió. No podía. Tenía la mano todavía apoyada sobre la piedra, los ojos abiertos como si algo se hubiera quedado atascado detrás de ellos, y una sensación de vacío repentino en algún rincón de la cabeza que no sabía nombrar —como si hubiera prestado algo sin darse cuenta de a quién, ni de qué, ni de cómo recuperarlo. A su alrededor, el resto del patio había empezado a notar también que algo ocurría: cabezas girándose, conversaciones interrumpidas a media frase, un círculo de curiosidad formándose lentamente alrededor de la escena sin que nadie se atreviera todavía a acercarse demasiado.
+Nunca había visto tanta gente junta. Ni tantos acentos mezclados en el mismo aire, ni tantos olores compitiendo entre sí: cuero curtido, especias desconocidas, vapor de máquina, pan recién horneado.
 
-—Doran. —La voz de la Maestra Korr llegó desde algún punto del patio, más cerca y más rápida de lo que debería haber sido posible para alguien de su edad—. No te muevas.
+—¡Cuero curtido de las rutas del sur, el mejor para botas de viajero! —gritaba un vendedor, sosteniendo en alto una bota gastada como prueba de su resistencia.
 
-Kael ni siquiera había notado que alguien hubiera ido a buscarla. Solo supo que, de pronto, estaba ahí, agachada frente a él, con las manos sosteniendo su rostro con una firmeza que no admitía discusión, mirándolo a los ojos con una atención que jamás le había dedicado en cinco años de vivir bajo su cuidado.
+—¡Mapas actualizados de la franja desértica, garantizados hasta la última temporada!
 
-—¿Qué sientes? —preguntó, y por primera vez su voz neutra de siempre tenía algo distinto. No miedo, exactamente. Algo más parecido a una alerta contenida.
+Encontró lo que buscaba en el tercer puesto de equipo que revisó, y la cifra le sentó como un golpe seco en el estómago: cuerdas, raciones selladas y herramientas de extracción simple, el paquete mínimo, seis Reliquias. Seiscientas Marcas. Llevaba once encima, el ahorro entero de un mes.
 
-—No sé —dijo Kael, y la palabra le costó más esfuerzo del que debería—. Me siento... vacío. En un sitio que no sabría señalar.
+Se quedó un rato largo haciendo la cuenta en la cabeza, y después la hizo otra vez, por si la primera había salido mal. No había salido mal.
 
-La Maestra Korr cerró los ojos un segundo, como quien confirma algo que ya temía, y se incorporó de golpe.
+—Si vas a poner esa cara, al menos apártate del mostrador —dijo la vendedora, no sin humor.
 
-—Que todos vuelvan a sus aulas. Ahora mismo. —Su voz, dirigida al resto del patio, no dejaba espacio para preguntas, y el resto de los aprendices, Tarvok incluido, obedeció sin atreverse a discutir, dispersándose en grupos murmurantes que ya empezaban a tejer sus propias versiones de lo ocurrido, versiones que para el día siguiente recorrerían todo el Ala Norte con variaciones cada vez más exageradas—. Tú, conmigo.
+Se desvió hacia un callejón lateral donde el ruido del mercado se apagaba un poco y daba paso a talleres pequeños, casi escondidos entre los puestos grandes, donde los artesanos trabajaban a la vista de cualquiera. En uno, un hombre mayor reparaba botas de Explorador golpeando cada puntada con un martillo pequeño antes de pasar a la siguiente. En otro, una mujer tejía redes de carga reforzadas, los dedos moviéndose tan rápido que Kael apenas podía seguir el patrón.
 
-Lo llevó casi en volandas hacia la enfermería del Ala Norte, un cuarto pequeño con dos camas y un armario de medicinas que Kael nunca había necesitado visitar más allá de un resfriado ocasional. Olía a alcohol desinfectante y a las hierbas secas que la enfermera del Instituto colgaba de las vigas para los dolores de estómago más comunes. Korr lo sentó en una de las camas y, sin soltarle los hombros, se quedó observándolo con la misma atención de antes.
+—¿Buscas algo en particular, chico? —preguntó ella, sin dejar de tejer.
 
-—Kael —dijo, usando su nombre en vez del apellido por primera vez que él pudiera recordar—. Lo que acaba de pasar tiene un nombre. Se llama Momento Ancla.
+—Estaba calculando cuánto tardaría en pagarme un equipo de examen.
 
-—¿Qué es eso?
+—¿Y cuánto te sale?
 
-—Es lo que le ocurre a quien tiene una Marca dormida cuando, por fin, algo la despierta. —Korr se sentó en el borde de la otra cama, frente a él, y por primera vez Kael notó que sus propias manos temblaban, aunque fuera apenas—. No todos la tienen. La mayoría de la gente vive y muere sin que nada la despierte jamás. Tú... acabas de tocar algo que estaba ahí, en esa piedra, esperando desde hace quién sabe cuántos años. Un eco. Un fragmento de un momento que alguien más vivió, mucho antes que tú.
+—Cinco años. Seis, si no me suben lo que me pagan por los mandados.
 
-Kael miró sus propias manos, todavía sintiendo el cosquilleo helado que no terminaba de irse del todo.
+La mujer se rió, no con burla, sino con una sorpresa genuina.
 
-—¿Soy un Trazador?
+—Entonces ya sabes más de este oficio que la mitad de los que entran en él. —Señaló con la cabeza hacia el resto del callejón—. Cada uno de estos talleres paga una tasa al Instituto por trabajar tan cerca de la zona de salida de expediciones. A cambio, tenemos prioridad cuando un Explorador necesita algo reparado con urgencia antes de partir. No es gratis estar aquí.
 
-—Eres lo que se llama, en esta primera etapa, Filtración. —La Maestra Korr eligió las palabras con un cuidado que no era habitual en ella—. No tienes Categoría todavía. No tienes control. Lo que pasó ahí afuera no fue algo que decidieras hacer; fue algo que te ocurrió, porque el miedo y la angustia abrieron una puerta que tu cuerpo no sabía cómo cerrar. Vas a tener que aprender, desde cero, qué puedes tocar sin que te haga daño, y qué no.
+—¿Y si no pudieran pagarla?
 
-—¿Y lo que vi? Esos dos niños...
+—Nos mudamos más lejos, donde es más barato, y perdemos la prioridad. Así funciona casi todo en este mercado. El dinero no solo compra cosas: compra cercanía a lo que de verdad importa.
 
-—Un eco viejo de ese banco. Nada que deba preocuparte. —Hizo una pausa, y algo en su rostro se suavizó por primera vez desde que había llegado al patio—. Pero pudo haber sido otra cosa, Kael. Esa piedra tenía poca historia que ceder. Si en vez de apoyarte ahí te hubieras apoyado en algo más cargado... no estaríamos teniendo esta conversación de la misma forma.
+Más adelante se detuvo frente a un puesto donde un grupo de hombres con el brazalete del Gremio de la Cuerda Larga discutía precios de paso con un comerciante que quería enviar mercancía hacia Eltar.
 
-El peso de esa frase tardó un momento en asentarse del todo, pero cuando lo hizo, Kael sintió un escalofrío distinto al de antes, uno que no tenía nada que ver con la magia y todo que ver con entender, por primera vez, que el mundo en el que había vivido toda su vida tenía una capa entera que nunca había podido ver, y que esa capa podía matarlo con la misma facilidad con la que acababa de mostrarle dos niños riendo en un patio que ya no existía.
+—Ese tramo cuesta el doble desde que cambió el clima en la franja alta —decía uno de los Viajeros, de manos curtidas y una cicatriz que le cruzaba media mejilla—. No es capricho, es el riesgo real. Perdimos dos cargas el mes pasado.
 
-—¿Mis padres eran...? —empezó a preguntar, sin terminar la frase, porque no estaba seguro de cómo formularla.
+—Entonces busco otro gremio.
 
-—Trazadores, sí. Como casi todos los Exploradores con experiencia. —Korr le puso una mano sobre el hombro, esta vez con más calidez que firmeza—. Eso no significa que lo que te pasó a ti tenga algo que ver con cómo se perdieron ellos. No saques conclusiones todavía. Solo... respira. Hoy ha sido suficiente por un día.
+—Busca el que quieras. Todos te van a cobrar lo mismo o más, porque el riesgo es el mismo para cualquiera que cruce esa ruta. La diferencia es que nosotros sí volvemos.
 
-—¿Qué va a pasar ahora? ¿Tengo que dejar la escuela? ¿Me van a separar de los demás?
+El comerciante terminó aceptando el precio a regañadientes, y Kael se alejó pensando en cuántas veces sus propios padres habrían tenido conversaciones parecidas, calculando riesgos en Marcas y Reliquias antes de calcularlos en kilómetros.
 
-—No. —La respuesta de Korr fue inmediata, sin titubeos—. Vas a seguir exactamente donde estás, con tus mismas clases, tus mismos compañeros. Solo que ahora, dos veces por semana, vas a tener sesiones adicionales con un instructor especializado en Filtración, para que aprendas a reconocer qué objetos son seguros y cuáles no. Es un proceso lento. No esperes entender todo de golpe.
+Fue en el siguiente callejón donde encontró el puesto de los mapas. No los de ruta de las calles principales, actualizados cada temporada y caros como el buen equipo: este vendía reimpresiones baratas, cartas viejas, curiosidades para coleccionistas sin dinero. Y ahí, colgado con dos pinzas de madera en la pared del fondo, estaba el primer mapa del mundo entero que Kael veía en su vida.
 
-Kael asintió, aunque por dentro la cabeza ya le daba vueltas con preguntas que no podía dejar de hacerse, preguntas que ahora, además, tenían un peso distinto: ya no eran solo curiosidad de huérfano. Eran, de alguna forma que todavía no entendía del todo, parte de quién era él mismo.
+—El mundo conocido —dijo el vendedor, siguiendo su mirada—. Veinticinco continentes. Los tres grandes son los nuestros: Avar, aquí, donde estamos tú y yo. Sylvaris, el de los ríos. Nórdkar, el del hielo. Las líneas doradas entre los tres son los portales; por ahí se cruza en horas lo que un barco no cruzaría en generaciones.
 
-—¿Korr? —dijo, antes de que ella se levantara para salir—. ¿Le puedo preguntar algo que quizás no debería preguntarle a usted?
+—¿Y los otros veintidós?
 
-—Puedes intentarlo.
+—Inhabitados. Que no es lo mismo que vacíos, chico. Cada uno tiene nombre, y cada nombre se lo ganó. —Fue señalando manchas de tinta en los bordes—. Los Filos de Cristal, donde el suelo entero es huella cristalizada de hace eras. El Durmiente, que dicen que no es un continente sino una criatura del tamaño de uno, dormida desde antes de que las eras se contaran. El Eco en Bucle, donde el mismo desastre lleva repitiéndose desde la Segunda Era, día tras día, como una campana que nadie puede parar. A algunos se puede entrar, cuando se abre ventana de acceso. Los Exploradores de verdad, los que vuelven ricos o no vuelven, es ahí donde van.
 
-—¿Por qué la gente que tiene la Marca dormida no la siente nunca, hasta que algo así la despierta? ¿Por qué a unos les pasa y a otros no?
+—¿Cuánto cuesta el mapa?
 
-Korr lo consideró un momento, con la misma seriedad que dedicaba a cualquier pregunta que mereciera una respuesta cuidadosa.
+—Más de lo que llevas encima, por la cara que pones. —El vendedor se encogió de hombros, sin crueldad—. Míralo el rato que quieras. Mirar es gratis, y a tu edad conviene: es la única forma de viajar que no cobra por adelantado.
 
-—Nadie lo sabe con certeza, Kael. Ni los archivos más antiguos de la Biblioteca Infinita tienen una respuesta completa para eso. Es una de esas cosas que el mundo todavía no nos ha explicado del todo, por mucho que llevemos generaciones intentando entenderla.
+Kael se quedó frente al mapa hasta aprendérselo —la forma de los tres continentes, las líneas doradas de los portales, los nombres de los bordes—, y esa noche lo dibujaría de memoria en su cuaderno, torcido y fuera de escala, con la letra apretada de quien copia algo que no quiere perder.
 
-»Lo que sí se sabe —añadió, tras un momento, quizá porque la cara de Kael dejaba claro que esa respuesta no le alcanzaba— es lo raro que es. Los archivos hablan de un despertar por cada billón de personas, y es uno de esos números que no significan nada hasta que se viven: hay distritos enteros de esta ciudad donde no ha despertado nadie en diez generaciones, donde la magia es algo que sale en las historias de taberna y nada más. Todo el mundo carga la Marca dormida, igual que todo el mundo tiene un tipo de sangre — y casi nadie, en toda su vida, la verá despertar en alguien que conozca.
+Fue en el patio del equipo usado, donde se vendía lo que sobrevivía a expediciones fallidas —cuerdas con cortes sospechosos, cantimploras abolladas, un casco de cuero con una grieta que nadie se atrevía a explicar del todo—, donde vio al hombre que no encajaba. No por la ropa: vestía como cualquier viajero acomodado, abrigo largo, botas buenas. Por la forma de tocar las cosas. Llevaba guantes finos de cuero pese a que la tarde no estaba fría, y los mantenía puestos mientras revisaba el equipo con la vista, apartando cuerdas y cantimploras sin ningún interés real. Solo de vez en cuando, frente a una pieza concreta, se quitaba el guante derecho con un gesto practicado, apoyaba dos dedos desnudos sobre el objeto durante apenas un segundo, y volvía a ponérselo.
 
-—¿Entonces por qué...? —Kael dejó la pregunta a medias, pero Korr la entendió entera.
+—¿Busca algo en particular? —le preguntó el vendedor, con el tono de quien ya ha decidido que ese cliente tiene dinero.
 
-—¿Por qué esta escuela ve más Momentos Ancla que un distrito entero de gente común? —Se quedó un momento en silencio, como decidiendo cuánta verdad cabía en un día como ese—. Por quiénes duermen en ella, Kael. Hijos de Exploradores. Hijos de Trazadores caídos en servicio. La probabilidad se hereda a medias — nunca la certeza, ningún hijo de Trazadores tiene el despertar garantizado, pero la balanza se inclina. El Instituto no lo dice en voz alta, y yo no te lo voy a repetir fuera de este cuarto: este dormitorio es muchas cosas, y una de ellas es el lugar donde el Instituto espera a que la sangre de los que perdió haga lo que la sangre hace. —Hizo una pausa—. En este dormitorio han dormido cientos de niños desde que yo llegué. Tú eres el segundo que despierta bajo mi cuidado.
+—Historia —dijo el hombre, sin levantar la vista—. Cosas que vengan de ruinas, no de rutas. Cuanto más vieja, mejor. Lo demás es óxido con precio.
 
-—¿El segundo? —Kael levantó la vista—. ¿Quién fue el primero?
+Terminó comprando una sola pieza: una hebilla de bronce deformada, medio fundida por algo que no parecía fuego común, que el vendedor le dejó por dos Marcas con cara de estar ganando en el trato. El hombre pagó sin regatear, y por la forma cuidadosa en que envolvió la hebilla en un paño antes de guardarla —la misma con que el Instituto guardaba las cosas que de verdad importaban—, Kael tuvo la certeza de que el vendedor acababa de perder algo sin enterarse.
 
-—Alguien que ya no está aquí, y esa historia no es para hoy. —Korr se levantó, alisándose el uniforme, y ya en la puerta se detuvo un momento—. Un consejo más, y es gratis. Vas a notar que los adultos no dicen la palabra "Ancla" cerca de los niños pequeños. Unos, porque creen que nombrarla la atrae antes de tiempo. Otros, porque creen que nombrarla la espanta. Llevan siglos sin ponerse de acuerdo en cuál de las dos cosas es cierta, lo que debería darte una idea bastante exacta de cuánto entendemos de verdad sobre todo esto.
+Al pasar junto a él, el hombre lo miró un instante, notando el uniforme gris.
 
-Esa noche, cuando por fin volvió al dormitorio, encontró a Tamsin sentada en su cama, esperándolo despierta a pesar de que ya hacía rato que debía dormir.
+—Aprende esto gratis, chico —dijo, con una media sonrisa que no llegaba a los ojos—: todo objeto guarda algo. La mayoría de la gente solo ve el óxido.
 
-—Todo el Ala Norte está hablando de eso —dijo, sin rodeos—. ¿Es verdad? ¿Despertaste?
+Se perdió entre los puestos antes de que Kael pudiera decidir si la frase había sido un consejo o una burla.
 
-—Creo que sí.
+Estaba gastando dos de sus Marcas en una ración caliente, sentado en un peldaño de piedra, cuando desde el extremo norte del mercado empezó a crecer un alboroto distinto: vítores, aplausos, el tipo de ruido que solo podía significar una cosa en una ciudad como Cumbresenda.
 
-Tamsin lo miró un largo momento, con una expresión que Kael no supo leer del todo: algo entre el orgullo y el miedo, exactamente la misma mezcla que él mismo sentía por dentro.
+Una expedición estaba volviendo.
 
-—Entonces ya no eres solo el huérfano Doran —dijo finalmente—. Ahora eres otra cosa. Y no sé si eso es mejor o peor.
+Kael corrió hacia el ruido dejando la ración a medias.
 
-—Yo tampoco lo sé.
+La multitud se había concentrado frente a la estación de mercancías, donde un tren más pequeño que los de pasajeros acababa de detenerse entre nubes de vapor. De sus vagones bajaban hombres y mujeres con el equipo desgastado de quien ha pasado semanas, quizá meses, fuera de cualquier ciudad: capas remendadas, botas que ya no parecían botas sino una segunda piel de cuero curtido, mochilas tan cargadas que algunas necesitaban dos personas para bajarlas.
 
-—¿Te duele? —preguntó ella, con una preocupación genuina que no intentaba disimular.
+La gente aplaudía y gritaba nombres. Un niño pequeño se soltó de la mano de su madre y corrió a abrazar las piernas de un hombre cubierto de polvo de camino, que se agachó de inmediato para levantarlo en brazos entre risas y lágrimas mezcladas.
 
-—No exactamente. Es más como... como si me faltara algo, en algún sitio que no puedo señalar con el dedo. La Maestra Korr dice que es normal. Que con el tiempo se acostumbra uno.
+Kael se abrió paso a codazos hasta el cordón que separaba a los recién llegados del resto del mercado, y ahí, por primera vez de cerca, vio lo que significaba en realidad volver de una expedición.
 
-—Suena horrible.
+Una mujer de la edad que tendría su madre si hubiera vivido llevaba un vendaje improvisado en el brazo izquierdo, manchado de algo que se había secado hacía días, y caminaba con una sonrisa cansada, casi orgullosa, como si la herida fuera la prueba misma de que había valido la pena. Un hombre más joven cargaba a la espalda un bulto envuelto en tela gruesa que goteaba un líquido oscuro y dejaba un olor metálico en el aire; algo en la forma en que los demás Exploradores se mantenían a distancia de ese bulto le dijo a Kael que era mejor no preguntar. Más adelante, una joven Exploradora no mucho mayor que los aprendices del último curso caminaba con la mirada fija al frente, sin sonreír, sin llorar, con la cara de alguien que ha visto algo que todavía no ha terminado de procesar.
 
-—Un poco —admitió Kael, con una media sonrisa cansada—. Pero también... no sé. También se sintió como si por fin entendiera algo de mis padres que nunca había podido entender. Que esto era parte de lo que ellos vivían, todos los días, antes de que yo naciera siquiera.
+Casi al final de la fila, un hombre mayor avanzaba sin prisa. Llevaba al cinto algo que parecía un revólver, aunque distinto a cualquiera que Kael hubiera visto en los puestos del mercado: el metal tenía un brillo apagado, casi vivo, y el tambor parecía demasiado grande para el resto del arma.
 
-—¿Y Tarvok? —preguntó Tamsin, después de un rato—. ¿Qué pasó con él?
+—¿Qué encontraron? —preguntó alguien desde la multitud.
 
-—Se calló. Por primera vez en mucho tiempo, no tuvo nada que decir.
+—Lo que fuimos a buscar —respondió el hombre, con la voz ronca de quien lleva semanas sin hablar más de lo necesario—. Y un poco más de lo que esperábamos. Eso es siempre la mitad de cualquier expedición decente.
 
-—Eso ya es algo. —Tamsin se incorporó un poco sobre un codo, mirándolo en la penumbra—. ¿Crees que va a seguir molestándote después de esto?
+La gente rió, aliviada, y la fila siguió su camino hacia los edificios administrativos. Kael no se movió del cordón, con la vista clavada en el arma.
 
-Kael lo pensó un momento, repasando mentalmente la cara de Tarvok justo antes de que la Maestra Korr llegara, ese medio paso atrás que había dado sin darse cuenta, esa expresión que por un instante había dejado de ser desprecio y se había vuelto, simplemente, miedo.
+—¿Te interesa, chico? —preguntó el hombre, deteniéndose al notar la insistencia de su mirada.
 
-—No lo sé —admitió—. Creo que ya no va a ser igual. No sé si mejor o peor. Solo distinto.
+—Nunca había visto una así.
 
-—Las cosas distintas no siempre son malas.
+—Pocos la han visto de cerca. —Desenfundó el revólver con un gesto lento y lo sostuvo de modo que Kael pudiera examinarlo sin tocarlo—. Es de Artífice. El tambor no guarda balas comunes; guarda cargas, alimentadas por un núcleo de bestia engastado aquí. —Señaló un compartimento traslúcido en la base del arma, donde algo parecido a una brasa fría parpadeaba con un ritmo casi imperceptible—. Cuando el núcleo se agota, el arma no sirve para nada hasta que le pones uno nuevo. Y un núcleo cuesta lo que cuesta.
 
-—Tampoco siempre son buenas.
+—¿Cuánto cuesta todo?
 
-Tamsin no tuvo una respuesta inmediata para eso, y ambos se quedaron un momento en silencio, escuchando el rumor lejano de la ciudad que seguía su curso normal más allá de los muros del Ala Norte, indiferente a que la vida de uno de sus huérfanos hubiera cambiado para siempre esa misma tarde.
+El hombre se rió, con la diversión cansada de quien ha escuchado esa pregunta demasiadas veces.
 
-—¿Vas a tener miedo ahora? —preguntó finalmente Tamsin—. De tocar cosas, quiero decir. De que vuelva a pasar sin que lo controles.
+—Más de lo que tú o yo podríamos costear con un sueldo normal. Esto se hereda, o se gana después de años de expediciones buenas, ahorrando cada Reliquia que el Instituto te paga de más por el riesgo.
 
-—Un poco —dijo Kael, con sinceridad—. Pero también tengo curiosidad. Es una mezcla rara. Como tener miedo de algo y, al mismo tiempo, no poder esperar a entenderlo mejor.
+—Me salen cinco años solo para el equipo del examen —dijo Kael, antes de poder medir si era o no algo que se decía en voz alta.
 
-—Eso suena exactamente a ti.
+El hombre lo miró de otra manera entonces: más despacio, del uniforme gris a las botas remendadas y de vuelta.
 
-—¿Qué quieres decir?
+—Del Ala Norte.
 
-—Que nunca has sabido soltar una pregunta una vez que la tienes —dijo Tamsin, con una sonrisa cansada que se adivinaba más por el tono de voz que por la poca luz del cuarto—. Y ahora la pregunta más grande de tu vida acaba de instalarse dentro de ti mismo. No me sorprende nada que prefieras entenderla antes que tenerle miedo sin más.
+—Sí, señor.
 
-Se acostó en su propia cama después de eso, y Kael hizo lo mismo, ambos en silencio, escuchando los mismos sonidos de siempre del Ala Norte —el viento, las tuberías, la respiración ajena de los demás niños— pero por primera vez en su vida sintiendo que esa habitación, ese dormitorio, esa ciudad entera que se extendía más allá de la ventana hacia un oeste que nunca terminaba de aclararse, ya no era exactamente el mismo lugar en el que se había despertado esa mañana.
+—Entonces te voy a ahorrar dos de esos cinco años. —Guardó el revólver con el mismo cuidado ceremonial con que lo había sacado—. Los mandados de instructor se pagan mal a propósito, para que aprendan a negociar. En temporada de salidas, los gremios del callejón de talleres pagan el triple por cargar y ordenar inventario, y no preguntan la edad mientras uno aguante el turno. Diles que vas de mi parte.
 
----
+—¿De parte de quién?
 
-Tres días después, la Maestra Korr fue a buscarlo al final de las clases y, sin explicarle a dónde iban, lo llevó de vuelta al patio principal. El banco seguía donde siempre, idéntico a como había sido durante toda la vida de Kael: piedra gris, bordes gastados, la superficie pulida por generaciones de aprendices.
+—Marek Hessan. —Ya se daba la vuelta cuando añadió, por encima del hombro—: Búscame cuando te gradúes, chico. Los que hacen cuentas antes de soñar suelen durar más ahí afuera.
 
-—Tócalo —dijo Korr.
+Kael se quedó mirando la puerta administrativa mucho después de que el último Explorador desapareciera detrás de ella, repitiendo el nombre en la cabeza para no perderlo, y esa misma noche lo anotó en el cuaderno, bajo el mapa torcido del mundo que acababa de copiar de memoria: *Marek Hessan. Callejón de talleres, temporada de salidas. Triple.*
 
-—¿No es peligroso?
+Era la primera vez en su vida que un adulto le daba algo que no era una lección a medias. Era, también, un número: cinco años menos dos, tres. Tres años hasta la línea de salida, y dieciséis para entonces.
 
-—Ya no. Eso es exactamente lo que quiero que entiendas. Tócalo.
-
-Kael apoyó la palma sobre la piedra fría, preparándose para el temblor, el cosquilleo, la puerta abriéndose otra vez. No pasó nada. La piedra era solo piedra: fría, áspera, muda de una forma que no supo describir, porque nunca había sabido que las cosas pudieran sonar hasta que dejaban de hacerlo.
-
-—No hay nada —dijo.
-
-—No. Ya no hay nada. —Korr se sentó en el banco, sin ninguna ceremonia, y le hizo un gesto para que se sentara a su lado—. Esos dos niños que viste. Llevaban ahí décadas, quizá más. Cada aprendiz que se sentó en este banco durante todos esos años se sentó, sin saberlo, al lado de esa risa. Y ya no está. La gastaste tú, en un solo instante, para algo que ni siquiera decidiste hacer.
-
-Kael retiró la mano despacio, como si la piedra pudiera acusarlo.
-
-—No fue mi intención.
-
-—Lo sé. Por eso te lo enseño ahora, antes de que tengas intenciones. —Korr miró el patio, las banderas descoloridas, los muros que llevaban siglos acumulando tardes—. Esto es lo que somos los que tocamos el Rastro, Kael. Cada cosa que hacemos la paga algo que no puede protestar. Un lugar, un objeto, una historia que estaba ahí y deja de estar. La gente cree que la magia es lo que se ve: la luz, el eco, el truco. La magia es esto. —Golpeó la piedra muda con los nudillos, dos veces—. El silencio que queda después.
-
-Volvieron al Ala Norte sin hablar. Esa noche, Kael escribió en su cuaderno, debajo de las respuestas a medias del Instructor Vannel, la primera línea que era suya y de nadie más: *dicen que nada se borra nunca. No es verdad. Nosotros borramos.*
+Le pareció, esa noche, una cantidad de tiempo perfectamente soportable.

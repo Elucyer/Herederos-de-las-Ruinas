@@ -1,109 +1,145 @@
-# Capítulo 11 — El camino que se encamina
+# Capítulo 11 — Lo que volvió a sus manos
 
-A los dieciséis años, a Kael ya no le quedaba ninguna duda de hacia dónde se inclinaba su alma, aunque tardó un examen formal en confirmarlo con palabras que pudiera repetir sin titubear.
+El saco de lona debajo de su cama llevaba cuatro meses completo: cuerdas, raciones selladas, herramientas de extracción simple, todo comprado pieza por pieza con jornales de inventario y sin deberle nada al almacén del Instituto. Kael lo había revisado tres veces esa semana, con la certeza incómoda de que revisarlo una cuarta no iba a mejorar nada.
 
-Los meses previos habían sido, en su mayoría, una rutina cada vez más exigente: clases avanzadas de geografía y táctica de expedición con el Instructor Vannel, que ya empezaba a tratarlo menos como aprendiz y más como un futuro colega en formación; sesiones de control de Filtración con Ressk que ahora incluían ejercicios de resistencia, aprendiendo a sostener una extracción durante más tiempo sin agotarse; y, cada vez con mayor frecuencia, prácticas físicas de resistencia al clima, simulando las condiciones extremas que algún día tendría que enfrentar en una ruta real. Tarvok, en algún punto de esos dos años, había dejado de aparecer en su curso por completo —los rumores decían que su familia lo había retirado del Instituto para que se uniera al negocio comercial de su padre en Tal Veyr, aunque nadie supo confirmarlo con certeza, y Kael, para su propia sorpresa, descubrió que no sentía ni alivio ni satisfacción al respecto, solo una indiferencia tranquila que en sí misma se sentía como un logro pequeño.
+Por eso, cuando el aviso llegó a media mañana —*preséntese en el despacho de custodias antes del mediodía*—, lo primero que pensó fue que había un problema con el registro de su equipo.
 
-La prueba de encaminamiento —la que determinaba, según le habían explicado mil veces, si un Trazador iba a pasar el resto de su vida tocando huellas ambientales, propias o ajenas— no era espectacular en absoluto. Consistía en una serie de objetos distintos, cada uno cargado con un tipo de huella diferente, y un instructor observando con atención cuál de ellos hacía que el aprendiz "sonara" con más claridad, como decían en la jerga del Instituto.
+El despacho del administrador de custodias era un cuarto pequeño, lleno de estantes numerados que llegaban hasta el techo, cada uno con cajas de distintos tamaños esperando a un dueño que algún día las reclamara, si es que alguna vez lo hacía. Kael había pasado por ese pasillo cientos de veces sin saber que, en algún rincón de ese archivo, había una caja con su propio apellido en una etiqueta amarillenta.
 
-Se realizaba en un aula especial, separada del resto de las instalaciones, con paredes reforzadas y un sistema de ventilación particular que, según le habían explicado, servía para disipar cualquier residuo de huella que pudiera quedar suspendido en el aire después de pruebas especialmente intensas. Kael entró acompañado de otros tres aprendices de su curso que también habían alcanzado ya la madurez suficiente de Marca para someterse a la prueba, cada uno visiblemente nervioso a su manera.
+—Doran, Kael —leyó el administrador, un hombre de gestos lentos y meticulosos, comprobando el registro dos veces antes de dirigirse al estante correspondiente—. Edad mínima cumplida para custodia de equipo de campo familiar. Firma aquí, por favor.
 
-El instructor evaluador, un hombre que Kael no había visto antes en ninguna de sus clases regulares —llegado, supuso, especialmente desde alguna otra sede del Instituto para supervisar este tipo de pruebas con la imparcialidad que exigía el protocolo—, fue presentando los objetos uno por uno, en un orden que parecía aleatorio pero que, según explicó al inicio, estaba cuidadosamente diseñado para que ningún resultado quedara contaminado por la anticipación del aprendiz.
+Kael firmó donde le indicaron, con una mano que no estaba del todo segura de no temblar, mientras el administrador subía una escalera de mano para alcanzar una caja de madera oscura, más pesada de lo que su tamaño sugería, situada en uno de los estantes altos, casi olvidada entre docenas de cajas similares pertenecientes a otras familias, otras historias que Kael nunca conocería.
 
-Primero llegó el mechón de cabello, sellado en un pequeño relicario de cristal, cargado con una huella propia tan densa que dos de los otros tres aprendices retrocedieron instintivamente al acercar la mano, sintiendo algo que claramente los incomodaba más de lo esperado. Kael sintió también algo, un peso emocional difuso que no terminaba de aferrarse a nada concreto, pero nada comparable a la claridad que sentiría después con la piedra.
+—Esto ha estado aquí desde que tus padres fueron declarados desaparecidos —dijo el hombre, bajando con cuidado—. Por protocolo, ningún menor puede reclamar equipo de campo de un familiar caído hasta cumplir la edad suficiente para portarlo en una expedición real. Hoy la cumples.
 
-Luego llegó la carta sellada, manipulada con guantes especiales por el propio instructor para evitar cualquier contaminación de huella ajena con la suya propia. Uno de los otros aprendices, un chico delgado de mirada inquieta, pareció reconocer algo en ella casi de inmediato, y el instructor anotó su reacción con un asentimiento satisfecho: Categoría III, dijo en voz baja, lo bastante alto para que el resto del aula lo escuchara, aunque sin más comentario que ese.
+Dejó la caja sobre el mostrador, anotó la entrega en el libro de custodias con una letra pequeña y apretada, y abrió por fin el mecanismo de cierre, que cedió con un chasquido seco liberando un leve olor a madera vieja y aceite de mantenimiento que llevaba años sellado.
 
-Para Kael, no hubo sorpresas. Cuando le pusieron delante un objeto cargado de huella ambiental —una piedra antigua traída deliberadamente de una de las rutas letales, con suficiente historia acumulada como para que cualquier Categoría I la sintiera con claridad—, algo en su pecho se iluminó de un modo que no se parecía a nada de lo que había sentido con los otros objetos de la prueba: ni con el mechón de cabello cargado de huella propia, ni con la carta sellada cargada de huella ajena que el instructor manejaba con guantes especiales para no contaminar el resultado.
+Dentro, sobre un paño oscuro ya desteñido, descansaban dos revólveres gemelos.
 
-—Categoría I —dijo el instructor evaluador, anotando el resultado en su registro sin demasiada ceremonia—. Encaminado hacia huellas ambientales. Es, con diferencia, la confirmación más limpia que he visto este año.
+Kael no se atrevió a tocarlos durante un momento. El metal tenía el mismo brillo apagado y casi vivo que le había visto al arma de Marek Hessan en la estación de mercancías, cuatro años atrás. Los tambores eran más grandes de lo normal, y en el costado de cada cañón había una inscripción grabada a mano, dos palabras distintas en cada arma, en una caligrafía que reconoció de inmediato como la misma de las pocas cartas de sus padres que el Instituto había conservado entre sus pertenencias.
 
-No era una sorpresa, pero aun así sintió algo parecido al alivio. Llevaba meses sospechándolo —cada vez que entraba a un lugar nuevo, una parte de él parecía notar, sin proponérselo, qué tanta historia llevaba ese sitio encima, como quien distingue el peso de un objeto sin necesidad de levantarlo— y tener al fin una palabra oficial para eso se sentía como encontrar el nombre correcto de algo que ya conocía de memoria.
+*Voz de Alba*, decía una.
 
-—Los que rozan —murmuró, recordando el nombre popular que tantas veces había leído en los pocos libros de la biblioteca del Ala Norte que hablaban del tema con algo más de detalle que un manual escolar.
+*Voz de Ocaso*, decía la otra.
 
-—Así nos llaman, sí —dijo una voz nueva, que no era la del instructor evaluador.
+—Son de Artífice —dijo el administrador, con el tono profesional de quien ha entregado cientos de objetos parecidos, aunque pocas veces con esta carga encima—. Tus padres las consiguieron entre los dos, a lo largo de varios años de expediciones buenas. Cada una corre con un núcleo engastado en el tambor; mientras tenga carga, dispara. Cuando se agote, hay que reemplazarlo, y eso cuesta dinero real, así que no las desperdicies en práctica que no lo merezca.
 
-Kael se giró y encontró, de pie junto a la puerta del aula de pruebas, a una mujer de unos treinta y tantos años, vestida con el uniforme de campo de un Explorador licenciado, con una cicatriz fina que le cruzaba el dorso de una mano y una mirada que evaluaba sin disimular que estaba evaluando. Llevaba, colgado al cinto, un equipo de campo que parecía haber visto años de uso real, no la versión nueva y reluciente que se vendía en las tiendas del mercado.
+—¿Cuántas cargas tiene cada núcleo?
 
-—Soraya Vahn —se presentó, sin extender la mano, solo un asentimiento breve—. Voy a supervisar el examen de campo final de tu cohorte el año que viene. Quería ver con mis propios ojos a quién me va a tocar evaluar.
+—Cien, si es uno bueno. Menos si es de calidad inferior. —Señaló el compartimento traslúcido en la base de cada arma, donde algo parecido a una brasa fría parpadeaba con un ritmo casi imperceptible—. El que llevan instalado lleva años sin usarse, así que probablemente siga cerca de su capacidad máxima. Aun así, hazlo revisar por un Artífice antes de confiarle algo serio.
 
-—¿Por qué a mí en particular? Hay otros tres aprendices recibiendo el mismo resultado hoy.
+Kael tomó la primera con cuidado, sorprendido por el peso exacto, por cómo el mango parecía ajustarse a su mano de un modo que no debería ser posible en un arma que nunca había sostenido. Pensó en las manos que sí la habían sostenido antes que él, en años de expediciones de las que solo conocía fragmentos de segunda mano, en si habría sido su padre o su madre quien disparara con más frecuencia.
 
-—Porque eres Doran —dijo ella, sin más explicación, y algo en su tono hizo que Kael no se atreviera a preguntar más, aunque la curiosidad lo carcomiera por dentro. Notó, sin embargo, algo extraño en la forma en que la mirada de Soraya se detuvo un instante de más en él, como si estuviera viendo, además del aprendiz frente a ella, alguna otra cosa que Kael no podía adivinar.
+—¿Por qué me las dan justo ahora?
 
-—¿Conoció a mis padres? —se atrevió a preguntar, sin poder contenerse del todo.
+—Porque el examen de campo final es la primera vez que vas a necesitar un medio de defensa real —dijo el administrador, sin rodeos—. El Instituto podría asignarte equipo de almacén, más barato y más simple. Pero el protocolo permite que un aprendiz porte equipo familiar si está disponible, y francamente, Doran, esto vale más que cualquier cosa que pudiéramos sacarte del almacén.
 
-Algo en el rostro de Soraya se tensó, apenas perceptible, antes de recomponerse.
+—¿Sabe usted algo sobre cómo murieron en realidad? Más allá de lo que dice el registro oficial.
 
-—Eso no viene al caso ahora —dijo, con una firmeza que cerraba la conversación de forma definitiva—. Lo que importa es tu Calado y tu Categoría. Categoría I, encaminamiento limpio. Eso suele significar, si entrenas bien, una Senda de detección. Rastreador, probablemente, dado tu oficio futuro.
+El administrador se detuvo, considerando la pregunta con una seriedad que Kael no esperaba de alguien cuyo trabajo consistía en entregar cajas y hacer firmar registros.
 
-—¿Eso es bueno o malo?
+—No, Doran. Mi trabajo es la custodia de objetos, no el registro de causas de expedición. —Hizo una pausa breve—. Pero si te sirve de algo: en todos los años que llevo aquí, nunca he visto un equipo de Artífice tan bien mantenido como este, a pesar del tiempo que pasó guardado. Eso dice algo de quién lo usaba. Gente cuidadosa. Gente que sabía exactamente el valor de lo que tenía.
 
-Soraya Vahn lo consideró un momento, con una seriedad que no parecía habitual en ella para con un aprendiz de dieciséis años.
+Kael sostuvo las dos Voces, una en cada mano, sintiendo el peso real de lo que significaban: no solo herramientas, sino lo único tangible que le quedaba de dos personas a las que apenas podía recordar por sí mismo. Todo lo demás —las historias, las anécdotas, la cara exacta que tendrían si sonrieran— le había llegado siempre filtrado por la boca de otros. Esto pesaba lo que pesaba, olía a aceite y a metal viejo, y era, en sentido literal, lo último que sus manos habían tocado antes de no volver.
 
-—No es ofensivo —dijo finalmente—. No vas a ser quien lance fuego en una pelea. Pero vas a ser quien sepa, antes que nadie, qué hay detrás de la siguiente curva. En este oficio, eso vale más de lo que crees. Más de una expedición se ha salvado por alguien que supo leer una huella a tiempo, no por alguien que supo lanzar el hechizo más vistoso.
+—Gracias —dijo, sin saber bien a quién dirigía exactamente esa gratitud.
 
-—¿Usted qué Senda tiene?
+Guardó las Voces en el estuche reforzado que venía con la caja y salió del despacho con un peso distinto sobre los hombros mientras, afuera, el sol de la tarde empezaba a bajar sobre Cumbresenda, pintando de naranja las vías del ferrocarril que cruzaban la ciudad como cicatrices de luz.
 
-—Custodia —dijo ella, con una brevedad que no invitaba a profundizar—. Reforzar lo que ya hay, en vez de crear algo nuevo. Es útil cuando se sabe usar a tiempo. No es la Senda más vistosa, pero he visto a más Exploradores volver con vida gracias a un escudo bien puesto que gracias a cualquier ataque elegante.
+Se cruzó con Bram en el camino de vuelta, que llevaba su propio equipo recién comprado y se detuvo en seco al ver el estuche.
 
-—¿Y cómo se sabe usar a tiempo?
+—¿Eso es lo que creo que es?
 
-—Eso, Doran, es exactamente lo que vas a tener que aprender el año que viene, junto con el resto de tu cohorte. —Una sombra de algo parecido a una sonrisa cruzó brevemente el rostro de Soraya, la primera muestra de calidez real que Kael había visto en ella—. No te lo voy a regalar antes de tiempo.
+—El equipo de mis padres.
 
-Ya se daba la vuelta cuando pareció recordar algo, y se volvió a medias.
+—Eso es… —Bram buscó la palabra, dudando—. Eso es algo serio, Doran. De verdad serio. ¿Estás bien?
 
-—Una cosa más, Doran, y esta sí te la regalo, porque a tu cohorte nadie se la va a enseñar a tiempo. El año que viene van a empezar a tratar con Trazadores de verdad, no con instructores de escuela. —Soraya se subió apenas la manga izquierda; en el dorso del antebrazo, una línea fina y pálida, como una veta de mármol bajo la piel, cruzaba en diagonal—. ¿Sabes qué es esto?
+—Creo que sí. Es raro. Sentir algo tan pesado y tan bueno al mismo tiempo, sin poder separar del todo las dos cosas.
 
-—Una Marca de Grieta. —Lo había leído: cada etapa del Calado dejaba una cicatriz, distinta en cada persona, sin manual posible para leerlas.
+—No suena raro. Suena exactamente a lo que cualquiera sentiría. —Bram le dio una palmada breve en el hombro—. Pasado mañana a esta hora ya vamos a estar en camino, los cuatro. Aprovecha para acostumbrarte al peso.
 
-—Bien. Ahora la regla que el libro no trae: acabo de hacer algo que casi nadie hace. —Se bajó la manga—. Mostrarla es decir cuánto aguanto antes de romperme, y eso no se le dice a cualquiera, igual que un jugador no enseña sus cartas. Vas a conocer Trazadores que las esconden bajo la ropa, bajo maquillaje, bajo maneras de moverse ensayadas durante años. Vas a conocer a más de uno que presume de un Calado que no tiene, porque a distancia nadie puede desmentirlo. Así que: nunca pidas ver una cicatriz, nunca preguntes la etapa de nadie directamente, y cuando alguien te muestre la suya sin que se la pidas, presta mucha atención — o confía en ti de verdad, o quiere que le tengas miedo. Aprender a distinguir esas dos cosas te va a servir más que cualquier hechizo.
+Esa noche, en el dormitorio, le mostró las Voces a Tamsin con un cuidado casi ceremonial, sacándolas despacio del estuche sobre su propia cama.
 
-—¿Y usted? —se atrevió Kael—. ¿Por qué me la mostró a mí?
+—Son hermosas —dijo ella, extendiendo la mano hacia el metal sin llegar a tocarlo—. ¿Puedo?
 
-Soraya lo miró un momento largo, con esa expresión que parecía ver algo más detrás de él.
+—Claro.
 
-—Buena pregunta —dijo. Y se fue sin responderla.
+Tamsin tomó una con cuidado, sopesándola.
 
-Kael se quedó con la sensación extraña de haber sido medido por alguien que ya sabía exactamente qué buscar, aunque él todavía no entendiera del todo qué había encontrado, ni por qué aquella mención de sus padres había provocado una reacción tan contenida en una mujer que, hasta ese momento, no había mostrado ninguna emoción real frente a él.
+—Se siente más pesada de lo que parece.
 
-Esa tarde, de vuelta en el patio de prácticas, encontró a Tamsin esperándolo con la misma curiosidad de siempre, aunque ahora con un matiz distinto: ella seguía sin Marca despierta, a sus dieciséis años, y ambos sabían, sin necesidad de decirlo, que las probabilidades de que algún día la tuviera ya empezaban a ser bajas, una realidad que ninguno de los dos mencionaba directamente pero que flotaba siempre cerca de cualquier conversación sobre el futuro de Kael.
+—El administrador dijo lo mismo, casi con las mismas palabras.
 
-—¿Categoría I? —preguntó, al verle la cara.
+—¿Sabes cuál usaba tu madre y cuál tu padre?
 
-—Categoría I. Senda probable: Rastreador.
+—No. Nunca lo sabré, probablemente. No hay ningún registro de algo tan pequeño.
 
-—Suena a ti —dijo ella, con una sonrisa sincera, sin rastro de la melancolía de hacía un par de años—. Siempre quisiste saber qué había detrás de cada curva antes que nadie. Solo que ahora tienes una palabra elegante para eso.
+—Quizás no importa tanto saber cuál era de quién —dijo Tamsin, devolviéndosela con el mismo cuidado con que la había tomado—. Importa que ahora son tuyas las dos. Que vas a llevarlas juntas, como ellos las llevaron juntos.
 
-—También conocí a la mujer que va a evaluar mi examen de campo final el año que viene.
+Kael tardó en responder.
 
-—¿Cómo es?
+Llevaba toda la tarde dándole vueltas a algo que no le había dicho a nadie, ni al administrador, ni a Bram, ni ahora a ella: que desde el momento en que había sacado la primera Voz de la caja había sabido, con una claridad incómoda, que podía leerla.
 
-—Seria. Directa. —Kael hizo una pausa, recordando la reacción contenida de Soraya ante su pregunta—. Creo que conoció a mis padres, aunque no quiso admitirlo del todo.
+Era un objeto con historia propia. Años de expediciones, dos manos que la habían sostenido miles de veces, un cuidado meticuloso mantenido durante toda una vida adulta. No era un candil de cocina. Era, probablemente, lo más cargado que había tocado nunca sin que un instructor estuviera cerca para detenerlo, y llevaba desde la tarde con la palma apoyada contra el metal en la penumbra del dormitorio, midiendo el peso de algo que no era el peso del arma.
 
-Tamsin lo miró con atención, captando algo en su voz que iba más allá de la simple curiosidad.
+Si extraía de ahí, vería algo. Una mañana cualquiera. Una mano limpiando el tambor. Una voz.
 
-—¿Eso te preocupa?
+Y después esa mañana dejaría de existir, igual que la risa de dos niños en un banco de piedra.
 
-—No sé. Quizás. —Kael se sentó en uno de los bancos del patio, el mismo tipo de banco bajo de piedra donde, años atrás, había vivido su Momento Ancla, aunque este en particular nunca había mostrado ninguna huella interesante—. Llevo toda la vida buscando respuestas en libros y registros que nunca me dan nada nuevo. Y ahora aparece alguien que quizás sí sabe algo, y ni siquiera puedo preguntarle directamente sin que se cierre por completo.
+—¿Lo estás pensando? —preguntó Tamsin, que lo había estado mirando todo ese rato.
 
-—Quizás todavía no es el momento —dijo Tamsin—. Quizás cuando te toque trabajar con ella de verdad, en el examen, encuentres una forma de preguntarle que no la haga cerrarse así.
+—¿El qué?
 
-—Eso suena a esperar mucho tiempo para algo que ya quiero saber ahora.
+—Leerlas.
 
-—La mayoría de las cosas que de verdad importan toman su tiempo, Kael. Tú mismo me lo has enseñado, sin darte cuenta, con todo esto de tu Marca y tu entrenamiento. Nada de lo que has logrado pasó de un día para otro.
+Kael retiró la mano del metal.
 
-Kael se rió, esta vez sin reservas, reconociendo en las palabras de Tamsin un eco de su propia paciencia aprendida a fuerza de años repitiendo el mismo registro de expediciones sin encontrar nunca nada nuevo, y aun así volviendo cada semana, convencido de que algún día, sin saber bien cuándo ni cómo, ese hábito terminaría dando algún fruto.
+—Sí.
 
-—¿Sabes qué es lo más raro de todo esto? —dijo Kael, después de un largo momento de silencio—. Que llevo años enteros queriendo respuestas sobre mis padres, y ahora que aparece alguien que quizás de verdad las tiene, una parte de mí tiene miedo de obtenerlas.
+—¿Y?
 
-—¿Por qué?
+—Y son lo único que queda —dijo—. Si lo gasto, no queda nada, y ni siquiera podría contárselo a nadie después sin que fuera otra historia prestada. Sería yo contando algo que ya no existe. —Guardó la primera Voz en el estuche, despacio—. Prefiero no saberlo y que siga estando.
 
-—Porque mientras no sé nada, puedo imaginarlos como quiera. En el momento en que alguien me diga la verdad completa, esa libertad se acaba.
+Tamsin no dijo nada durante un momento largo. Después se inclinó sobre la mesilla y sopló la vela.
 
-Tamsin no respondió de inmediato, dejando que la frase se asentara entre los dos con todo su peso.
+—Esa —dijo, en la oscuridad— es la primera cosa de archivista que te escucho decir en seis años.
 
-—Entonces quizás no se trata de tener miedo a la respuesta en sí misma —dijo finalmente—. Se trata de estar listo para recibirla. Y eso, a diferencia de la respuesta misma, sí puedes controlarlo, poco a poco, con el tiempo que te queda antes de que llegue.
+Fue lo último que hablaron esa noche, y aun así Kael se quedó despierto, porque la decisión de no leer las Voces no había cerrado la incomodidad que arrastraba desde la tarde: era otra cosa, más pequeña, alojada en algún sitio al que no conseguía llegar.
 
-Kael asintió, sintiendo el peso de la conversación asentarse de un modo extrañamente reconfortante, y los dos se quedaron ahí un rato más, hablando de cosas más livianas —el examen de Vannel de la semana siguiente, una broma reciente de Bram que ya corría por todo el curso, y la noticia de que el bibliotecario del Ala Norte había pedido formalmente a Tamsin como aprendiz de archivo, algo que ella contó fingiendo que no le importaba demasiado y sin poder dejar de sonreír—, hasta que el frío de la tarde finalmente los empujó de vuelta hacia el calor del dormitorio.
+La identificó a las tres de la madrugada, despierto boca arriba, mirando las vetas del techo que conocía de memoria.
+
+El libro de custodias. La página abierta sobre el mostrador mientras el administrador anotaba la entrega, y él con la vista en la caja, mirando sin mirar. Tres líneas. Había habido tres líneas en la custodia Doran, y solo dos tenían motivo para existir.
+
+Se levantó antes del amanecer, se saltó el desayuno y subió por el pasillo administrativo a esperar cuarenta minutos sentado en el suelo, frente a una puerta cerrada, hasta que el administrador de custodias llegó a abrir su despacho.
+
+—Doran. —El hombre lo miró con un cansancio sin sorpresa—. Sales mañana, ¿no deberías estar durmiendo?
+
+—Necesito ver la página otra vez. La de mi custodia. Treinta segundos.
+
+Quizá fue la hora, o la cara que traía, o los cuarenta minutos en el suelo. El administrador suspiró, abrió el libro sobre el mostrador y lo giró hacia él.
+
+Tres líneas.
+
+El depósito, fechado hacía doce años. La entrega de ayer, con su propia firma todavía fresca. Y entre las dos, una tercera: *Apertura y devolución*, con fecha de hacía unos siete años —Kael habría tenido diez— y, en el espacio reservado al nombre del solicitante, en vez de una firma, un simple código: **R-VA-117**.
+
+—¿Qué es esa línea del medio?
+
+El administrador se ajustó los anteojos.
+
+—Apertura administrativa. Una auditoría de inventario, supongo; cada tantos años se comprueba que el contenido de las custodias coincida con el registro. —Frunció el ceño, apenas, releyendo—. Aunque es raro, ahora que lo dices. Las auditorías se firman con nombre. Y en nueve años en este puesto, no recuerdo ninguna que haya tocado una custodia familiar.
+
+—¿Se puede saber de quién es el código?
+
+—Desde aquí, no. Los códigos de autorización se emiten en el registro central, en Vel Aris. —Cerró el libro con la naturalidad de quien da un tema por agotado—. No le des importancia. Quien haya abierto esa caja la devolvió completa: el inventario coincide pieza por pieza con el del depósito. Eso es lo único que a ti debería importarte hoy.
+
+Kael ya tenía el cuaderno fuera.
+
+Copió el código en la última página, junto al *Sector 7-Delta* y a todas las demás piezas sueltas que no encajaban en nada: el sello azulado de tinta, la mujer que leía la misma página más tiempo del necesario, una Exploradora que se marchaba de un patio justo cuando decían su apellido.
+
+Alguien había abierto la caja de sus padres siete años atrás. Había sacado las dos armas que Kael llevaba ahora a la espalda, las había sostenido en las manos, y las había devuelto a su sitio sin dejar un nombre.
+
+Y no se había llevado nada.
+
+Eso era lo que no lo dejaba respirar bien mientras bajaba las escaleras de piedra hacia el patio, con el día entero por delante y una sola cosa clara: que nadie abre una caja cerrada durante doce años, en un archivo al que hay que pedir autorización desde otra ciudad, para no llevarse nada.
+
+Se abre para comprobar algo.

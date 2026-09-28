@@ -1,73 +1,129 @@
-# Capítulo 4 — El Día de los Caídos
+# Capítulo 4 — Lo que se quiebra primero
 
-El viernes llegó con un cielo más claro de lo habitual, uno de esos días en que las cordilleras lejanas se veían con una nitidez casi irreal desde cualquier punto alto de Cumbresenda, como si la ciudad entera hubiera decidido, por una vez, mostrarse sin la bruma que normalmente la envolvía hacia el oeste. Kael lo tomó como una mala señal, aunque no podía explicar bien por qué. Algo en su estómago le decía que los días así, demasiado claros, demasiado perfectos en apariencia, eran justo los que terminaban guardando alguna sorpresa desagradable.
+Retrocedió un paso, dos, sin pensarlo, alejándose de Tarvok y de sus palabras como si pudiera dejarlas atrás físicamente. El talón le golpeó contra el borde de piedra de uno de los bancos bajos que rodeaban el patio, y la mano, buscando equilibrio, se apoyó de lleno sobre la piedra fría.
 
-Esa mañana, antes de bajar al patio, Kael se había quedado un rato más de lo habitual frente a la ventana de su dormitorio, repasando una última vez las pocas frases que pensaba decir. Las había escrito y reescrito tantas veces en su cuaderno que las páginas correspondientes ya estaban casi ilegibles de tachones, y al final había terminado memorizando una versión que ni siquiera estaba segura de ser la mejor, solo la que menos lo hacía sentir como un mentiroso.
+Lo que pasó después, Kael no podría describirlo del todo, ni esa tarde ni en mucho tiempo. No fue un dolor, exactamente. Fue más parecido a abrir una puerta que no sabía que existía y encontrar, al otro lado, algo que llevaba ahí mucho más tiempo que él.
 
-—¿Listo? —le preguntó Tamsin, ya vestida, esperándolo junto a la puerta del dormitorio.
+Por un instante, el aire sobre el banco tembló como el calor sobre las dunas en pleno verano, y entre ese temblor se dibujó algo: la silueta borrosa de dos niños mucho más pequeños que Kael, sentados exactamente en ese mismo lugar, riendo de algo que ninguno de los presentes podría escuchar, vestidos con un uniforme gris casi idéntico al de hoy salvo por un detalle de corte que ya nadie usaba —las mangas más anchas, los botones de un material distinto—, algo que sugería décadas de diferencia entre ese instante prestado y el presente real.
 
-—Tan listo como se puede estar para algo así.
+Duró lo que dura un suspiro. Después la silueta se deshizo igual que el humo en el viento, y el patio volvió a ser solo piedra, banco, tarde fría.
 
-—Eso no responde la pregunta.
+Pero el silencio que dejó detrás fue absoluto.
 
-—Es la única respuesta que tengo.
+—¿Qué fue eso? —dijo Olvic, con una voz que ya no tenía nada de la burla de minutos atrás, retrocediendo un par de pasos como si el banco pudiera repetir lo que acababa de mostrar.
 
-Bajaron juntos hacia el comedor, donde el desayuno transcurrió con una rapidez inusual: nadie parecía tener mucho apetito esa mañana, ni siquiera quienes no tenían ninguna memoria que preparar. La Maestra Korr supervisaba desde un rincón, con esa mirada atenta que parecía captar el ánimo general del Ala Norte sin necesidad de preguntarle a nadie directamente cómo se sentía.
+Kael no respondió. No podía. Tenía la mano todavía apoyada sobre la piedra, los ojos abiertos como si algo se hubiera quedado atascado detrás de ellos, y un vacío repentino en algún rincón de la cabeza que no sabía nombrar —como si hubiera prestado algo sin darse cuenta de a quién, ni de qué, ni de cómo recuperarlo. A su alrededor, el resto del patio empezaba a notar también que algo ocurría: cabezas girándose, conversaciones interrumpidas a media frase, un círculo de curiosidad formándose despacio sin que nadie se atreviera todavía a acercarse demasiado.
 
-Cuando por fin llegó la hora, los aprendices se dirigieron hacia el patio principal en filas ordenadas por curso, atravesando los mismos pasillos de piedra que recorrían todos los días, pero con un silencio distinto, más pesado, que ni los instructores se molestaban en romper con sus habituales llamados al orden.
+—Doran. —La voz de la Maestra Korr llegó desde algún punto del patio, más cerca y más rápida de lo que debería haber sido posible para alguien de su edad—. No te muevas.
 
-El patio principal del Instituto en Cumbresenda no era, en ningún día normal, un lugar especialmente solemne. Era donde los aprendices hacían ejercicios de equilibrio, donde se cruzaban entre clases, donde alguna vez un Explorador de paso había mostrado, entre risas y aplausos, cómo se lanzaba una cuerda de anclaje a quince metros de distancia, ganándose la admiración entusiasta de toda una generación de aprendices que durante semanas no hablaron de otra cosa. Pero el Día de los Caídos lo transformaba todo: las columnas de piedra se cubrían de banderines grises sin escudo ni nombre, los aprendices formaban en filas según su curso, y al frente, sobre una tarima improvisada de madera vieja, se colocaba una sola vela por cada Explorador o Trazador de la ciudad que no había vuelto ese año.
+Kael ni siquiera había notado que alguien hubiera ido a buscarla. Solo supo que, de pronto, estaba ahí, agachada frente a él, sosteniéndole el rostro con una firmeza que no admitía discusión, mirándolo a los ojos con una atención que jamás le había dedicado.
 
-Ese año había cuatro velas.
+—¿Qué sientes? —preguntó, y por primera vez su voz neutra de siempre tenía algo distinto. No miedo, exactamente. Algo más parecido a una alerta contenida.
 
-Kael las miró arder desde su lugar en la fila, entre Tamsin y un aprendiz de pago que no conocía bien, mientras el director del Instituto en Cumbresenda —un hombre de voz grave que solo aparecía en ocasiones así, como si reservara su presencia física para los momentos que de verdad la merecían— hablaba de sacrificio, de servicio, de lo que significaba que la ciudad entera pudiera vivir su vida cotidiana, segura detrás de sus murallas, gracias a quienes se internaban en lo que nadie más se atrevía a cruzar.
+—No sé. —La palabra le costó más esfuerzo del que debería—. Me siento vacío. En un sitio que no sabría señalar.
 
-—Cada vela que ven ahí arriba —decía el director, con las manos extendidas hacia la tarima— representa no solo una vida entregada, sino una pregunta que ya nunca tendrá respuesta completa para quienes los amaron. Y aun así, Cumbresenda sigue. Aun así, mandamos a otros, sabiendo el riesgo, porque la alternativa —quedarnos sin saber qué hay más allá de nuestras murallas— es, para esta ciudad, una alternativa que nunca hemos estado dispuestos a aceptar.
+Korr cerró los ojos un segundo, como quien confirma algo que ya temía, y se incorporó de golpe.
 
-Era el mismo discurso de siempre, palabra por palabra casi, y Kael había dejado de escucharlo de verdad hacía dos años, cuando entendió que las palabras del director nunca iban a explicarle nada que el libro de registros no le hubiera dicho ya, con la misma frialdad burocrática de siempre. Lo que sí escuchaba, lo que no podía dejar de escuchar, era el silencio incómodo que se hacía cada vez que el discurso terminaba y empezaba la parte que todos los aprendices del Ala Norte temían: las memorias.
+—Que todos vuelvan a sus aulas. Ahora mismo. —Su voz, dirigida al resto del patio, no dejaba espacio para preguntas, y el resto de los aprendices, Tarvok incluido, obedeció sin atreverse a discutir, dispersándose en grupos murmurantes que ya empezaban a tejer sus propias versiones de lo ocurrido—. Tú, conmigo.
 
-Uno por uno, los aprendices de los últimos tres cursos subían a la tarima y decían unas pocas frases sobre algún Explorador o Trazador caído. Algunos hablaban de tíos, de primos lejanos, de figuras casi mitológicas que apenas habían conocido en persona. Un chico del curso superior habló de un tío que había servido como Custodio en una expedición de cartografía de las cordilleras altas, describiendo con detalle el tipo de escudo de huellas que su tío solía formar para proteger a sus compañeros, un detalle tan técnico que varios instructores presentes asintieron con aprobación silenciosa. Una chica del curso de Tarvok habló de un vecino que había muerto cruzando una de las rutas de Avar hacía solo dos años, con una sinceridad cruda que dejó al patio entero en silencio durante varios segundos después de que bajara de la tarima. Tamsin subió cuando le tocó y habló, con una voz más firme de lo que Kael esperaba, de un Explorador inventado que había muerto cruzando una franja de hielo para salvar a su equipo entero —nadie en el patio supo que no era real, y a nadie pareció importarle. Describió detalles tan precisos, tan cuidadosamente pensados, que por un momento incluso Kael, que sabía la verdad, sintió que esa persona inexistente había sido real en algún lugar del mundo.
+Lo llevó casi en volandas hacia la enfermería del Ala Norte, un cuarto pequeño con dos camas y un armario de medicinas que Kael nunca había necesitado visitar más allá de un resfriado ocasional. Olía a alcohol desinfectante y a las hierbas secas que la enfermera colgaba de las vigas para los dolores de estómago más comunes. Korr lo sentó en una de las camas y, sin soltarle los hombros, se quedó observándolo con la misma atención de antes.
 
-Cuando llegó el turno de Kael, sintió las piernas pesadas de un modo que no tenía nada que ver con el cansancio.
+—Kael —dijo, usando su nombre en vez del apellido por primera vez que él pudiera recordar—. Lo que acaba de pasar tiene un nombre. Se llama Momento Ancla.
 
-Subió los tres escalones de madera, se colocó frente a las filas de uniformes grises, y por un segundo —solo un segundo, pero que se sintió mucho más largo— no encontró ninguna palabra. Todos los ojos del patio estaban puestos en él, y en algún lugar de esa multitud, sabía exactamente dónde sin necesidad de mirar, estaba Joren Tarvok esperando.
+—¿Qué es eso?
 
-—Mireia y Esteben Doran —dijo al fin, con la voz más controlada de lo que sentía por dentro—. Mis padres. Exploradores del Instituto, con sede en esta misma ciudad. Se perdieron en expedición hace seis años, cartografiando una quebrada que todavía no tiene nombre en ningún registro oficial.
+—Es lo que le ocurre a quien tiene una Marca dormida cuando, por fin, algo la despierta. —Korr se sentó en el borde de la otra cama, y por primera vez Kael notó que sus propias manos temblaban, aunque fuera apenas—. No todos la tienen. La mayoría de la gente vive y muere sin que nada la despierte jamás. Tú acabas de tocar algo que estaba en esa piedra, esperando desde hace quién sabe cuántos años. Un eco. Un fragmento de un momento que alguien más vivió mucho antes que tú.
 
-Hizo una pausa. No sabía qué más decir —no tenía ninguna anécdota propia, ningún recuerdo de primera mano que pudiera ofrecerle al patio, solo lo que otros le habían contado con frases sueltas y a medias, repetidas tantas veces que ya no sabía con certeza si las recordaba o las había terminado de inventar él mismo, igual que Tamsin acababa de inventar a alguien entero.
+Kael miró sus propias manos, todavía con el cosquilleo helado que no terminaba de irse.
 
-—No los recuerdo bien —continuó, y esa frase le costó más que ninguna otra—. Pero sé que hicieron lo mismo que estos cuatro este año. Cruzaron algo que nadie más quería cruzar, para que el resto de nosotros no tuviera que hacerlo.
+—¿Soy un Trazador?
 
-Bajó de la tarima entre un aplauso tibio, el mismo aplauso tibio que recibía todo el mundo, y volvió a su lugar en la fila junto a Tamsin, que le apretó el brazo brevemente sin decir nada. Fue un gesto pequeño, casi imperceptible para cualquiera que no estuviera mirando con atención, pero a Kael le bastó para sentir que había sobrevivido la peor parte del día.
+—Eres lo que se llama, en esta primera etapa, Filtración. —Korr eligió las palabras con un cuidado que no era habitual en ella—. No tienes Categoría todavía. No tienes control. Lo que pasó ahí afuera no fue algo que decidieras hacer; fue algo que te ocurrió, porque el miedo y la rabia abrieron una puerta que tu cuerpo no sabía cómo cerrar. Vas a tener que aprender, desde cero, qué puedes tocar sin que te haga daño y qué no.
 
-La ceremonia siguió su curso. Más memorias, más aplausos, hasta que el director cerró el acto con una última frase sobre la huella que nunca se borra, y los aprendices empezaron a dispersarse hacia sus actividades del resto del día, algunos comentando entre ellos los discursos más memorables, otros simplemente aliviados de que todo hubiera terminado por otro año más.
+—¿Y lo que vi? Esos dos niños.
 
-Fue entonces, mientras Kael cruzaba el patio de vuelta hacia el Ala Norte, cuando Tarvok lo interceptó, esta vez sin la sonrisa fácil de otros días.
+—Un eco viejo de ese banco. —Hizo una pausa, y algo en su rostro se suavizó por primera vez desde que había llegado al patio—. Pero pudo haber sido otra cosa, Kael. Esa piedra tenía poca historia que ceder. Si en vez de apoyarte ahí te hubieras apoyado en algo más cargado, no estaríamos teniendo esta conversación de la misma forma.
 
-—Bonito discurso —dijo—. Lo de "no los recuerdo bien" fue lo mejor. Muy convincente.
+El peso de esa frase tardó un momento en asentarse, y cuando lo hizo, Kael sintió un escalofrío distinto al de antes: el de entender, por primera vez, que el mundo en el que había vivido toda su vida tenía una capa entera que nunca había podido ver, y que esa capa podía matarlo con la misma facilidad con la que acababa de mostrarle dos niños riendo en un patio que ya no existía.
 
-—No tengo tiempo para esto, Tarvok.
+—¿Mis padres eran…? —empezó a preguntar, sin terminar la frase.
 
-—¿Sabes qué es lo gracioso? —Tarvok caminaba ahora delante de él, cerrándole el paso sin necesidad de tocarlo, rodeado de sus dos amigos de siempre, que esta vez parecían un poco menos cómodos que de costumbre, como si incluso ellos sintieran que algo en el tono de su amigo se había vuelto distinto—. Que en seis años no se te haya ocurrido preguntar por qué nadie nombró nunca esa quebrada. Yo creo que sí tiene nombre. Creo que todos lo saben y que a ti, específicamente, nadie te lo quiere decir.
+—Trazadores, sí. Como casi todos los Exploradores con experiencia. —Korr le puso una mano sobre el hombro, esta vez con más calidez que firmeza—. Eso no significa que lo que te pasó a ti tenga algo que ver con cómo se perdieron ellos. No saques conclusiones todavía.
 
-Algo en el pecho de Kael se tensó de una forma que no había sentido antes, ni siquiera en las peores burlas anteriores.
+—¿Qué va a pasar ahora? ¿Tengo que dejar la escuela?
 
-—¿De qué estás hablando?
+—No. —La respuesta fue inmediata—. Vas a seguir exactamente donde estás, con tus mismas clases y tus mismos compañeros. Solo que ahora, dos veces por semana, vas a tener sesiones adicionales con un instructor especializado en Filtración, para que aprendas a reconocer qué objetos son seguros y cuáles no. Es un proceso lento. No esperes entender todo de golpe.
 
-—De que quizás no se perdieron —dijo Tarvok, bajando la voz lo suficiente para que solo él lo oyera, pero con la suficiente crueldad calculada para que doliera más por lo íntimo que por lo público—. Quizás simplemente no quisieron volver. A criarte a ti, quiero decir.
+Kael asintió, aunque por dentro la cabeza ya le daba vueltas con preguntas que ahora tenían un peso distinto: ya no eran curiosidad de huérfano, eran parte de quién era él mismo.
 
-El patio, de pronto, pareció más estrecho de lo que era. Kael sintió el calor subirle por el cuello, una presión detrás de los ojos que no reconocía, y por un instante —apenas un instante— el mundo a su alrededor pareció vibrar, como si el aire mismo hubiera cambiado de textura sin que nadie más lo notara. Las voces de los demás aprendices, que segundos antes llenaban el patio con su bullicio normal, parecieron alejarse, amortiguarse, como si las escuchara a través de agua.
+—¿Korr? —dijo, antes de que ella se levantara—. ¿Le puedo preguntar algo que quizás no debería preguntarle a usted?
 
-—Cállate —dijo, con una voz que ni él reconoció del todo como suya.
+—Puedes intentarlo.
 
-Tarvok, por primera vez en mucho tiempo, no respondió enseguida. Algo en la cara de Kael —algo que ni el propio Kael podía ver— lo hizo retroceder medio paso, casi sin darse cuenta de que lo hacía. Sus dos amigos, Bressan y Olvic, intercambiaron una mirada incómoda, sin saber si reír, callar, o simplemente alejarse antes de que pasara algo que no entendían del todo.
+—¿Por qué a unos les pasa y a otros no?
 
-—Era solo una broma —dijo Tarvok, sin la convicción de siempre.
+Korr lo consideró con la misma seriedad que dedicaba a cualquier pregunta que mereciera una respuesta cuidadosa.
 
-Pero Kael ya no lo estaba escuchando. Tenía la vista fija en sus propias manos, que habían empezado a temblar de un modo que no tenía nada que ver con el frío de la tarde, y una sensación extraña, como un cosquilleo helado, le recorría desde la punta de los dedos hasta algún lugar profundo del pecho que no sabía nombrar. Sintió, de pronto, un peso distinto sobre los oídos, como si el aire hubiera ganado densidad, y la vista se le nubló brevemente en los bordes, dejando solo el centro de su campo de visión nítido: sus propias manos, temblando, frente a él.
+—Nadie lo sabe con certeza. Ni los archivos más antiguos de la Biblioteca Infinita tienen una respuesta completa para eso.
 
-Algo estaba pasando, ahí mismo, frente a todo el patio que apenas un momento antes había estado disolviéndose hacia sus propias actividades del día. Algo que no tenía explicación en ningún libro de la pequeña biblioteca del Ala Norte, y que Kael, en ese momento, todavía no tenía ninguna palabra para describir. Sentía, sin entender por qué, que algo dentro de él había encontrado de pronto una grieta por la que escapar, y que esa grieta llevaba ahí mucho más tiempo del que jamás hubiera imaginado, esperando paciente el momento exacto en que el miedo y la rabia coincidieran lo suficiente para abrirla del todo.
+»Lo que sí se sabe —añadió, tras un momento, quizá porque la cara de Kael dejaba claro que esa respuesta no le alcanzaba— es lo raro que es. Los archivos hablan de un despertar por cada billón de personas, y es uno de esos números que no significan nada hasta que se viven: hay distritos enteros de esta ciudad donde no ha despertado nadie en diez generaciones, donde la magia es algo que sale en las historias de taberna y nada más. Todo el mundo carga la Marca dormida, igual que todo el mundo tiene un tipo de sangre. Y casi nadie, en toda su vida, la verá despertar en alguien que conozca.
 
-—Doran —dijo Bressan, con una voz que ya no tenía nada de la indiferencia habitual, dando un paso hacia él sin saber bien qué hacer con las manos—. ¿Estás bien?
+—¿Entonces por qué…? —Kael dejó la pregunta a medias, pero Korr la entendió entera.
 
-Kael no pudo responder. El zumbido en sus oídos crecía, lento pero constante, y el banco de piedra más cercano —el mismo en el que generaciones de aprendices se habían sentado a comer, a esperar resultados de examen, a llorar en privado cuando creían que nadie los veía— parecía, de pronto, llamarlo con una fuerza que no tenía ningún sentido racional, como si toda la atención que le faltaba ya prestar a sus propias palabras se hubiera volcado, sin permiso, hacia esa piedra fría y gastada.
+—¿Por qué esta escuela ve más Momentos Ancla que un distrito entero de gente común? —Se quedó un momento en silencio, como decidiendo cuánta verdad cabía en un día como ese—. Por quiénes duermen en ella. Hijos de Exploradores. Hijos de Trazadores caídos en servicio. La probabilidad se hereda a medias: nunca la certeza, ningún hijo de Trazadores tiene el despertar garantizado, pero la balanza se inclina. El Instituto no lo dice en voz alta, y yo no te lo voy a repetir fuera de este cuarto: este dormitorio es muchas cosas, y una de ellas es el lugar donde el Instituto espera a que la sangre de los que perdió haga lo que la sangre hace. —Hizo una pausa—. En este dormitorio han dormido cientos de niños desde que yo llegué. Tú eres el segundo que despierta bajo mi cuidado.
+
+—¿El segundo? —Kael levantó la vista—. ¿Quién fue el primero?
+
+—Alguien que ya no está aquí, y esa historia no es para hoy. —Korr se levantó, alisándose el uniforme, y ya en la puerta se detuvo—. Un consejo más, y es gratis. Vas a notar que los adultos no dicen la palabra "Ancla" cerca de los niños pequeños. Unos, porque creen que nombrarla la atrae antes de tiempo. Otros, porque creen que la espanta. Llevan siglos sin ponerse de acuerdo en cuál de las dos cosas es cierta, lo que debería darte una idea bastante exacta de cuánto entendemos de verdad sobre todo esto.
+
+Esa noche, cuando por fin volvió al dormitorio, encontró a Tamsin sentada en su cama, esperándolo despierta.
+
+—Todo el Ala Norte está hablando de eso —dijo, sin rodeos—. ¿Es verdad? ¿Despertaste?
+
+—Creo que sí.
+
+Tamsin lo miró un largo momento, con una expresión entre el orgullo y el miedo, exactamente la misma mezcla que él sentía por dentro.
+
+—Entonces ya no eres solo el huérfano Doran. Ahora eres otra cosa. Y no sé si eso es mejor o peor.
+
+—Yo tampoco.
+
+—¿Te duele?
+
+—No exactamente. Es más como si me faltara algo, en un sitio que no puedo señalar con el dedo.
+
+—Suena horrible.
+
+—Un poco. —Kael se sentó en el borde de su propia cama, con las botas todavía puestas—. Pero también se sintió como entender algo de mis padres que nunca había podido entender. Que esto era parte de lo que ellos vivían, todos los días, antes de que yo naciera siquiera.
+
+Tamsin no dijo nada durante un rato largo. Cuando habló, fue en voz más baja que antes.
+
+—Hoy, mientras hablabas en la tarima, pensé una cosa fea. —Se abrazó las rodillas—. Pensé que ojalá tuviera algo tan grande como lo tuyo. Algo con nombre, con fecha. Algo que la gente supiera mirar cuando me mira a mí. —Dejó escapar una risa corta, sin gracia—. Y esta tarde el patio entero te miró, y no tenía nada que ver con tus padres, y aun así fuiste tú. Otra vez tú.
+
+—Tamsin…
+
+—No es un reproche. Solo quería decirlo en voz alta una vez, para no tener que pensarlo más. —Se acostó, dándole la espalda, y su voz llegó amortiguada por la manta—. Duérmete, Kael. Mañana va a estar todo el mundo preguntándote cosas.
+
+---
+
+Tres días después, la Maestra Korr fue a buscarlo al final de las clases y, sin explicarle a dónde iban, lo llevó de vuelta al patio principal. El banco seguía donde siempre, idéntico a como había sido durante toda la vida de Kael: piedra gris, bordes gastados, la superficie pulida por generaciones de aprendices.
+
+—Tócalo —dijo Korr.
+
+—¿No es peligroso?
+
+—Ya no. Eso es exactamente lo que quiero que entiendas. Tócalo.
+
+Kael apoyó la palma sobre la piedra fría, preparándose para el temblor, el cosquilleo, la puerta abriéndose otra vez. No pasó nada. La piedra era solo piedra: fría, áspera, muda de una forma que no supo describir, porque nunca había sabido que las cosas pudieran sonar hasta que dejaban de hacerlo.
+
+—No hay nada —dijo.
+
+—No. Ya no hay nada. —Korr se sentó en el banco, sin ninguna ceremonia, y le hizo un gesto para que se sentara a su lado—. Esos dos niños que viste llevaban ahí décadas, quizá más. Cada aprendiz que se sentó en este banco durante todos esos años se sentó, sin saberlo, al lado de esa risa. Y ya no está. La gastaste tú, en un solo instante, para algo que ni siquiera decidiste hacer.
+
+Kael retiró la mano despacio, como si la piedra pudiera acusarlo.
+
+—No fue mi intención.
+
+—Lo sé. Por eso te lo enseño ahora, antes de que tengas intenciones. —Korr miró el patio, las banderas descoloridas, los muros que llevaban siglos acumulando tardes—. Esto es lo que somos los que tocamos el Rastro, Kael. Cada cosa que hacemos la paga algo que no puede protestar. Un lugar, un objeto, una historia que estaba ahí y deja de estar. La gente cree que la magia es lo que se ve: la luz, el eco, el truco. La magia es esto. —Golpeó la piedra muda con los nudillos, dos veces—. El silencio que queda después.
+
+Volvieron al Ala Norte sin hablar. Esa noche, Kael escribió en su cuaderno, debajo de las respuestas a medias del Instructor Vannel, la primera línea que era suya y de nadie más: *dicen que nada se borra nunca. No es verdad. Nosotros borramos.*

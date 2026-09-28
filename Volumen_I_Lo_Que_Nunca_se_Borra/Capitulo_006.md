@@ -1,111 +1,109 @@
-# Capítulo 6 — El mercado de las cien rutas
+# Capítulo 6 — La primera vez que lo hizo a propósito
 
-Pasó un año entero antes de que Kael consiguiera su primer permiso de salida sin acompañante.
+A los catorce años, Kael ya sabía explicar con palabras propias lo que antes solo había sentido como instinto: que su Marca no era un don ni una maldición, sino una puerta que había que aprender a abrir con cuidado, sabiendo exactamente qué se quería tomar prestado y qué se estaba dispuesto a perder por ello.
 
-No había sido un año fácil. Después del Día de los Caídos, la escuela lo había puesto bajo lo que llamaban "observación de Filtración" —revisiones semanales con un instructor distinto a Korr, ejercicios simples para enseñarle a reconocer cuándo algo a su alrededor tenía "demasiada historia" antes de tocarlo sin pensar. Había aprendido, por ejemplo, que las herramientas viejas de los talleres de mantenimiento eran casi siempre seguras, mientras que ciertas piedras del ala más antigua del edificio —las que llevaban siglos en el mismo lugar— era mejor no tocarlas sin supervisión. Había aprendido también que su Marca, ahora despierta, no le daba ningún poder real todavía, solo la capacidad de meterse en problemas si no tenía cuidado.
+Los dos años transcurridos desde el Día de los Caídos habían cambiado la forma en que se movía por el mundo. Ya no caminaba por los pasillos del Instituto con la cautela distraída de antes; ahora una parte de su atención siempre estaba puesta en lo que tocaba, en lo que rozaba con la manga al pasar, en si la baranda de una escalera o el respaldo de una silla tenían demasiada historia para acercarse sin pensarlo dos veces. Era agotador al principio. Con el tiempo se había vuelto casi natural, como aprender a caminar esquivando los charcos sin mirarlos.
 
-Tarvok, después de aquel día, había dejado de burlarse de él casi por completo. No por arrepentimiento —Kael dudaba que Tarvok supiera lo que era eso— sino por algo más simple: nadie en el Ala Norte se atrevía ya a meterse demasiado con el único aprendiz de su curso que había despertado su Marca antes que cualquier otro, y mucho menos después de lo que medio patio había visto, o creído ver, esa tarde.
+Las clases de "control de Filtración" —que ya no se llamaban así en el papel, pero todos en el Ala Norte seguían usando el nombre viejo— se daban dos veces por semana en un patio interior pequeño, alejado de miradas curiosas. El instructor a cargo, un hombre delgado de mediana edad llamado Ressk, había sido él mismo un Trazador débil que nunca pasó de Cuenca, y enseñaba con la paciencia particular de quien sabe exactamente cuánto tarda alguien en entender algo que a él mismo le había costado años.
 
-A los trece años, con el permiso de salida en el bolsillo y un puñado de Marcas —la moneda, no el otro tipo— que había logrado ahorrar de pequeños mandados para los instructores, Kael bajó por primera vez solo hacia el distrito comercial de Cumbresenda.
+Eran tres alumnos. Ressk lo había dicho una vez, el primer día, con la naturalidad de quien informa del clima: en toda la ciudad, ese año, no había más. Kael había tardado meses en entender que no era una queja ni una exageración pedagógica, sino una cifra literal.
 
-El tren urbano lo dejó a tres niveles de altura por debajo de la escuela, en un andén que olía a carbón y a aceite de máquina, donde un letrero de hojalata oxidada anunciaba destinos que Kael nunca había escuchado mencionar en clase: el Distrito de los Talleres, la Cuesta de los Globos, el Embarcadero Seco. Eligió bajar en la parada más cercana al mercado, siguiendo las indicaciones que Tamsin le había anotado de memoria, y caminó las últimas calles hasta el corazón del distrito comercial: una extensión de puestos, toldos y carretas que se perdía en ambas direcciones más allá de lo que la vista alcanzaba a seguir.
+—Hoy no van a tocar nada con los ojos cerrados —dijo Ressk esa tarde, frente a los tres—. Hoy van a intentar sentirlo antes de tocarlo.
 
-Nunca había visto tanta gente junta. Ni tantos acentos distintos mezclados en el mismo aire, ni tantos olores compitiendo entre sí: cuero curtido, especias desconocidas, vapor de máquina, pan recién horneado, todo entremezclado en una sola corriente de aire que parecía no terminar nunca de asentarse.
+Sobre la mesa, frente a cada uno, había un objeto distinto elegido con cuidado: una cuerda deshilachada, una llave oxidada cuya cerradura nadie en el Instituto recordaba ya dónde estaba, y, frente a Kael, un pequeño candil de hojalata, abollado, sin aceite, que parecía no haber servido para nada en años.
 
-—¡Cuero curtido de las rutas del sur, el mejor para botas de viajero! —gritaba un vendedor a su izquierda, sosteniendo en alto una bota gastada como prueba de su resistencia.
+—Acérquense la mano sin tocar todavía. Cierren los ojos si les ayuda. Y díganme qué notan.
 
-—¡Mapas actualizados de la franja desértica, garantizados hasta la última temporada! —gritaba otro, un poco más allá, con un rollo de pergaminos bajo el brazo.
+Kael obedeció, sintiéndose un poco ridículo al principio, hasta que un cosquilleo apenas perceptible —parecido al de aquel día en el patio, pero mucho más débil, mucho más manejable— empezó a filtrarse desde la palma de su mano hacia algún lugar de su pecho.
 
-Kael caminó despacio, dejando que el ruido lo envolviera por completo. En cada puesto había algo que contar: especias que, según el vendedor, solo crecían cerca de un oasis falso en la franja desértica; raciones selladas con el sello del Instituto, las mismas que algún día él mismo tendría que llevar en una expedición real; cuerdas de distintos grosores, clasificadas no por longitud sino por el tipo de terreno para el que estaban pensadas —hielo, roca, cuerda mojada de cruce fluvial, aunque eso último, le explicó un vendedor paciente al notar su curiosidad, era más cosa de Sylvaris que de Avar.
+—Hay algo —dijo, con los ojos todavía cerrados—. No mucho. Como una luz pequeña, encendida y apagada muchas veces. Cansancio. Alguien que usó esto sin pensarlo, durante años, sin que le importara demasiado.
 
-Decidió, casi sin pensarlo, no limitarse a un solo recorrido por las calles principales. Se desvió hacia un callejón lateral donde el ruido del mercado se apagaba un poco y daba paso a algo distinto: talleres pequeños, casi escondidos entre los puestos más grandes, donde artesanos trabajaban a la vista de cualquiera que quisiera detenerse a mirar. En uno de ellos, un hombre mayor reparaba botas de Explorador con una paciencia casi ritual, golpeando cada puntada con un martillo pequeño antes de pasar a la siguiente. En otro, una mujer tejía redes de carga reforzadas, sus dedos moviéndose tan rápido que Kael apenas podía seguir el patrón con la vista.
+Ressk sonrió apenas, con la satisfacción discreta de un maestro que ve a un aprendiz entender algo de verdad por primera vez.
 
-—¿Buscas algo en particular, chico? —le preguntó la mujer, sin dejar de tejer, al notar que se había quedado mirando más tiempo del necesario.
+—Eso es exactamente lo que es. Un candil viejo de cocina, usado por alguien que ya no trabaja aquí. Poca carga, fácil de leer, casi nada que pueda hacerte daño. —Caminó hasta quedar frente a él—. Ahora sí. Tócalo. Y esta vez, en vez de dejar que pase, decide tú qué quieres traer de vuelta.
 
-—Solo miro. Nunca había visto el mercado de cerca.
+Kael cerró los dedos alrededor del candil frío, y por primera vez en su vida sintió la diferencia exacta entre que algo le ocurriera y hacer que algo ocurriera. No fue como aquella tarde en el patio, un torrente que lo arrastraba. Fue más parecido a abrir un cajón con cuidado, sabiendo qué buscaba antes de meter la mano.
 
-—¿Del Ala Norte? —La mujer levantó la vista un segundo, evaluándolo con una mirada rápida que reconocía el uniforme gris incluso a distancia—. Vienes temprano entonces. La mayoría de los aprendices no se aventuran por aquí hasta que ya tienen edad para comprar equipo de verdad.
+El aire sobre el candil tembló, apenas, y por un segundo brilló una luz diminuta —del tamaño de una llama real, pero sin calor, sin sustancia— que iluminó la mesa durante un parpadeo antes de apagarse.
 
-—Solo quería ver cómo funciona todo esto. El comercio, quiero decir. Cómo se mueve el dinero entre la gente.
+—Bien —dijo Ressk, sin exagerar el elogio pero sin escatimarlo—. Esa es tu primera extracción deliberada, Doran. Acabas de cruzar a Cauce Naciente.
 
-La mujer se rió, no con burla, sino con una sorpresa genuina.
+Dessen, que llevaba tres meses en las mismas sesiones sin lograr nada parecido, dejó escapar un suspiro apenas disimulado.
 
-—Eso es raro de escuchar de un chico de tu edad. Casi todos solo quieren ver las armas y las cuerdas.
+—¿Cómo lo hiciste? —preguntó, sin rencor real, solo con la curiosidad honesta de quien quiere aprender del éxito ajeno.
 
-—Mis padres eran Exploradores —dijo Kael, sin pensarlo demasiado—. Supongo que quiero entender el mundo en el que vivieron, no solo el equipo que usaban.
+—No sé bien cómo explicarlo. Fue como decidir abrir la mano en vez de dejar que se abriera sola.
 
-Algo en la cara de la mujer se suavizó un poco, y por un momento dejó de tejer del todo.
+—Eso no ayuda en nada.
 
-—Entonces ven, te explico algo. —Señaló con la cabeza hacia el resto del callejón—. Cada uno de estos talleres paga una tasa al Instituto por poder trabajar tan cerca de la zona de salida de expediciones. A cambio, recibimos prioridad cuando un Explorador necesita algo reparado con urgencia, antes de partir. No es gratis estar aquí, pero tampoco lo sería estar en cualquier otra parte de la ciudad sin esa cercanía.
+—Lo sé. Lo siento.
 
-—¿Y si no pudieran pagar la tasa?
+Ressk intervino antes de que la frustración de Dessen se convirtiera en otra cosa.
 
-—Entonces se mudan más lejos, donde es más barato, y pierden la prioridad. Así funciona casi todo en este mercado, chico. El dinero no solo compra cosas. Compra cercanía a lo que de verdad importa.
+—No todos llegan al mismo ritmo, y eso no significa nada sobre quién va a ser mejor Trazador con el tiempo. La Categoría IV, la más rara de todas, suele tardar más en manifestarse precisamente porque el alma no se decide por un solo camino. La paciencia no es debilidad aquí. Es, casi siempre, la señal de algo más complicado debajo.
 
-Kael asintió, guardando la explicación en algún rincón de la memoria junto a todas las demás piezas sueltas que llevaba coleccionando desde niño, y siguió caminando.
+Dessen no pareció del todo convencido, pero volvió su atención a la cuerda deshilachada con una determinación renovada.
 
-Más adelante, se detuvo frente a un puesto donde un grupo de hombres con el brazalete distintivo del Gremio de la Cuerda Larga discutía precios de paso con un comerciante que quería enviar mercancía hacia Eltar. Los escuchó sin disimular demasiado el interés.
+Kael pasó el resto de la sesión repitiendo el ejercicio con el candil, una y otra vez, hasta que la luz diminuta empezó a salir con más facilidad, más rápido, casi sin esfuerzo consciente.
 
-—Ese tramo cuesta el doble desde que cambió el clima en la franja alta —decía uno de los Viajeros, un hombre de manos curtidas y una cicatriz que le cruzaba media mejilla—. No es capricho, es el riesgo real. Perdimos dos cargas el mes pasado.
+—Suficiente por hoy —dijo Ressk cuando el sol empezaba a bajar tras los muros—. No quiero que ninguno se agote forzando más de lo que el cuerpo da en un día. Es una de las primeras lecciones reales: el entusiasmo es bueno, pero la prisa es lo que más Trazadores débiles termina rompiendo antes de tiempo.
 
-—Entonces busco otro gremio.
+Esa misma semana, Ressk dedicó una sesión entera a teoría, sin un solo objeto sobre las mesas.
 
-—Busca el que quieras. Todos te van a cobrar lo mismo o más, porque el riesgo es el mismo para cualquiera que cruce esa ruta. La diferencia es que nosotros sí volvemos.
+—Antes de que alguno de ustedes se encamine, quiero que sepan hacia qué —dijo, apoyado contra el muro del patio interior—. Cuando su alma se decida, y va a decidirse sola, sin pedirles opinión, tomará uno de tres caminos. En la calle los llaman los que rozan, los que extraen y los que reescriben. Los nombres de archivo son más elegantes y nadie los va a usar con ustedes jamás, así que aprendan estos.
 
-El comerciante terminó aceptando el precio, a regañadientes, y Kael se alejó pensando en cuántas veces sus propios padres habrían tenido conversaciones parecidas, calculando riesgos en Marcas y Reliquias antes de calcularlos en kilómetros.
+Levantó un dedo.
 
-Siguió explorando, perdiéndose deliberadamente por callejones que no figuraban en ningún mapa que hubiera visto antes, descubriendo rincones del distrito comercial que no parecían existir en ninguna guía oficial: un patio interior donde se vendía solo equipo usado de expediciones fallidas —cuerdas con cortes sospechosos, cantimploras abolladas, un casco de cuero con una grieta que nadie se atrevía a explicar del todo—; una pequeña plaza donde un grupo de niños jugaba una versión simplificada de cartografía con piedras y tiza, trazando rutas imaginarias sobre el suelo de adoquines; un puesto solitario, casi escondido entre dos edificios más grandes, donde un anciano vendía pequeños amuletos tallados en madera de Acero-Vivo importada de Nórdkar, jurando que protegían contra la mala suerte en cualquier ruta, aunque ningún Trazador respetable admitiría jamás creer en algo así en voz alta.
+—Los que rozan toman las huellas de los lugares y de las cosas: la historia que un sitio acumula con los años. Es el camino más seguro para el alma, y el que menos respeto impone en una taberna, lo cual debería importarles exactamente nada. —Segundo dedo—. Los que extraen pagan con lo propio: sus recuerdos, sus momentos, su propia vida como combustible. Es el material más poderoso que existe, y el precio es el que se están imaginando. En cada generación hay Extractores que gastan de más, y a lo que queda de ellos… —Ressk se detuvo un instante, eligiendo las palabras con más cuidado del habitual—. Recuerdan todo. No sienten nada. La gente los llama Cáscaras, y les deseo de corazón que ninguno tenga que ver uno de cerca. —Tercer dedo—. Y los que reescriben toman de los demás. Con permiso, es un oficio como cualquier otro. Sin permiso, es la razón de que exista la mitad de las leyes que regulan a los Trazadores en los tres continentes.
 
-Fue en uno de esos callejones donde encontró el puesto de los mapas. No los mapas de ruta de las calles principales, actualizados cada temporada y caros como el buen equipo — este puesto vendía reimpresiones baratas, cartas viejas, curiosidades para coleccionistas sin dinero. Y ahí, colgado con dos pinzas de madera en la pared del fondo, estaba el primer mapa del mundo entero que Kael veía en su vida.
+—¿Se puede elegir? —preguntó Dessen.
 
-—El mundo conocido —dijo el vendedor, siguiendo su mirada—. Veinticinco continentes. Los tres grandes son los nuestros: Avar, aquí, donde estamos tú y yo. Sylvaris, el de los ríos. Nórdkar, el del hielo. Las líneas doradas entre los tres son los portales — por ahí se cruza en horas lo que un barco no cruzaría en generaciones.
+—No. Y agradézcanlo: la gente elige mal casi todo, y esto es demasiado importante.
 
-—¿Y los otros veintidós?
+—¿Y la cuarta? —preguntó la tercera aprendiz del grupo, una chica callada que casi nunca hablaba en clase—. La que mencionó el otro día.
 
-—Inhabitados. —El vendedor lo dijo con el tono práctico de quien repite una lección de escuela—. Que no es lo mismo que vacíos, chico. Cada uno tiene nombre, y cada nombre se lo ganó. —Fue señalando manchas de tinta en los bordes del mapa, cada una más lejos de las líneas doradas—. Los Filos de Cristal, donde el suelo entero es huella cristalizada de hace eras. El Durmiente, que dicen que no es un continente sino una criatura del tamaño de uno, dormida desde antes de que las eras se contaran — hay quien jura que existen asentamientos sobre su lomo, aunque yo no conozco a nadie que lo haya visto. El Eco en Bucle, donde el mismo desastre lleva repitiéndose desde la Segunda Era, día tras día, como una campana que nadie puede parar. A algunos se puede entrar, cuando se abre ventana de acceso. Los Exploradores de verdad, los que vuelven ricos o no vuelven, es ahí donde van.
+—La cuarta ni se elige ni se enseña. Si alguno de ustedes resultara ser eso, el Instituto lo sabría antes que ustedes mismos, y esa conversación la tendrían con gente mucho más importante que yo. —Ressk se apartó del muro—. Tres caminos. Los que existen para la gente como nosotros. Y una cosa más, la última teoría del día, porque es la que ningún manual pone en la primera página: van a escuchar hablar del Techo. Cada alma tiene un límite de cuánta Voluntad puede llegar a entrenar, fijado desde el Momento Ancla, y no hay método, maestro ni núcleo de bestia que lo mueva un dedo. Nadie conoce el suyo hasta que lo alcanza. Y cuando lo alcanza, no suena ninguna campana: simplemente dejas de avanzar, y pasas años sin saber si es el Techo, o el método, o la mala suerte.
 
-—¿Cuánto cuesta el mapa?
+—¿Y usted…? —empezó Dessen, y se arrepintió a media frase.
 
-—Más de lo que llevas encima, por la cara que pones. —El vendedor se encogió de hombros, sin crueldad—. Míralo el rato que quieras. Mirar es gratis, y a tu edad conviene: es la única forma de viajar que no cobra por adelantado.
+—Yo dejé de avanzar en Cuenca hace veinte años —dijo Ressk, con una naturalidad que costaba más de lo que aparentaba—. Todavía no sé cuál de las tres cosas fue. Esa incertidumbre es parte del oficio, y quien no pueda vivir con ella hará bien en quedarse en Filtración, donde se vive perfectamente sin averiguarlo nunca.
 
-Kael se quedó frente al mapa hasta aprendérselo — la forma de los tres continentes, las líneas doradas de los portales, los nombres de los bordes—, y esa noche lo dibujaría de memoria en su cuaderno, torcido y fuera de escala, con la letra apretada de quien copia algo que no quiere perder.
+Nadie dijo nada después de eso, y Ressk los despidió hasta la próxima sesión con la misma voz tranquila de siempre.
 
-Fue en el patio del equipo usado donde lo vio: un hombre que no encajaba. No por la ropa —vestía como cualquier viajero acomodado, abrigo largo, botas buenas— sino por la forma en que tocaba las cosas. Llevaba guantes finos de cuero pese a que la tarde no estaba fría, y los mantenía puestos mientras revisaba el equipo con la vista, apartando cuerdas y cantimploras sin ningún interés real. Solo de vez en cuando, frente a una pieza concreta, se quitaba el guante derecho con un gesto práctico, apoyaba dos dedos desnudos sobre el objeto durante apenas un segundo, y volvía a ponérselo.
+En las semanas siguientes, las sesiones dejaron de centrarse en objetos sueltos y empezaron a incluir ejercicios más largos: extraer la misma huella varias veces seguidas sin agotarse, distinguir entre una huella fresca —de algo ocurrido recientemente— y una vieja, asentada durante años en el mismo objeto.
 
-—¿Busca algo en particular? —le preguntó el vendedor, con el tono de quien ya ha decidido que ese cliente tiene dinero.
+Fue Tamsin quien le puso nombre a lo que le pasaba con las viejas, una noche cualquiera, mientras él intentaba describirle la diferencia.
 
-—Historia —dijo el hombre, sin levantar la vista—. Cosas que vengan de ruinas, no de rutas. Cuanto más vieja, mejor. Lo demás es óxido con precio.
+—Suena a los libros del fondo de la biblioteca —dijo ella—. Los que nadie ha abierto en años. Cuando los bajas del estante huelen distinto a los de arriba. No mejor. Distinto.
 
-Terminó comprando una sola pieza: una hebilla de bronce deformada, medio fundida por algo que no parecía fuego común, que el vendedor le dejó por dos Marcas con cara de estar ganando en el trato. El hombre pagó sin regatear, y por la forma cuidadosa en que envolvió la hebilla en un paño antes de guardarla —la misma con que el Instituto guardaba las cosas que de verdad importaban—, Kael tuvo la certeza de que el vendedor acababa de perder algo sin enterarse.
+—¿Ahora eres experta en estantes?
 
-Al pasar junto a él, el hombre lo miró un instante, notando el uniforme gris.
+—Estoy ayudando ahí dos tardes por semana. —Lo dijo sin darle importancia, demasiado rápido—. El bibliotecario dice que tengo memoria de archivo, que es su manera elegante de decir que me acuerdo de dónde va cada cosa sin que me lo repitan. No es cruzar rutas. Pero alguien tiene que acordarse de dónde queda guardado todo lo que ustedes van a traer de vuelta.
 
-—Aprende esto gratis, chico —dijo, con una media sonrisa que no llegaba a los ojos—: todo objeto guarda algo. La mayoría de la gente solo ve el óxido.
+Kael tardó un par de días en entender que aquello no había sido un comentario al pasar, sino una noticia que ella había estado esperando el momento de dar.
 
-Se perdió entre los puestos antes de que Kael pudiera decidir si la frase había sido un consejo o una burla.
+Para entonces ya era tarde para felicitarla como correspondía, así que hizo lo único que se le ocurrió: pedirle prestado el registro de expediciones un día que no tocaba, solo para que fuera ella quien se lo entregara.
 
-En un puesto de comida humeante, gastó dos de sus pocas Marcas en una ración caliente que olía a especias que no reconocía, y se sentó en un peldaño de piedra a comerla mientras observaba el ir y venir del mercado. Notó, sin proponérselo, los pequeños detalles que distinguían a quien tenía dinero de quien no: las botas nuevas frente a las botas remendadas, los que pagaban sin mirar el precio frente a los que regateaban cada Marca, los niños que acompañaban a sus padres comerciantes con ropa abrigada de buena calidad frente a los aprendices del Instituto, fácilmente reconocibles por el uniforme gris, que cruzaban el mercado en pequeños grupos contando cada moneda dos veces antes de gastarla.
+—Ya no está en el Ala Norte —dijo Tamsin, sin moverse del mostrador—. Lo subieron al archivo general el mes pasado. Ahí no puedo entrar yo todavía.
 
-Él era, sin remedio, de los segundos.
+—¿Y quién puede?
 
-No le molestó tanto como hubiera esperado. Había algo en ver el mercado entero funcionando —el comercio, el riesgo, el dinero moviéndose de mano en mano según quién estuviera dispuesto a cruzar qué peligro por cuánto— que le daba una sensación extraña de pertenecer a algo más grande, aunque fuera desde el margen más pobre de ese algo.
+—El bibliotecario. Y cualquiera con permiso de curso superior. —Lo miró con las cejas levantadas—. O sea que en dos años puedes ir tú mismo, y yo me ahorro la parte en la que finjo que no sé qué página vas a abrir.
 
-Antes de terminar su comida, decidió aventurarse un poco más allá del mercado, hacia una plataforma elevada donde los globos aerostáticos de transporte público recogían y dejaban pasajeros entre las torres más altas del distrito. No tenía dinero para pagar un trayecto, pero la plataforma de embarque tenía un mirador público, gratuito, pensado para que cualquiera pudiera observar el ir y venir de las góndolas sin necesidad de subir a una.
+Kael se rió, aunque algo en la frase se le quedó atravesado: llevaba cuatro años leyendo la misma entrada en el mismo volumen, y nunca se le había ocurrido preguntarse quién más tenía acceso a ella.
 
-Desde ahí, la vista de Cumbresenda era todavía más sobrecogedora que desde la ventana de su dormitorio. Podía ver, en una sola mirada, capas enteras de la ciudad que nunca había sospechado que existieran: techos de cobre oxidado por la lluvia y el tiempo, puentes colgantes que conectaban edificios a alturas vertiginosas, plazas circulares perfectamente alineadas con las vías del tren que las rodeaban como anillos de un árbol cortado. Más al oeste, donde la ciudad empezaba a ceder terreno a la roca desnuda de la montaña, distinguió una hilera de pequeñas siluetas moviéndose en fila por un sendero estrecho: una caravana de algún tipo, demasiado lejos para distinguir si era de comerciantes o de Exploradores, perdiéndose poco a poco entre los primeros pliegues de la cordillera.
+La tarde en que logró separar, sin error, tres capas distintas de huella superpuestas en una misma piedra del patio, Ressk se quedó mirándolo un rato largo antes de decir nada.
 
-—Impresionante la primera vez que la ves desde aquí arriba, ¿verdad? —dijo un hombre mayor, apoyado en la baranda del mirador a un par de metros de distancia, con la ropa de quien trabajaba manteniendo los globos amarrados a su estructura—. Llevo veinte años subiendo y bajando pasajeros, y todavía no me canso de mirar.
+—Tienes buen oído para lo viejo —dijo al fin—. La mayoría de los aprendices Categoría I empieza por las huellas recientes, porque son más intensas, más fáciles de sentir. Tú vas al revés.
 
-—¿Hasta dónde se puede ver desde un globo, en un día claro?
+—¿Eso es malo?
 
-—Hasta donde la vista alcance, que no es ni la centésima parte de lo que hay realmente. —El hombre se rió, con la risa cansada de quien ha respondido esa misma pregunta cientos de veces a aprendices curiosos—. Cumbresenda sigue mucho más allá de lo que cualquier globo o cualquier tren pueda mostrarte en un solo viaje. Yo mismo nunca he visto el límite este de la ciudad, y dudo que lo vea antes de morir.
+—Es raro. —Ressk se sentó en el borde del patio—. Hay Rastreadores que se dedican casi exclusivamente a leer lugares con mucha historia acumulada: ruinas, campos de batalla antiguos, edificios abandonados. Otros prefieren rastros frescos, gente que pasó hace minutos. Ambos sirven, de maneras distintas.
 
-—¿Nunca quiso bajar y ver con sus propios ojos qué hay más allá de las torres que alcanza a ver desde aquí?
+Kael tardó en hacer la pregunta siguiente. Cuando la hizo, la voz le salió más baja de lo que pretendía.
 
-—Me daba, de joven. —El hombre se encogió de hombros, observando una góndola que se alejaba lentamente hacia una de las torres más distantes—. Con el tiempo aprendes que no se puede tener curiosidad por todo a la vez. Hay que elegir una parte del mundo y conocerla bien, porque intentar conocerlo entero es la forma más segura de no conocer nada de verdad.
+—¿Y si lo que uno quiere leer lleva doce años quieto en el mismo sitio?
 
-Kael se quedó pensando en esa frase mucho después de despedirse del hombre y bajar de nuevo hacia las calles del mercado, dándole vueltas mientras caminaba de regreso hacia el puesto de comida donde había dejado su ración a medio terminar. Sentía, sin poder explicarlo del todo, que esa frase tenía algo que ver con la pregunta que llevaba años sin soltar, aunque todavía no entendiera exactamente cómo encajaban las dos cosas entre sí.
+Ressk no respondió enseguida. Se quedó mirando la piedra del patio, la misma de la que Kael acababa de sacar tres capas limpias, y cuando por fin habló lo hizo con un cuidado que Kael no le había escuchado ni siquiera al hablar de su propio Techo.
 
-Terminó su comida justo cuando, desde el extremo norte del mercado, un alboroto distinto empezó a crecer: vítores, aplausos, el tipo de ruido que solo podía significar una cosa en una ciudad como Cumbresenda.
-
-Una expedición estaba volviendo.
+—Entonces la pregunta ya no es si puedes leerlo, Doran. Es quién más ha estado ahí antes que tú, y qué tocó mientras estaba.

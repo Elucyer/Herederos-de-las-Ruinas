@@ -1,121 +1,135 @@
-# Capítulo 8 — La primera vez que lo hizo a propósito
+# Capítulo 8 — El camino que se encamina
 
-A los catorce años, Kael ya sabía explicar con palabras propias lo que antes solo había sentido como instinto: que su Marca no era un don ni una maldición, sino una puerta que había que aprender a abrir con cuidado, sabiendo exactamente qué se quería tomar prestado y qué se estaba dispuesto a perder por ello.
+A los dieciséis años, a Kael ya no le quedaba ninguna duda de hacia dónde se inclinaba su alma, aunque tardó un examen formal en confirmarlo con palabras que pudiera repetir sin titubear.
 
-Los dos años transcurridos desde el Día de los Caídos habían cambiado, sin que Kael lo notara del todo en su momento, la forma en que se movía por el mundo. Ya no caminaba por los pasillos del Instituto con la misma cautela distraída de antes; ahora, sin proponérselo, una parte de su atención siempre estaba puesta en lo que tocaba, en lo que rozaba con la manga al pasar, en si la baranda de una escalera o el respaldo de una silla tenían "demasiada historia" para acercarse sin pensarlo dos veces. Era agotador al principio. Con el tiempo, se había vuelto casi natural, como aprender a caminar evitando los charcos sin necesidad de mirarlos directamente.
+Los meses previos habían sido una rutina cada vez más exigente: clases avanzadas de geografía y táctica de expedición con el Instructor Vannel, que empezaba a tratarlo menos como aprendiz y más como un futuro colega; sesiones de control de Filtración —ahora con un instructor nuevo, más joven y más impaciente que Ressk— centradas en resistencia, en sostener una extracción sin agotarse; y prácticas físicas de resistencia al clima, simulando las condiciones que algún día tendría que enfrentar en una ruta real. Varias tardes por semana seguía yendo al callejón de los talleres a cargar inventario en temporada de salidas, y el equipo de examen, guardado bajo su cama en un saco de lona, ya estaba casi completo.
 
-Las clases de "control de Filtración" —que ya no se llamaban así en el papel, pero todos en el Ala Norte seguían usando el nombre viejo— se daban dos veces por semana, en un patio interior más pequeño que el principal, alejado de miradas curiosas. El instructor a cargo, un hombre delgado de mediana edad llamado Ressk, había sido él mismo un Trazador débil que nunca pasó de Cuenca, y enseñaba con la paciencia particular de quien sabe exactamente cuánto tarda alguien en entender algo que a él mismo le había costado años.
+Fue una de esas tardes, volviendo del callejón con las manos todavía sucias de grasa de cuerda, cuando se cruzó con Joren Tarvok por última vez.
 
-—Hoy no van a tocar nada con los ojos cerrados —dijo Ressk esa tarde, frente a los seis aprendices de su grupo, todos con Marca despierta, todos todavía sin Categoría definida—. Hoy van a intentar sentirlo antes de tocarlo.
+Estaba en el patio de entrada, junto a dos baúles y un carro de alquiler, discutiendo con el cochero sobre el precio del trayecto a la estación. Había crecido de la forma torpe en que crecen los que crecen demasiado rápido, y llevaba ropa de viaje que no era de aprendiz.
 
-Sobre la mesa frente a cada uno había un objeto distinto, elegido con cuidado por el propio Ressk: una cuchara vieja de cocina, un trozo de cuerda deshilachada, un botón de hueso, una piedra pulida de río, una llave oxidada cuya cerradura correspondiente nadie en el Instituto recordaba ya dónde estaba. Frente a Kael había un pequeño candil de hojalata, abollado, sin aceite, que parecía no haber servido para nada en años.
+—Doran. —Lo dijo sin la sonrisa de antes, y sin veneno tampoco—. Me sacan. El negocio de mi padre, en Tal Veyr. Dice que ya perdí bastantes años jugando a esto.
 
-—Acérquense la mano sin tocar todavía. Cierren los ojos si les ayuda. Y díganme qué notan.
+Kael se detuvo, sin saber del todo por qué lo hacía.
 
-Kael obedeció, sintiéndose un poco ridículo al principio, hasta que algo —un cosquilleo apenas perceptible, parecido al que había sentido aquel día en el patio, pero mucho más débil, mucho más controlado— empezó a filtrarse desde la palma de su mano hacia algún lugar de su pecho.
+—¿Y tú qué dices?
 
-—Hay algo —dijo, con los ojos todavía cerrados—. No mucho. Como... una luz pequeña, encendida y apagada muchas veces. Cansancio. Alguien que usó esto sin pensarlo, durante mucho tiempo, sin que le importara demasiado.
+—Que tiene razón. —Tarvok se encogió de hombros—. Nunca iba a despertar nada. Cuatro años esperando, como todos, y una mañana te miras al espejo y entiendes que tú eres el resto de la gente. No el que despierta. —Cargó uno de los baúles al carro él mismo, sin esperar al cochero—. Tú despertaste el año que yo dejé de creer que me iba a pasar. No sé si eso lo explica todo, pero explica bastante.
 
-Ressk sonrió, apenas, con la satisfacción discreta de un maestro que ve a un aprendiz entender algo de verdad por primera vez.
+No era una disculpa. Kael pensó que tampoco pretendía serlo, y que probablemente era lo más cerca que Tarvok llegaría nunca de una.
 
-—Eso es exactamente lo que es. Un candil viejo de cocina, usado durante años por alguien que ya no trabaja aquí. Poca carga, fácil de leer, casi nada que pueda hacerte daño. —Caminó hasta quedar frente a Kael, mientras los otros cinco aprendices seguían con sus propios objetos, algunos visiblemente más confundidos que él—. Ahora sí. Tócalo. Y esta vez, en vez de dejar que pase, decide tú qué quieres traer de vuelta.
+—Lo que dijiste de mis padres —empezó Kael.
 
-Kael cerró los dedos alrededor del candil frío, y por primera vez en su vida sintió la diferencia exacta entre que algo le ocurriera y hacer que algo ocurriera. No fue como aquella tarde en el patio, un torrente que lo arrastraba sin que pudiera controlarlo. Fue más parecido a abrir un cajón con cuidado, sabiendo qué buscaba antes de meter la mano.
+—Sí.
 
-El aire sobre el candil tembló, apenas, y por un segundo brilló una luz diminuta —del tamaño de una llama real, pero sin calor, sin sustancia— que iluminó la mesa durante un parpadeo antes de apagarse.
+—No era verdad.
 
-—Bien —dijo Ressk, sin exagerar el elogio pero sin escatimarlo del todo—. Esa es tu primera extracción deliberada, Doran. Felicidades. Acabas de cruzar a Cauce Naciente.
+—Ya lo sé. —Tarvok subió al carro y se acomodó, mirando hacia el ala norte del edificio como quien revisa una habitación que ya vació—. Por eso funcionaba. Las cosas que son verdad no hacen falta decirlas para que duelan.
 
-Los otros cinco aprendices del grupo lo miraron con una mezcla de envidia y curiosidad —algunos llevaban más tiempo intentándolo sin éxito— y uno de ellos, un chico llamado Dessen que llevaba ya tres meses en las mismas sesiones sin lograr nada parecido, dejó escapar un suspiro de frustración apenas disimulado.
+El carro empezó a moverse. Tarvok levantó la mano sin girarse, y Kael se quedó ahí de pie con las manos sucias de grasa, esperando la satisfacción que llevaba cuatro años imaginando para ese momento exacto.
 
-—¿Cómo lo hiciste? —preguntó Dessen, sin rencor real, solo con la curiosidad honesta de quien quiere aprender del éxito ajeno.
+No llegó. Lo que llegó fue algo más pequeño y más raro: la certeza de que el chico que había disparado la peor tarde de su vida acababa de irse a llevar libros de cuentas a doscientos kilómetros de distancia, y que el mundo no iba a devolverle nada más por eso.
 
-—No sé bien cómo explicarlo —admitió Kael—. Fue como... decidir abrir la mano en vez de dejar que se abriera sola.
+Se lo contó a la Maestra Korr esa misma noche, sin saber muy bien por qué se lo contaba a ella.
 
-—Eso no ayuda en nada.
+—¿Y qué esperabas sentir? —preguntó Korr, sin levantar la vista de sus papeles.
 
-—Lo sé. Lo siento.
+—No lo sé. Algo.
 
-Ressk intervino antes de que la frustración de Dessen se convirtiera en algo más incómodo.
+—Casi nunca hay algo. —Pasó una página—. La gente que te hace daño a los doce años rara vez se queda el tiempo suficiente para pagarlo. Se van a otra ciudad, se casan, engordan, se vuelven razonables. Esa es la parte que nadie te cuenta del rencor: que casi siempre se queda sin destinatario.
 
-—No todos llegan al mismo ritmo, y eso no significa nada sobre quién va a ser mejor Trazador con el tiempo. —Se dirigió a todo el grupo, no solo a Dessen—. La Categoría IV, la más rara de todas, suele tardar más en manifestarse precisamente porque el alma no se decide por un solo camino. La paciencia no es debilidad aquí. Es, casi siempre, la señal de algo más complicado debajo.
+—¿Y qué se hace con lo que sobra?
 
-Dessen no pareció del todo convencido, pero asintió de todos modos, volviendo su atención a la cuerda deshilachada frente a él con una determinación renovada.
+Korr levantó la vista entonces.
 
-Kael sintió, por primera vez desde que había despertado su Marca, que su Categoría empezaba a sentirse no como una cosa que le había pasado, sino como una herramienta que estaba aprendiendo a sostener con sus propias manos. Pasó el resto de la sesión repitiendo el ejercicio con el candil, una y otra vez, hasta que la luz diminuta empezó a salir con más facilidad, más rápido, casi sin esfuerzo consciente.
+—Se gasta en otra cosa. Preferiblemente en algo que valga la pena. —Volvió a sus papeles—. Tienes examen de encaminamiento el jueves, Doran. Ahí tienes dónde ponerlo.
 
-—Suficiente por hoy —dijo Ressk finalmente, cuando el sol ya empezaba a bajar tras los muros del patio interior—. No quiero que ninguno se agote intentando forzar más de lo que el cuerpo puede dar en un solo día. Eso es, de hecho, una de las primeras lecciones reales que tienen que aprender: el entusiasmo es bueno, pero la prisa es lo que más Trazadores débiles termina rompiendo antes de tiempo.
+---
 
-Esa misma semana, Ressk dedicó una sesión entera a teoría, sin un solo objeto sobre las mesas por primera vez desde que habían empezado.
+La prueba de encaminamiento —la que determinaba si un Trazador iba a pasar el resto de su vida tocando huellas ambientales, propias o ajenas— no era espectacular en absoluto. Consistía en una serie de objetos, cada uno cargado con un tipo de huella distinto, y un instructor observando cuál de ellos hacía que el aprendiz "sonara" con más claridad, como decían en la jerga del Instituto.
 
-—Antes de que alguno de ustedes se encamine, quiero que sepan hacia qué —dijo, apoyado contra el muro del patio interior, con los seis aprendices sentados en semicírculo frente a él—. Cuando su alma se decida, y va a decidirse sola, sin pedirles opinión, tomará uno de tres caminos. En la calle los llaman los que rozan, los que extraen y los que reescriben. Los nombres de archivo son más elegantes y nadie los va a usar con ustedes jamás, así que aprendan estos.
+Se realizaba en un aula aparte, de paredes reforzadas y ventilación propia, pensada para disipar cualquier residuo de huella que quedara suspendido en el aire después de una prueba intensa. Kael entró con otros dos aprendices de su curso, los dos visiblemente nerviosos a su manera.
 
-Levantó un dedo.
+El instructor evaluador, un hombre al que Kael no había visto en ninguna clase regular, fue presentando los objetos uno por uno, en un orden que parecía aleatorio pero que, explicó al inicio, estaba diseñado para que ningún resultado quedara contaminado por la anticipación.
 
-—Los que rozan toman las huellas de los lugares y de las cosas: la historia que un sitio acumula con los años. Es el camino más seguro para el alma, y el que menos respeto impone en una taberna, lo cual debería importarles exactamente nada. —Segundo dedo—. Los que extraen pagan con lo propio: sus recuerdos, sus momentos, su propia vida como combustible. Es el material más poderoso que existe, y el precio es el que se están imaginando. En cada generación hay Extractores que gastan de más, y a lo que queda de ellos... —Ressk se detuvo un instante, eligiendo las palabras con más cuidado del habitual—. Recuerdan todo. No sienten nada. La gente los llama Cáscaras, y les deseo de corazón que ninguno tenga que ver uno de cerca. —Tercer dedo—. Y los que reescriben toman de los demás. Con permiso, es un oficio como cualquier otro. Sin permiso, es la razón de que exista la mitad de las leyes que regulan a los Trazadores en los tres continentes.
+Primero, un mechón de cabello sellado en un relicario de cristal, cargado con una huella propia tan densa que el aprendiz de al lado retiró la mano por reflejo. Kael sintió algo: un peso emocional difuso que no terminaba de aferrarse a nada.
 
-—¿Se puede elegir? —preguntó Dessen.
+Después, una carta sellada, que el instructor manipuló con guantes para no contaminarla con su propia huella. El otro aprendiz, un chico delgado de mirada inquieta, reconoció algo en ella casi de inmediato: se le fue el color de la cara y apartó la mano como quien toca una estufa encendida.
 
-—No. Y agradézcanlo: la gente elige mal casi todo, y esto es demasiado importante.
+—Categoría III —dijo el evaluador en voz baja, anotando.
 
-—¿Y la cuarta? —preguntó otro de los aprendices—. La que usted mencionó el otro día.
+—¿Eso es malo? —preguntó el chico, y la pregunta salió mal calibrada, demasiado rápida.
 
-—La cuarta ni se elige ni se enseña. Si alguno de ustedes resultara ser eso, el Instituto lo sabría antes que ustedes mismos, y esa conversación la tendrían con gente mucho más importante que yo. —Ressk se apartó del muro—. Tres caminos. Los que existen para la gente como nosotros. Y una cosa más, la última teoría del día, porque es la que ningún manual pone en la primera página: van a escuchar hablar del Techo. Cada alma tiene un límite de cuánta Voluntad puede llegar a entrenar, fijado desde el Momento Ancla, y no hay método, maestro ni núcleo de bestia que lo mueva un dedo. Nadie conoce el suyo hasta que lo alcanza. Y cuando lo alcanza, no suena ninguna campana: simplemente dejas de avanzar, y pasas años sin saber si es el Techo, o el método, o la mala suerte.
+—Eso es un oficio. —El evaluador siguió escribiendo sin mirarlo—. Uno que va a hacer que la gente te pregunte dos veces qué haces antes de darte la mano. Lo demás depende de ti y de nadie más.
 
-—¿Y usted...? —empezó Dessen, y se arrepintió a media frase.
+Kael lo apuntó en algún rincón de la memoria: en toda esa aula, el único resultado que el hombre se había molestado en comentar era el que venía con una advertencia.
 
-—Yo dejé de avanzar en Cuenca hace veinte años —dijo Ressk, con una naturalidad que costaba más de lo que aparentaba—. Todavía no sé cuál de las tres cosas fue. Esa incertidumbre es parte del oficio, y quien no pueda vivir con ella hará bien en quedarse en Filtración, donde se vive perfectamente sin averiguarlo nunca.
+Cuando le pusieron delante una piedra antigua traída de una de las rutas letales, con siglos de historia acumulada encima, algo en el pecho de Kael se abrió con una claridad que no se parecía a nada de lo que había sentido con los otros dos objetos.
 
-Nadie dijo nada después de eso, y Ressk, con la misma voz tranquila de siempre, los despidió hasta la próxima sesión.
+—Categoría I —dijo el evaluador, anotando sin ceremonia—. Encaminado hacia huellas ambientales. Es, con diferencia, la confirmación más limpia que he visto este año.
 
-En las semanas siguientes, las sesiones con Ressk dejaron de centrarse en objetos sueltos y empezaron a incluir ejercicios más largos: extraer la misma huella varias veces seguidas sin agotarse, distinguir entre una huella "fresca" —de algo ocurrido recientemente— y una huella "vieja", asentada durante años en el mismo objeto. Kael descubrió que tenía una facilidad particular para esto último, algo que Ressk no dejó de notar.
+—Los que rozan —murmuró Kael.
 
-—Tienes buen oído para lo viejo —le dijo, una tarde tranquila de entrenamiento, mientras Kael lograba distinguir, sin error, tres capas distintas de huella superpuestas en una misma piedra del patio—. La mayoría de los aprendices Categoría I se especializan en huellas recientes primero, porque son más intensas, más fáciles de sentir. Tú pareces ir al revés.
+—Así nos llaman, sí —dijo una voz nueva, que no era la del evaluador.
 
-—¿Eso es malo?
+De pie junto a la puerta había una mujer de unos treinta y tantos, con uniforme de campo de Explorador licenciado, una cicatriz fina cruzándole el dorso de una mano y una mirada que evaluaba sin disimular que estaba evaluando. El equipo que llevaba al cinto había visto años de uso real, no la versión reluciente que se vendía en el mercado.
 
-—No necesariamente. Solo es distinto. —Ressk se sentó en el borde del patio, invitando a Kael a hacer lo mismo—. Hay Rastreadores que se dedican casi exclusivamente a leer lugares con mucha historia acumulada: ruinas, campos de batalla antiguos, edificios abandonados. Otros prefieren rastros frescos, gente que pasó hace minutos por un sitio. Ambos son útiles, pero de maneras distintas.
+Kael la reconoció antes de que ella dijera su nombre, y tardó un segundo largo en ubicar de dónde: la columna del fondo del patio, cinco años atrás, el Día de los Caídos. La mujer que se había ido justo antes de que él subiera a la tarima.
 
-—¿Usted sabe ya qué Senda voy a tener?
+—Soraya Vahn —se presentó, sin extender la mano—. Voy a supervisar el examen de campo final de tu cohorte el año que viene. Quería ver con mis propios ojos a quién me va a tocar evaluar.
 
-—Eso no lo decide nadie todavía, ni siquiera tú mismo. —Ressk lo miró con una seriedad que Kael ya empezaba a reconocer como genuina, no como mera formalidad de instructor—. Pero si tuviera que apostar, diría que tu oficio futuro y tu forma de sentir las huellas combinan bien. Un Explorador necesita justo este tipo de paciencia con lo viejo: saber leer un lugar que lleva siglos sin que nadie lo toque, y entender qué pasó ahí antes de que tú llegaras.
+—¿Por qué a mí en particular? Somos tres recibiendo resultado hoy.
 
-Kael se quedó dándole vueltas a esa conversación el resto del día, sintiendo que, poco a poco, las distintas partes de su vida —el oficio que quería, la Categoría que había despertado, la paciencia que ya tenía desde niño por simple necesidad— empezaban a alinearse en una misma dirección, en vez de sentirse como fragmentos separados que solo coincidían por casualidad, sin ningún hilo real que los conectara entre sí.
+—Porque eres Doran —dijo ella, sin más explicación.
 
-Esa noche, de vuelta en el dormitorio, le contó a Tamsin lo que había pasado, describiendo con todo el detalle posible la sensación exacta del candil encendiéndose bajo su voluntad, y ella, que llevaba un año entero sin mostrar ningún signo de Momento Ancla propio, lo escuchó con una atención que no disimulaba del todo la melancolía de saber que su camino y el de Kael, sin que ninguno de los dos lo hubiera decidido, ya empezaban a separarse.
+—Usted estuvo en el Día de los Caídos. Hace cinco años. Al fondo del patio.
 
-—Algún día vas a ser de los que bajan del tren —dijo ella, sin amargura, solo con la certeza tranquila de alguien que ha aprendido a alegrarse por otros aunque a ella misma no le toque lo mismo—. Y yo voy a estar ahí, aplaudiendo como todos los demás.
+Algo en el rostro de Soraya se tensó, apenas perceptible, antes de recomponerse. Fue el mismo medio segundo que tardaría después, cada vez que él tocara el tema, en volver a cerrarse.
 
-—No tiene por qué ser así —dijo Kael, incómodo de pronto con la idea—. Tú también puedes encontrar tu propio camino. No todo el mundo necesita una Marca para que su vida importe.
+—Estuve en muchos Días de los Caídos.
 
-—Lo sé. —Tamsin sonrió, una sonrisa pequeña pero genuina—. No estoy triste por eso, Kael. Solo estoy siendo honesta sobre cómo van a ser las cosas. Tú vas a entrenar, vas a cruzar rutas, vas a tener historias que contar. Yo he empezado a ayudar en la biblioteca, ¿sabías? El bibliotecario dice que tengo memoria de archivo, que es su manera elegante de decir que me acuerdo de dónde va cada cosa sin que me lo repitan dos veces. No es cruzar rutas. Pero los libros no te preguntan quién era tu padre, y alguien tiene que acordarse de dónde queda guardado todo lo que ustedes van a traer de vuelta. Y está bien. No todos necesitamos la misma clase de vida para sentirnos completos.
+—Se fue antes de que me tocara hablar.
 
-Kael no supo qué responder a eso del todo.
+—Tenía un tren. —Lo dijo sin pestañear, y Kael, que llevaba cinco años perfeccionando la habilidad de detectar cuándo un adulto decidía no continuar una frase, supo dos cosas a la vez: que la respuesta era falsa y que no iba a conseguir otra ese día—. ¿Cuánto llevas contando mis ausencias, Doran?
 
-—¿Te molesta? —preguntó finalmente, con cierta inseguridad—. Que yo siga avanzando y tú no.
+—Desde hace nueve minutos.
 
-—Un poco —admitió Tamsin, con la misma honestidad directa de siempre—. Sería mentira decir que no. Pero no te molesta a ti tampoco, ¿verdad? Que yo no tenga Marca.
+Algo parecido a la sorpresa le cruzó la cara, y desapareció igual de rápido.
 
-—No. Claro que no.
+—Bien. Guárdalo. —Señaló con el mentón el registro donde el evaluador seguía anotando—. La mitad de este oficio es notar lo que no encaja. La otra mitad es saber cuándo no es el momento de decirlo en voz alta. Hoy estás a medias. —Lo dijo con una firmeza que cerraba el asunto—. Lo que importa ahora es tu Calado y tu Categoría. Categoría I, encaminamiento limpio. Eso suele significar, si entrenas bien, una Senda de detección. Rastreador, probablemente, dado tu oficio futuro.
 
-—Entonces estamos igual. A los dos nos molesta un poco la diferencia, y a los dos nos importa más la persona que tenemos al lado que esa diferencia. Eso es suficiente para mí.
+—¿Eso es bueno o malo?
 
-Se quedaron en silencio un rato, escuchando los sonidos habituales del dormitorio: el viento, las tuberías de vapor, alguna risa ahogada de otro par de aprendices que todavía no se habían dormido en el otro extremo del cuarto.
+Soraya lo consideró con una seriedad que no parecía habitual en ella para con un aprendiz de dieciséis años.
 
-—¿Crees que algún día vas a tener que elegir entre tu oficio y las personas que te importan? —preguntó Tamsin, de pronto, con una seriedad poco habitual—. Los Exploradores pasan meses fuera. Años, a veces. Eso aleja a la gente, aunque no se quiera.
+—No es ofensivo. No vas a ser quien lance fuego en una pelea. Pero vas a ser quien sepa, antes que nadie, qué hay detrás de la siguiente curva. En este oficio eso vale más de lo que crees. Más de una expedición se ha salvado por alguien que supo leer una huella a tiempo, no por alguien que supo lanzar el hechizo más vistoso.
 
-—No lo había pensado así.
+—¿Usted qué Senda tiene?
 
-—Deberías. Antes de que te toque vivirlo de verdad.
+—Custodia. Reforzar lo que ya hay, en vez de crear algo nuevo. —Una brevedad que no invitaba a profundizar—. He visto volver con vida a más Exploradores por un escudo bien puesto que por cualquier ataque elegante.
 
-Kael lo consideró un momento, sintiendo el peso de la pregunta asentarse en un lugar nuevo de su pecho, distinto al vacío que había sentido el día de su Momento Ancla, pero igual de incómodo a su manera.
+—¿Y cómo se sabe ponerlo a tiempo?
 
-—Supongo que voy a tener que encontrar un equilibrio —dijo finalmente, sin mucha convicción real en la respuesta—. O aprender a llevar a la gente que me importa conmigo, de alguna forma, aunque sea solo en la cabeza.
+—Eso, Doran, es exactamente lo que vas a tener que aprender el año que viene, junto con el resto de tu cohorte. —Una sombra de algo parecido a una sonrisa le cruzó la cara, la primera muestra de calidez real que Kael le vio—. No te lo voy a regalar antes de tiempo.
 
-—Eso es lo más sensato que te he escuchado decir en mucho tiempo.
+Ya se daba la vuelta cuando pareció recordar algo.
 
-—No te burles.
+—Una cosa más, y esta sí te la regalo, porque a tu cohorte nadie se la va a enseñar a tiempo. El año que viene van a empezar a tratar con Trazadores de verdad, no con instructores de escuela. —Se subió apenas la manga izquierda: en el dorso del antebrazo, una línea fina y pálida, como una veta de mármol bajo la piel, cruzaba en diagonal—. ¿Sabes qué es esto?
 
-—No me burlo. —Tamsin sonrió en la oscuridad—. Solo estoy orgullosa de que, de vez en cuando, pienses en algo más que en mapas y quebradas sin nombre catalogado.
+—Una Marca de Grieta. —Lo había leído: cada etapa del Calado dejaba una cicatriz, distinta en cada persona, sin manual posible para leerlas.
 
-Kael le tomó la mano un momento, en silencio, antes de que ambos se quedaran dormidos pensando en futuros que empezaban, lenta pero claramente, a tomar caminos distintos, aunque ninguno de los dos quisiera todavía admitir cuánto los entristecía esa certeza compartida.
+Kael pensó, sin decirlo, en la mecha blanca sobre la sien de Ressk. En lo distinto que era eso de una veta limpia de mármol.
+
+—Bien. Ahora la regla que el libro no trae: acabo de hacer algo que casi nadie hace. —Se bajó la manga—. Mostrarla es decir cuánto aguanto antes de romperme, y eso no se le dice a cualquiera, igual que un jugador no enseña sus cartas. Vas a conocer Trazadores que las esconden bajo la ropa, bajo maquillaje, bajo maneras de moverse ensayadas durante años. Vas a conocer a más de uno que presume de un Calado que no tiene, porque a distancia nadie puede desmentirlo. Así que: nunca pidas ver una cicatriz, nunca preguntes la etapa de nadie directamente, y cuando alguien te muestre la suya sin que se la pidas, presta mucha atención. O confía en ti de verdad, o quiere que le tengas miedo. Aprender a distinguir esas dos cosas te va a servir más que cualquier hechizo.
+
+—¿Y usted? —se atrevió Kael—. ¿Por qué me la mostró a mí?
+
+Soraya lo miró un momento largo, con esa expresión que parecía ver algo más detrás de él.
+
+—Buena pregunta —dijo. Y se fue sin responderla.
+
+Kael se quedó en el aula de paredes reforzadas, con el resultado de su prueba anotado en un registro que ya no le interesaba, repasando la cuenta que acababa de hacer sin proponérselo: cinco años atrás, esa mujer estaba de pie al fondo de un patio donde no tenía ningún motivo para estar, escuchando memorias de gente muerta, y se marchó exactamente cuando el director pronunció el apellido Doran.
+
+No era una prueba de nada. Era, como el sello azulado del registro de expediciones, otra pieza suelta.
+
+Esa noche la anotó en el cuaderno, en la misma página que las demás, y debajo escribió tres palabras que no había escrito nunca: *preguntar otra vez.*

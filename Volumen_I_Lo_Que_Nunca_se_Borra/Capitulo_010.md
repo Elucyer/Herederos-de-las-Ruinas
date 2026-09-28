@@ -1,95 +1,125 @@
-# Capítulo 10 — Lo que cuesta un día tranquilo
+# Capítulo 10 — La que guarda
 
-Las campanas se detuvieron poco antes del anochecer, y con ellas llegó un silencio distinto al de antes: ya no tenso, sino agotado, como el de un cuerpo que por fin deja de contener la respiración. Dentro del refugio, alguien empezó a llorar de alivio, en voz baja, y nadie le pidió que se contuviera.
+El año que siguió a aquella primera cena no se pareció a ningún otro de los que Kael llevaba vividos en el Ala Norte, y no porque pasara nada extraordinario, sino porque por primera vez tenía un calendario que no era solo suyo.
 
-Tardaron casi una hora entera más en abrir las puertas del refugio —los protocolos exigían esperar la confirmación oficial de que la amenaza había sido contenida del todo, no solo silenciada— y cuando por fin lo hicieron, Kael salió junto a los demás aprendices hacia un patio que ya no era completamente el mismo que habían dejado esa mañana. El cielo sobre Cumbresenda tenía un tono ceniciento que no era de nubes, y un olor extraño —a humo, a algo quemado que no terminaba de identificar, mezclado con un toque metálico que le recordó, sin querer, al líquido oscuro que goteaba del bulto que había visto bajar de aquel tren hacía dos años— flotaba en el aire incluso a esa distancia de las murallas sur.
+Dos tardes por semana, el patio de prácticas. La tercera, el callejón de los talleres, con Bram cargando cajas a su lado y quejándose del olor a brea, y con Renn —que no tenía por qué estar ahí y venía igual— contando las horas en voz alta hasta la comida. Ilsa aparecía a veces, se quedaba mirando el trabajo con los brazos cruzados y después pagaba su parte sin comentarios, que era su manera de participar.
 
-A su alrededor, los aprendices salían de los distintos refugios en grupos dispersos, algunos abrazándose entre sí con el alivio simple de haber sobrevivido juntos algo incierto, otros caminando en silencio, todavía procesando las horas de encierro. Kael notó que varios edificios cercanos a la entrada principal del Instituto presentaban grietas nuevas en sus muros, finas pero visibles, como si toda la estructura hubiera sufrido una sacudida que ningún terremoto convencional explicaría del todo.
+Entrenaron como se entrena a esa edad: mal al principio, con demasiado entusiasmo, y después cada vez mejor. Bram aprendió a sostener un refuerzo de huellas el tiempo suficiente para cubrir a los otros tres durante un ejercicio simulado de emboscada, y descubrió, para su propia irritación, que le salía mejor cuando cubría a alguien que cuando se cubría a sí mismo. Ilsa encontró, sin buscarlo, que podía bajarle el pánico a otra persona con una sola frase colocada en el momento justo, una habilidad que ella describió como "gritarle a alguien en voz baja" y que Renn describió como la única razón por la que no se cayó de la viga alta la primera vez. Renn avanzaba el más lento de los cuatro, y compensaba con una tenacidad que terminó ganándose un respeto que nadie declaró en voz alta.
 
-La Maestra Korr los esperaba en el patio principal, junto al resto de los instructores, con una expresión que Kael no le había visto antes: el cansancio de alguien que ha pasado el día entero coordinando algo mucho más grande que cualquier clase. Tenía una pequeña mancha oscura en la manga de su uniforme que no se molestó en explicar, y un corte superficial en la mejilla que ya alguien había limpiado y vendado de forma apresurada.
+Kael leyó piedra. Mucha piedra. Y cada vez que bajaba hasta las capas viejas —las de décadas, las de siglos—, algo en él encajaba con una limpieza que ninguno de los otros tres tenía en lo suyo.
 
-—Todos están bien —dijo, antes de que nadie preguntara, dirigiéndose a todo el grupo reunido—. Eso es lo primero que necesitan saber. El Desbordamiento fue contenido en las murallas sur, antes de que llegara a cruzar hacia el distrito comercial.
+El ejercicio que Bram había pedido aquella primera noche tardó cuatro meses en llegar.
 
-—¿Qué era? —preguntó alguien desde el fondo del grupo.
+Fue en una salida supervisada al terreno abierto que había entre las últimas casas del distrito sur y la muralla, una franja de tierra removida que los huertos comunitarios aún no habían terminado de recuperar. El instructor de campo —Herrik, otra vez— les dio la consigna sin ceremonia: una hora antes, un aprendiz del curso superior había cruzado esa franja siguiendo una ruta concreta y había dejado un paquete escondido en algún punto.
 
-—Una manada de bestias de División baja, empujada hacia la ciudad por algo que todavía no se ha confirmado del todo —dijo Korr—. Los escuadrones de caza y la Guardia se encargaron de ellas antes de que causaran daño grave. No fue, comparado con otros años, de los peores.
+—Fresco. Menos de una hora. Rastro de una sola persona, sin complicaciones. —Herrik se sentó sobre una piedra con la tranquilidad del que ya sabe cómo va a terminar el ejercicio—. Los cuatro. Tienen hasta que se me acabe la paciencia.
 
-Algunos aprendices suspiraron, aliviados. Kael, sin embargo, notó algo en la forma en que Korr había dicho "comparado con otros años" que no terminaba de sonar tan tranquilizador como pretendía.
+Kael se arrodilló y apoyó la palma en la tierra.
 
-—¿Hubo heridos? —preguntó, esta vez él mismo.
+La encontró casi de inmediato, y sintió el alivio ridículo de las cosas que salen bien delante de gente cuya opinión importa: una huella clara, reciente, con la textura particular del apuro. Siguió la línea hacia el este, la perdió, la recuperó veinte pasos más allá, y volvió a perderla.
 
-La Maestra Korr lo miró un momento antes de responder, como si calculara cuánta verdad era apropiada para dar en ese momento, frente a todo el grupo.
+—¿Y bien? —preguntó Bram.
 
-—Sí. Algunos Exploradores y miembros de la Guardia resultaron heridos conteniendo a la manada antes de que llegara más cerca de las zonas habitadas. Ninguno de los que conocemos en este Instituto. —Hizo una pausa breve—. No todos los años se puede decir lo mismo.
+—Dame un momento.
 
-Un silencio incómodo siguió a esas palabras, hasta que Korr, con un gesto cansado, despidió al grupo hacia el comedor, donde una cena tardía y sencilla los esperaba —pan, sopa caliente, nada elaborado, pero suficiente después de un día así—. Mientras los aprendices se dispersaban hacia el comedor, Kael se demoró un momento más, observando a los instructores que aún permanecían en el patio, intercambiando información en voz baja entre ellos, algunos consultando mapas desplegados sobre una mesa improvisada.
+Se lo dio. Kael volvió a bajar la mano, y esta vez fue más hondo, buscando la continuidad de un rastro que se le escapaba entre los dedos como agua. Lo que encontró fue otra cosa: una línea distinta, mucho más asentada, que cruzaba la franja en diagonal hacia el noreste. Gente pasando por el mismo punto una y otra vez, año tras año, con una regularidad que solo dejan los caminos que alguien usa de verdad. Era más gruesa, más nítida, más fácil de sostener que el rastro fresco. Era, en todos los sentidos que él sabía medir, la señal mejor.
 
-—Doran —lo llamó Korr, antes de que se alejara del todo—. ¿Estás bien? Sé que esto puede traer cosas difíciles a la cabeza para alguien con tu historia familiar.
+—Por aquí —dijo, y echó a andar hacia el noreste.
 
-—Estoy bien —dijo Kael, aunque la voz le salió menos firme de lo que pretendía—. Solo... pensaba en mis padres. En si algo así fue lo último que vivieron.
+Bram no se movió.
 
-Korr no respondió de inmediato. Se quedó mirándolo un momento, con esa misma seriedad cuidadosa que reservaba para las preguntas que de verdad importaban.
+—El chico salió hace una hora, Doran. ¿Estás leyendo a una persona o estás leyendo un camino?
 
-—No lo sé, Kael. Nadie lo sabe con certeza, y dudo que alguna vez lo sepamos del todo. —Su voz se suavizó un poco—. Pero si te sirve de algo: la gente que se dedica a este oficio sabe el riesgo desde el primer día. Y aun así elige seguir, porque cree que vale la pena. No creo que tus padres hayan sido la excepción a eso.
+—Estoy leyendo lo que hay.
 
-Esa noche, mientras la ciudad volvía poco a poco a algo parecido a la normalidad —los trenes retomando sus rutas, los mercados reabriendo a media luz para quienes necesitaban provisiones urgentes—, Kael se quedó un rato más en el patio, mirando hacia el sur, hacia donde todavía se veía un resplandor anaranjado que no era del atardecer.
+—No es lo mismo.
 
-Tamsin se sentó a su lado, sin decir nada al principio. Llevaba puesta una manta que alguien le había dado en el comedor, y todavía tenía los ojos hinchados de las lágrimas que se había permitido derramar finalmente, ya fuera del refugio, lejos de la mirada de los más pequeños.
+—Por aquí —repitió Kael.
 
-—¿En qué piensas? —preguntó finalmente.
+Y lo siguieron, porque eso era exactamente lo que habían acordado hacer cuatro meses antes: que los ojos del grupo eran los suyos.
 
-—En que esto pasa cada pocas décadas —dijo Kael—. Lo dijo el instructor del refugio. Cada pocas décadas, algo sale de ahí afuera y la ciudad entera tiene que defenderse de eso, y la mayoría de la gente solo lo vive una o dos veces en toda su vida, encerrada, sin saber qué está pasando, esperando a que termine.
+Caminaron cuarenta minutos en la dirección equivocada. La línea que Kael estaba siguiendo era una vereda de servicio que los jardineros del distrito habían usado durante treinta años para acarrear herramienta, y terminaba, con una simetría casi cruel, en un cobertizo cerrado con candado donde no había ningún paquete, ningún aprendiz del curso superior y nada que encontrar. Renn se torció el tobillo en el último tramo, en una zanja que nadie vio porque los cuatro iban mirando la espalda de Kael.
 
-—Sí.
+Volvieron con Renn apoyado entre Bram e Ilsa. El aprendiz del curso superior los estaba esperando junto a Herrik, sentado, comiéndose su propia merienda, con el paquete a la vista sobre la piedra: doscientos pasos al este del punto de partida, en línea recta, debajo de un montón de escombro.
 
-—Y aun así, mañana todos van a volver a sus trabajos. Los mercados van a reabrir del todo. Los trenes van a volver a su horario normal. Como si nada hubiera pasado.
+Nadie dijo nada durante un rato bastante largo.
 
-Tamsin lo pensó un momento antes de responder, envolviéndose un poco más en la manta contra el frío de la noche.
+—Doran —dijo Herrik al fin—. Explícame tu razonamiento. Y hazlo bien, porque el razonamiento es lo único que a mí me interesa de este ejercicio.
 
-—No es que nada haya pasado. Es que la ciudad ya sabe lo que cuesta seguir existiendo aquí. Lo sabe desde antes de que tú o yo naciéramos. Y a pesar de eso, sigue eligiendo seguir.
+—Perdí el rastro fresco a los veinte pasos. Encontré uno mucho más claro y lo seguí.
 
-—¿Tú crees que eso es valiente o solo es costumbre?
+—Encontraste uno mucho más *viejo* y lo seguiste. —Herrik dejó que la palabra se asentara—. ¿Por qué?
 
-—Quizás las dos cosas a la vez —dijo Tamsin, después de pensarlo—. No creo que se puedan separar del todo. Uno se vuelve valiente por costumbre, a fuerza de hacerlo una y otra vez hasta que deja de sentirse como una elección consciente.
+Kael no tenía una buena respuesta, y lo peor era que sí tenía una verdadera.
 
-Kael pensó en sus padres, una vez más, en ese hábito que ya empezaba a sentir menos como una herida abierta y más como una pregunta que llevaba consigo a todas partes, sin necesidad de respuesta inmediata. Pensó en el Explorador del revólver extraño, en la mujer del brazo vendado sonriendo igual de orgullosa que cansada, en los cuatro caídos del último Día de los Caídos, y en los que probablemente se sumarían a esa lista después de lo de hoy, aunque la Maestra Korr no hubiera querido dar números exactos frente a todo el grupo.
+—Porque lo viejo se me da mejor —dijo—. Porque lo agarré y no se me escapaba, y lo otro sí.
 
-—Algún día voy a ser parte de lo que contiene eso —dijo, no como pregunta sino como una certeza que llevaba tiempo formándose—. No solo voy a esperar encerrado a que termine.
+—Ahí está. —Herrik se levantó, se sacudió el polvo y miró a los cuatro, no solo a él—. Grábense esto mejor que la escala de bestias. Un Rastreador no sigue la huella que mejor lee. Sigue la que responde a la pregunta. Doran tiene, y no lo digo para consolarlo, el mejor oído para lo viejo que he visto en un aprendiz en años. Eso lo va a volver valiosísimo en una ruina y peligrosísimo en una persecución, y la diferencia entre las dos cosas va a ser siempre la misma: si tiene la disciplina de soltar la señal más cómoda cuando no es la correcta. —Señaló el tobillo de Renn con el mentón—. Hoy costó un tobillo. Ahí afuera cuesta otras cosas.
 
-—Lo sé —dijo Tamsin, y por la forma en que lo dijo, sin sorpresa alguna, Kael entendió que llevaba tiempo sabiéndolo, quizás más tiempo del que él mismo había tardado en decirlo en voz alta—. Solo prométeme algo.
+Bram no dijo "te lo dije". Eso, pensó Kael después, fue lo que hizo que doliera de verdad.
 
-—¿Qué cosa?
+De vuelta en el Instituto, mientras la enfermera le vendaba el pie a Renn, Ilsa se sentó junto a Kael en el pasillo, con la espalda contra la pared.
 
-—Que cuando llegue el día, no vas a ser de los que no vuelven. Que vas a encontrar una forma de ser valiente sin terminar siendo solo otro nombre en un libro de registro.
+—Lo supo antes que tú —dijo—. Bram. Lo supo a los veinte pasos.
 
-Kael no pudo prometerle eso con honestidad completa —ninguno de los dos podía saber realmente qué les depararía el futuro—, pero le tomó la mano de todos modos, y asintió, dejando que el gesto dijera lo que las palabras no podían garantizar del todo.
+—Ya lo sé.
 
-Se quedaron ahí un rato más, en silencio, mirando el resplandor anaranjado apagarse poco a poco en el horizonte sur, mientras Cumbresenda —inmensa, indomable, terca en seguir existiendo a pesar de todo lo que la rodeaba— empezaba, otra vez, a respirar con normalidad, como llevaba haciendo, sin duda, durante generaciones enteras antes de que ninguno de los dos hubiera nacido siquiera.
+—Y lo dijo una sola vez, y después te siguió igual. —Ilsa ladeó la cabeza—. En mi casa, a eso lo llaman lealtad, y no lo tienen. Yo llevo dieciséis años viendo a gente tener razón y asegurarse de que todo el mundo lo supiera. —Se levantó—. No lo desperdicies, Doran.
 
-A la mañana siguiente, con permiso especial de la Maestra Korr —que entendía, mejor que nadie, lo que algunos aprendices necesitaban ver con sus propios ojos para terminar de procesar lo vivido—, un pequeño grupo de los mayores, Kael entre ellos, pudo acompañar a un instructor hasta el límite seguro más cercano a las murallas sur, donde la evidencia del Desbordamiento todavía era visible.
+---
 
-El paisaje que encontraron al llegar no se parecía a nada que Kael hubiera imaginado durante las largas horas de encierro del día anterior. Una franja de terreno, antes ocupada por pequeños huertos comunitarios que abastecían a los barrios cercanos con verduras frescas todo el año, había quedado completamente devastada: tierra removida en surcos profundos, como garras gigantescas arando el suelo sin ningún patrón reconocible, algunos árboles partidos a media altura con una fuerza que ningún viento podría haber producido. Más cerca de la muralla misma, equipos de la Guardia y un par de Arquitectos de Cauce trabajaban ya en restaurar las secciones dañadas, sus manos moviéndose sobre la piedra agrietada con una concentración que Kael reconoció, sin proponérselo, como parecida a la que él mismo aplicaba durante sus propias sesiones de control de Filtración, aunque a una escala completamente distinta.
+Esa misma semana, un martes por la noche, Tamsin lo despertó sacudiéndole el hombro.
 
-—¿Eso es sangre? —preguntó uno de los aprendices del grupo, con voz temblorosa, señalando una mancha oscura y extensa cerca de uno de los surcos más profundos.
+—Levántate. Necesito practicar delante de alguien y no puede ser delante de ellos.
 
-—No preguntes cosas que no quieres responder de verdad —dijo el instructor que los acompañaba, sin crueldad, solo con el cansancio práctico de quien ha visto demasiadas veces la misma reacción ante el mismo tipo de escena.
+—¿Delante de quién?
 
-Fue también él —un instructor de campo llamado Herrik, al que Kael solo conocía de vista— quien aprovechó la vista del desastre para dar, sin pizarra ni protocolo, la lección de bestias más seria que ninguno había recibido hasta entonces.
+—Levántate.
 
-—Lo que llegó anteayer era una manada de División I, puede que con alguna pieza de División II —dijo, señalando los surcos con el mentón—. Niveles uno a seis, lo más bajo de la escala entera. Instinto puro, sin núcleo, sin nada dentro que valga el riesgo de cazarlas salvo quitarlas de en medio. Y miren lo que le hicieron a los huertos. —Dejó que el silencio trabajara un momento—. La escala sigue hasta el nivel veintiuno, en siete divisiones, y por encima de todo eso hay un Nivel 22 del que no les voy a hablar hoy porque no me pagan lo suficiente. Grábense esto, en su lugar: a partir del Nivel 7 —División III— la bestia forma núcleo. Y ahí cambia todo. Un solo núcleo vale más de lo que la mayoría de la gente gana en años, y cazar algo de esa división ya no es trabajo de la Guardia: es trabajo de escuadrones enteros de Trazadores. La cuenta gruesa de los gremios de caza es de tres a cinco Trazadores por cada nivel de la pieza. Háganse el número de lo que costaría bajar algo de Nivel 12, y después háganse esta otra pregunta: ¿de dónde creen que salen los núcleos que alimentan los portales entre continentes?
+La siguió medio dormido por las escaleras traseras, con el uniforme mal puesto, hasta el patio de calderas: un rectángulo de cemento en la parte trasera del ala de mantenimiento, con las tuberías de vapor corriendo por las paredes y un olor permanente a carbón húmedo. Tamsin llevaba un cuaderno que no era el suyo de la escuela: uno más grande, de tapas duras, con papel de archivo.
 
-—¿Y si hubiera venido algo así? —preguntó uno de los aprendices—. De División IV, digo. Contra la muralla.
+—Murió uno de los viejos de mantenimiento —dijo—. Hace cuatro días. Cuarenta y un años limpiando calderas aquí dentro. Sin mujer, sin hijos, sin nadie.
 
-—Entonces no estaríamos mirando el muro. Estaríamos ayudando a buscar la ciudad. —Herrik lo dijo sin sonreír, y nadie tomó la frase como un chiste—. Por eso existen los escuadrones, los Exploradores y las campanas. Y entiendan bien esto, porque es la parte que más cuesta aprender: el territorio de ahí afuera no odia a Cumbresenda. Ni siquiera sabe que existe una Cumbresenda. Las bestias que llegaron anteayer venían empujadas por algo más grande que ellas, igual que ustedes corrieron al refugio empujados por las campanas. Todo lo que camina ahí afuera está huyendo de algo o buscando comida, sin excepción, y la muralla simplemente está en medio. El día que entiendan que no hay malicia en nada de eso, van a poder trabajar afuera sin volverse locos de miedo. Malicia van a encontrar en este oficio, no lo duden. Pero no en las bestias.
+—Lo siento.
 
-Esa última frase, pensó Kael sin decirlo, también iba a terminar en su cuaderno.
+—No lo conocías. Yo tampoco, casi. —Se sentó en el borde de un banco metálico—. Antes lo habrían enterrado con dos frases del administrador de turno y listo. Pero la Maestra Korr se acordó de mi discurso del Día de los Caídos, el de la Exploradora que me inventé, y me lo pidió a mí. Que preguntara por él a quienes lo conocieron y que contara su Saldo. Mañana. En este patio.
 
-Kael se quedó mirando la devastación más tiempo del que probablemente debería, intentando, sin pedirle permiso a nadie, sentir si había alguna huella reciente que su Marca, todavía tan limitada, pudiera captar desde la distancia segura en la que se encontraban. No sintió nada —la distancia era demasiada, y de cualquier forma, una sesión de control de Filtración nunca le había enseñado a leer algo tan intenso, tan reciente, sin un riesgo real de hacerse daño—, pero el simple intento le dejó claro algo que ninguna clase teórica le había mostrado con tanta crudeza: el mundo que rodeaba a Cumbresenda no era un decorado lejano para sus futuras expediciones. Era algo vivo, hambriento, indiferente a las murallas que la ciudad construía para mantenerlo a raya.
+Kael se sentó a su lado, despierto del todo ya.
 
-—¿Por qué la gente sigue viviendo aquí? —preguntó, más para sí mismo que para nadie en particular, aunque el instructor lo escuchó de todos modos.
+—¿Y lo tienes?
 
-—Porque en algún lugar hay que vivir, Doran —respondió, con una simplicidad que no admitía mucha discusión—. Y porque, comparado con el territorio salvaje que nos rodea, una ciudad con murallas, aunque imperfectas, sigue siendo la opción más segura que existe. No es coraje lo que mantiene a la gente aquí. Es, sobre todo, sentido común.
+—Tengo dos días de preguntar. —Abrió el cuaderno y lo inclinó hacia la luz de la caldera—. Silbaba desafinado, siempre la misma canción, y nadie sabe cuál era porque la desafinaba tanto que no se reconocía. Alimentaba a un gato al que le puso el nombre de un supervisor que odiaba, y cuando el supervisor se jubiló siguió llamando al gato igual, porque para entonces el gato ya respondía. Una vez cruzó medio distrito a pie, de noche, para avisarle a una viuda antes de que la lista oficial la golpeara sin aviso. —Pasó una página—. Tengo treinta y uno. Algunos son de una sola línea. Uno es solo que prefería el pan del martes.
 
-Volvieron al Instituto antes del mediodía, en silencio casi todo el camino, cada uno cargando consigo una versión distinta de lo que habían visto, una pieza más en el rompecabezas cada vez más grande que cada aprendiz construía, sin proponérselo del todo, sobre lo que de verdad significaba el mundo en el que habían decidido —o, en muchos casos, simplemente habían terminado— viviendo.
+—¿Y eso cuenta?
 
-Esa misma tarde, ya de vuelta en el dormitorio, Kael anotó en su cuaderno, junto a las frases sueltas del Instructor Vannel y las observaciones de Ressk sobre huellas viejas y frescas, una línea nueva que no quería olvidar: *el mundo no perdona, pero tampoco castiga a propósito. Solo está ahí, descomunal e indiferente, esperando pacientemente a que alguien aprenda a moverse mejor que él.*
+—Todo cuenta. Esa es la única regla. —Cerró el cuaderno—. Lo difícil no es juntarlos, Kael. Es el orden. Si los cuentas mal, sale una lista. Si los cuentas bien, sale una persona.
+
+Kael pensó en la franja de tierra removida, en la línea gruesa y cómoda que había seguido cuarenta minutos en la dirección equivocada.
+
+—¿Cómo sabes cuál va primero?
+
+—Ese es el trabajo. —Tamsin se encogió de hombros, y por un segundo no sonó a una chica de dieciséis años sino a alguien que lleva mucho tiempo haciendo bien una cosa pequeña—. Empiezas por algo que lo haga entrar en el patio. No por lo más importante: por lo más suyo. Yo voy a empezar por la canción.
+
+Se la contó entera, ahí, de noche, con el vapor de las tuberías subiendo detrás de ella, y Kael escuchó los treinta y un momentos de un hombre al que no había visto nunca, en el orden exacto en que Tamsin había decidido que debían ir. Cuando terminó, llevaba un rato sin darse cuenta de que tenía la mandíbula apretada.
+
+—No sabía que existiera gente que hiciera esto —dijo.
+
+—No existe. Eso es lo que estoy intentando decirte. —Tamsin miró el cuaderno de tapas duras sobre sus rodillas—. El bibliotecario me dijo la semana pasada que me quiere como aprendiz de archivo. Formalmente, con contrato de tres años. Dije que sí antes de que terminara la frase. —Levantó la vista—. Y llevo desde entonces pensando en esto: el archivo guarda los nombres, las fechas y los sellos. Guarda que Mireia y Esteben Doran salieron un día y no volvieron. Eso es todo lo que va a guardar de ellos, para siempre, aunque el papel dure mil años.
+
+Kael no dijo nada.
+
+—Tú vas a ser de los que gastan historia —siguió ella—. Es literal, no es un reproche: ustedes agarran lo que un sitio recuerda y lo queman para hacer algo con ello. Está bien. Alguien tiene que hacerlo. —Cerró el cuaderno del todo—. Pero alguien tiene que quedarse de este lado, apuntando lo que no debería gastarse. Y prefiero que ese alguien sea yo y no un sello de tinta azul.
+
+—Tamsin. —Kael tardó en encontrar la forma—. Hoy fallé un ejercicio por seguir la huella más fácil en vez de la correcta. Herrik dijo que en una ruina voy a valer mucho y en una persecución voy a ser un peligro.
+
+—¿Y?
+
+—Y llevo cinco años leyendo el mismo registro de mis padres porque es lo único que puedo tocar. —Se quedó mirando las tuberías—. Nunca se me ocurrió preguntarle a nadie que los conociera. Ni una vez. Tenía el archivo y me bastaba con el archivo.
+
+Tamsin lo miró un momento largo, y por una vez no le ofreció ninguna frase bonita.
+
+—Pues empieza. —Se levantó, sacudiéndose el polvo de cemento—. Pero no conmigo, que yo tenía seis años. Empieza por la gente que salía con ellos.
+
+Se fue hacia la escalera, y a mitad de camino se dio la vuelta.
+
+—Y hazlo pronto, Kael. Llevo dos días preguntando por un hombre que murió el viernes, y la mitad de las cosas que me contaron ya estaban torcidas. —Se encogió de hombros—. Doce años son muchos más que cuatro días.

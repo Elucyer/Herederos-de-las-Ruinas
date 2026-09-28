@@ -1,119 +1,169 @@
-# Capítulo 12 — Cuatro nombres, una mesa
+# Capítulo 12 — La última noche en que nada pasó
 
-La cohorte se formó oficialmente una semana después, cuando la Maestra Korr reunió a los cuatro aprendices que compartirían el examen de campo final del año siguiente en una mesa apartada del comedor principal, lejos del bullicio habitual.
+La cohorte se reunió por última vez antes del examen en el mismo patio interior donde habían entrenado control de Filtración años atrás, ahora vacío y silencioso bajo un cielo despejado. Ilsa había llevado, de algún modo que ninguno preguntó demasiado, una botella pequeña de algo que no era agua, y la compartieron en vasos prestados de la cocina, sentados en círculo sobre las piedras todavía tibias del día.
 
-—Estos son los nombres con los que van a pasar el próximo año, así que más les vale aprenderlos bien —dijo, sin más preámbulo, antes de retirarse hacia sus propios asuntos y dejarlos a su suerte.
+—Mañana a esta hora ya vamos a estar de vuelta —dijo Renn, con un optimismo que sonaba más a deseo que a certeza—. Es solo una quebrada y una ruina menor. Cartografía y registro. Nada que no hayamos practicado cien veces.
 
-Kael reconoció a dos de las tres caras nuevas de vista, de pasillos compartidos durante años sin haber cruzado nunca una palabra real más allá de algún saludo casual. La tercera le resultaba completamente desconocida.
+—Eso es lo que dicen siempre antes del examen —dijo Bram, sin mala intención—. Que es rutina. Y aun así, todos los años hay aprendices que no pasan a la primera, o que pasan con alguna cicatriz que no esperaban.
 
-—Ilsa Marrow —se presentó la primera, una chica de mirada directa y postura demasiado erguida para sentirse cómoda, que Kael ya había visto antes en el ala de los aprendices de pago, aunque nunca habían compartido mesa—. Mi padre es Gran Duque menor de una de las casas de Avar, si alguien tiene curiosidad. Preferiría que no la tuvieran.
+—Gracias por el ánimo —dijo Ilsa.
 
-—Bram Yutsen —dijo el segundo, un chico fornido con una sonrisa fácil que no dejaba de medir a los demás con una mirada evaluadora—. Mi familia tiene un pequeño taller en Tal Veyr. Categoría II, ya encaminada. Y antes de que alguien lo pregunte: sí, soy el más fuerte de Calado en esta mesa, y no, no es por presumir, es solo un dato útil para cuando nos toque entrenar juntos.
+—Solo digo que estemos atentos. No asustados. Atentos.
 
-Ilsa puso los ojos en blanco, pero algo en la comisura de su boca sugería que no le molestaba tanto como pretendía.
+Kael, sentado un poco apartado con el estuche de las Voces apoyado contra la piedra, escuchaba sin participar demasiado. Llevaba dos días dándole vueltas a un código de tres letras y tres números, y había decidido cuatro veces contarlo en voz alta y cuatro veces no hacerlo.
 
-—Renn Sodt —dijo el último, mucho más bajo de estatura y con varios años menos en la cara que en el registro de edad, mirando a los otros tres con una mezcla de nervios y fascinación que no se esforzaba en disimular—. Mi familia trabaja en uno de los centros de producción agrícola. Soy el primero en despertar Marca en toda mi familia. Todavía no sé bien qué hago aquí, para ser honesto.
+—¿En qué piensas? —preguntó Ilsa, notando el silencio.
 
-—Estás aquí porque despertaste, igual que el resto de nosotros —dijo Kael, presentándose por fin—. Kael Doran. Categoría I, Senda probable Rastreador.
+—En que hace cinco años no tenía a nadie con quien compartir una noche como esta.
 
-—El huérfano de los Exploradores perdidos —dijo Bram, sin malicia, solo como quien repite un dato que ya conocía de antes—. He oído de ti. Dicen que casi te desmayas en el patio el día que despertaste, frente a medio Instituto reunido.
+—No te pongas sentimental, Doran —dijo Bram, aunque la sonrisa desmentía cualquier dureza—. Todavía no hemos hecho nada juntos. Guarda esa frase para cuando volvamos.
 
-—Algo así —dijo Kael, sin entrar en detalles que no le pertenecían contar a un extraño todavía.
+—Yo tengo una lista —dijo Renn, de pronto—. De cosas que quiero ver antes de morirme. La empecé el año pasado. —Se puso rojo inmediatamente—. No se rían.
 
-Hubo un silencio breve, el tipo de silencio incómodo que ocurre cuando cuatro personas que no se conocen del todo intentan decidir, sin decirlo en voz alta, si van a llevarse bien o simplemente van a tolerarse durante el tiempo que dure su examen compartido. Renn jugueteaba con el borde de su plato, Ilsa mantenía la espalda recta como si la postura misma fuera una forma de defensa, y Bram observaba a los otros tres con una atención que no terminaba de ser incómoda solo porque la acompañaba con una sonrisa genuina.
+—Nadie se está riendo —dijo Ilsa, que sí se estaba riendo—. ¿Cuántas cosas hay?
 
-Fue Renn quien lo rompió primero, con la torpeza honesta de quien todavía no ha aprendido a medir sus propias palabras.
+—Nueve.
 
-—¿Alguien más está aterrado de que nos toque cruzar alguna de las rutas malas? Porque yo sí. Mi familia jamás ha salido de la zona agrícola en toda su vida. Ni siquiera sé bien cómo se siente caminar más de un día fuera de la ciudad.
+—Di una.
 
-—Todos vamos a estar aterrados —dijo Ilsa, con una franqueza que sorprendió a los demás—. La diferencia es quién lo admite y quién finge que no.
+Renn lo pensó, calibrando cuál era la menos ridícula.
 
-—Yo no finjo nada —dijo Bram, con una sonrisa que por primera vez no parecía competitiva—. Solo prefiero estar aterrado mientras hago algo útil con ese miedo. Entrenar, por ejemplo. Mi padre siempre dice que el miedo sin entrenamiento es solo ruido, pero el miedo con entrenamiento es información.
+—Un globo por dentro. No subido, por dentro: quiero ver cómo se infla desde abajo. —Hizo una pausa—. Y una bestia de división alta. Viva. De lejos.
 
-—Suena exactamente a algo que un padre de gremio diría —comentó Ilsa, sin verdadera mala intención en el tono.
+—Esas son dos —dijo Bram.
 
-—Lo es. Pero no por eso es menos cierto.
+—La segunda está la novena. Falta mucho.
 
-Kael los observó a los tres, sintiendo algo extraño asentarse en su pecho: no la soledad de siempre, ni la distancia que había aprendido a mantener con los aprendices de pago, sino algo más parecido a reconocerse, aunque fuera solo un poco, en cada uno de ellos. En el miedo honesto de Renn. En la franqueza cansada de Ilsa, que cargaba un nombre que no había elegido tanto como él mismo cargaba el suyo. En la necesidad de Bram de convertir cada inseguridad en algo medible, algo que se pudiera entrenar y mejorar.
+—Va a volver a decirla —dijo Renn, riendo—. Apuesto lo que sea a que cuando volvamos dice algo todavía peor.
 
-—¿Y tú, Doran? —preguntó Ilsa, notando que Kael se había quedado callado un momento de más—. ¿Qué te asusta a ti de todo esto?
+Ilsa, que se había mantenido más callada que el resto, habló entonces con un tono distinto.
 
-Kael lo pensó antes de responder, sopesando si decir la verdad completa o solo una versión cómoda de ella.
+—¿Puedo decir algo sin que suene raro? Llevo el año entero pensando en que en cuanto me gradúe voy a buscar mi propio camino, lejos de todo esto. Y sigo pensando lo mismo. Pero esta noche, sentada aquí con ustedes tres, es la primera vez en mucho tiempo que no estoy contando los días para irme de algún sitio. Solo estoy aquí. Y eso me sorprende bastante.
 
-—Me asusta no encontrar nada nuevo —dijo finalmente, con una sinceridad que lo sorprendió incluso a él mismo—. Llevo años buscando respuestas sobre mis padres en libros que nunca cambian. Una parte de mí teme que la primera expedición real tampoco me dé nada distinto. Que siga siendo, de algún modo, el mismo callejón sin salida de siempre.
+Hubo un silencio breve, esta vez no incómodo.
 
-Nadie respondió de inmediato. Renn lo miró con una empatía silenciosa; Ilsa asintió, casi imperceptiblemente, como reconociendo algo en la respuesta que le resonaba más de lo que estaba dispuesta a admitir en voz alta; Bram, por su parte, fue quien finalmente rompió el silencio.
+—No te acostumbres —añadió ella enseguida—. Mañana vuelvo a ser insoportable.
 
-—Entonces hagamos que esta expedición sea distinta —dijo, con una determinación súbita que sorprendió a los otros tres—. No solo para ti. Para todos. Vamos a entrenar en serio, los cuatro juntos, no solo lo mínimo que el Instituto nos exige. Si vamos a cruzar algo que nadie más quiere cruzar, mejor hacerlo siendo lo más buenos posible en lo que cada uno sabe hacer.
+—Siempre eres un poco insoportable —dijo Renn, con valentía recién descubierta—. Pero de la buena manera.
 
-—Entonces entrenemos juntos —dijo Kael, casi al mismo tiempo, sin haber escuchado del todo la propuesta de Bram pero llegando a la misma conclusión por su cuenta—. Si vamos a cruzar lo que sea que nos toque cruzar el año que viene, mejor hacerlo conociéndonos un poco antes de que importe de verdad.
+Se quedaron un rato más hablando de cosas pequeñas: el orden de marcha —que Ilsa y Bram habían discutido ya dos veces durante los entrenamientos y volvieron a discutir ahí, por deporte—, las rutas que Soraya Vahn había mencionado en la última sesión informativa, la comida que iban a extrañar, si el tobillo de Renn aguantaría tres días de terreno irregular.
 
-Los otros tres lo miraron un momento, y algo —una decisión silenciosa, sin necesidad de palabras solemnes ni promesas grandilocuentes— se selló entre los cuatro en ese instante, en una mesa apartada de un comedor que ninguno de ellos recordaría después con demasiado detalle, salvo por el hecho de que ahí, esa tarde, habían dejado de ser cuatro nombres sueltos en un registro y habían empezado a ser, por primera vez, algo parecido a un equipo.
+—Aguanta —dijo Renn—. Llevo dos meses subiendo y bajando las escaleras del ala este para probarlo.
 
-—Bueno —dijo Bram, levantando su vaso de agua como si fuera algo más solemne—. Por la cohorte que nadie nos pidió elegir, pero que nos tocó de todos modos.
+—¿Por eso llegabas tarde a todo? —preguntó Bram.
 
-Los cuatro chocaron sus vasos, torpemente, entre risas nerviosas, sin saber todavía cuánto pesaría, con los años, ese pequeño gesto compartido.
+—Llegaba tarde porque las escaleras del ala este son ochenta y cuatro tramos.
 
-—Una cosa más —dijo Ilsa, cuando las risas se apagaron—. Si vamos a entrenar juntos de verdad, necesito que todos entiendan algo desde ahora: no busco quedarme en este oficio para siempre. Voy a hacer el examen, voy a graduarme, y después voy a decidir mi propio camino, sea cual sea. No quiero que nadie se sienta traicionado el día que eso pase.
+—¿Las contaste?
 
-—Eso está bien —dijo Renn, sin dudarlo—. Cada uno tiene sus propias razones para estar aquí. Las mías son distintas a las tuyas, y no por eso valen menos.
+—Las conté cuatro veces. Siempre dan ochenta y cuatro. —Renn se encogió de hombros ante las miradas—. Me tranquiliza saber que algo da siempre lo mismo.
 
-—Concuerdo plenamente —dijo Bram, asintiendo con firmeza—. Mientras estemos juntos, demos lo mejor de cada uno. Lo que pase después de eso, cada uno lo decide por su propia cuenta, sin reproches.
+Bram, que llevaba un rato dándole vueltas al vaso sin beber, fue el que cambió el tono.
 
-Kael asintió, sintiendo que esa pequeña confesión de Ilsa, lejos de debilitar el grupo que apenas se estaba formando, lo volvía, paradójicamente, más sólido: cuatro personas con razones distintas, caminos distintos, pero dispuestas, por ahora, a recorrer el mismo tramo juntas.
+—Voy a decir la parte fea y después no la repito —dijo—. Mañana no nos evalúan por lo que sabemos. Nos evalúan por lo que hacemos cuando algo sale distinto a lo planeado, que es lo único que no hemos practicado nunca, porque no se puede practicar. Así que si algo sale raro, yo voy a querer avanzar y Doran va a querer entender. —Miró a Kael—. Los dos no podemos tener razón a la vez.
 
-—Por cierto —añadió Bram, ya con un tono más ligero—. ¿Alguien sabe quién nos va a supervisar el examen?
+—¿Y qué propones?
 
-—Soraya Vahn —dijo Kael—. La conocí hace una semana.
+—Que decidamos ahora, con la cabeza fría, quién cede. —Bram dejó el vaso—. Yo cedo si Soraya está delante. Tú cedes si no lo está.
 
-—¿Cómo es?
+Kael lo pensó más de lo que Bram esperaba, y eso pareció gustarle más que una respuesta rápida.
 
-Kael recordó la conversación en el aula de pruebas, la reacción contenida ante su pregunta sobre sus padres, la brevedad casi cortante de sus respuestas.
+—Hecho.
 
-—Seria. Buena en lo que hace, creo. —Hizo una pausa—. Y, por alguna razón que todavía no entiendo, sabe más de lo que admite.
+—Qué romántico —dijo Ilsa—. Dos hombres pactando quién manda sobre una quebrada que ninguno ha visto.
 
-Ninguno de los otros tres supo qué hacer con esa última frase, así que simplemente la dejaron flotar entre ellos, sin saber todavía que, con el tiempo, llegarían a entenderla mucho mejor de lo que cualquiera de los cuatro podía imaginar esa tarde.
+—Cuatro —corrigió Renn, sorprendiéndose otra vez a sí mismo—. Somos cuatro.
 
-—Bueno, dejando eso de lado por ahora —dijo Bram, recuperando el tono ligero de antes—. Si vamos a entrenar juntos, necesitamos un plan. ¿Qué Sendas tienen ustedes tres, además de la de Doran?
+Nadie lo contradijo.
 
-—Todavía no tengo Senda confirmada —admitió Ilsa—. Categoría II, eso sí. Mi instructor cree que podría inclinarme hacia algo de manipulación emocional, pero es solo una sospecha por ahora.
+Se quedaron hasta que el frío empezó a calar más de lo que la conversación podía compensar. Renn se fue primero, después Ilsa, y al final quedaron Kael y Bram recogiendo los vasos prestados.
 
-—Yo tampoco tengo nada confirmado —dijo Renn, encogiéndose un poco—. Apenas llevo un año con Marca despierta. Todavía estoy en Cauce Naciente, como Doran cuando empezó.
+—Doran. ¿De verdad estás bien? Con todo esto junto. La expedición, el equipo de tus padres.
 
-—Eso nos deja a mí como el único con algo medianamente claro —dijo Bram, sin presunción esta vez, solo constatando un hecho—. Custodio, probablemente. Mi instructor dice que tengo "instinto de escudo", lo cual suena más elegante de lo que en realidad es: básicamente, prefiero proteger a atacar.
+—Creo que sí. —Kael lo pensó un momento—. Llevo años esperando algo parecido a esto sin saber exactamente qué esperaba. Ahora que está aquí, se siente correcto. Asustado, pero correcto.
 
-—Eso podría sernos muy útil —dijo Kael, pensando ya, sin proponérselo, en cómo encajarían las piezas de cada uno de ellos en una expedición real—. Un Rastreador para saber qué hay adelante, un Custodio para protegernos si algo sale mal, y dos Categoría II y I sin Senda definida todavía que pueden convertirse en lo que el grupo más necesite.
+—Eso es lo máximo que se puede pedir. —Bram le dio una palmada en el hombro antes de irse hacia su propio dormitorio—. Nos vemos en la estación.
 
-—Hablas como si ya fueras un Explorador licenciado —se burló Ilsa, aunque sin verdadera mala intención—. Apenas tienes diecisiseis años, Doran.
+Kael se quedó a solas un momento más, mirando hacia el oeste —la misma dirección que llevaba mirando desde la ventana del Ala Norte desde niño—, y por primera vez esa mirada no fue solo hambre y pequeñez. Fue, también, algo parecido a estar listo.
 
-—Diecisiete, dentro de poco —corrigió Kael, sonriendo—. Y prefiero pensar en esto con cuidado ahora, mientras todavía tenemos tiempo, que improvisarlo todo el día del examen.
+Encontró a Tamsin despierta, sentada en su cama con el cuaderno de tapas duras sobre las rodillas, esperándolo como había hecho tantas otras noches.
 
-—En eso tiene razón —dijo Renn, asintiendo con entusiasmo renovado—. Mi padre siempre dice que la mitad del trabajo en el campo se hace antes de salir de casa, planeando bien.
+—Te falta dormir seis horas y llevas dos noches durmiendo tres —dijo ella.
 
-—Tu padre suena a alguien sabio —dijo Bram.
+—Necesito pedirte algo. —Kael se sentó en el borde de su propia cama, sacó su cuaderno y arrancó, con cuidado, la esquina de la última página. Se la tendió—. Esto estaba en el libro de custodias de mis padres. Una apertura administrativa hace siete años, sin nombre. Solo el código.
 
-—Mi padre nunca ha salido de la zona agrícola en su vida —respondió Renn, con una risa nerviosa—. Pero sí, es sabio a su manera.
+Tamsin leyó las siete marcas de tinta a la luz de la ventana.
 
-En algún punto de la noche, la conversación derivó —ninguno recordaría después exactamente cómo— hacia lo que cada uno sabía del mundo y a los otros les faltaba, y resultó ser la mejor clase que ninguno de los cuatro había recibido ese año.
+—R-VA-117. —Levantó la vista—. VA es Vel Aris. Eso lo sé porque medio archivo tiene sellos de allá.
 
-Ilsa, con la voz de quien recita algo que le enseñaron antes de aprender a leer, les explicó cómo funcionaba de verdad el poder entre la gente que lo tenía: que había tres escaleras —la sangre, el dinero y el Eco—, y que las dos primeras solo mandaban mientras la tercera no entrara en la sala.
+—El administrador dijo lo mismo. También dijo que no le diera importancia.
 
-—En casa lo llaman los Tres Poderes. Mi padre puede sentar a su mesa a quien quiera de las otras dos escaleras, y aun así, si entra una Trazadora de Calado alto, todo el mundo se pone de pie. Incluido él. Sobre todo él. —Sonrió sin alegría—. Hay un dicho: *la sangre abre puertas, el Eco abre mundos*. En mi familia se repite mucho. Casi siempre en voz baja, y nunca delante de mi padre.
+—¿Y por qué se la das?
 
-Bram, a cambio, les contó lo que se aprendía creciendo en un taller de Tal Veyr: que la palabra "Artífice", que la gente usaba para cualquier objeto raro, era en realidad un rango de gremio que costaba una vida entera alcanzar; que un taller común como el de su familia reparaba y mantenía, pero jamás fabricaba, porque fabricar de verdad exigía materiales que solo salían de bestias de división alta y manos que llevaban cincuenta años sin temblar.
+—Porque quien abrió esa caja no se llevó nada.
 
-—Por eso una pieza de Artífice vale lo que vale. La gente cree que paga el objeto. No. Paga las cacerías que costó el núcleo, los veinte años del aprendiz que fundió la aleación, y el siglo de gremio que hay detrás de que un tambor de revólver no te reviente en la mano. Mi padre dice que un Artífice no vende objetos: vende años acumulados de otra gente.
+Tamsin se quedó mirando el papel un rato largo. Cuando volvió a hablar, lo hizo con más cuidado del que Kael esperaba.
 
-—Tu padre otra vez —dijo Ilsa.
+—Kael. Yo llevo tres semanas de aprendiz de archivo. Puedo consultar índices, no puedo consultar autorizaciones de otra ciudad, y si pido algo que no me corresponde, el bibliotecario se entera el mismo día. —Dobló el papel por la mitad, y después otra vez—. Así que lo voy a hacer despacio. Empezando por si hay otras entradas con sellos de Vel Aris en los mismos años, que eso sí puedo mirar sin que nadie me pregunte nada.
 
-—Mi padre otra vez —admitió Bram—. Pero dime que no es verdad.
+—No quiero meterte en problemas.
 
-Nadie pudo.
+—Ya lo sé. Por eso te lo estoy explicando en vez de decirte que sí y ya. —Guardó el papel dentro del cuaderno de tapas duras, entre dos páginas escritas—. Una condición.
 
-La conversación siguió así un rato más, mezclando bromas con planes serios, cada uno revelando poco a poco más de sí mismo de lo que probablemente había planeado al sentarse esa primera vez. Hablaron de horarios de entrenamiento compartido, de qué zonas del patio de prácticas usar para ejercicios combinados, de si valía la pena pedirle a Ressk o a algún otro instructor que los supervisara fuera del horario regular de clases.
+—La que sea.
 
-Cuando finalmente se levantaron de la mesa, ya bien entrada la noche, con el comedor casi vacío salvo por el personal de limpieza que esperaba paciente a que terminaran, los cuatro se despidieron con la incomodidad torpe de quienes todavía no saben exactamente qué tipo de relación están construyendo, pero que sienten, de todos modos, que algo importante acaba de empezar.
+—Que vuelvas. —Lo dijo sin dramatismo, casi con fastidio, que era como ella decía las cosas que le importaban de verdad—. No tiene gracia guardar algo para alguien que no viene a buscarlo.
 
-Kael caminó de vuelta al dormitorio con una sensación nueva instalándose en su pecho, distinta a la soledad de costumbre: la certeza pequeña, casi tímida, de que el año que tenía por delante ya no lo enfrentaría solo.
+—¿Puedo preguntarte una cosa? —dijo Kael, ya acostado, mirando el techo—. De archivista.
 
-Le contó a Tamsin cada detalle de la cena, casi sin pausa para respirar, mientras ella escuchaba con una sonrisa que no se molestaba en disimular el orgullo genuino que sentía al verlo hablar así, con tanta vida, de algo que ya no era solo una pregunta sin respuesta sino, por primera vez en mucho tiempo, un futuro compartido con otras tres personas dispuestas a caminarlo junto a él.
+—Adelante.
+
+—Si dentro de doce años alguien viene a buscar mi entrada. La mía, la de mañana. ¿Qué va a encontrar?
+
+Tamsin tardó en contestar, y cuando lo hizo no le suavizó nada.
+
+—Fecha de salida. Destino con código de sector. Nombre del Explorador licenciado a cargo. Y una de dos palabras al final. —Se acomodó de lado—. Eso es todo lo que guarda un registro de expedición, Kael. Por eso existe la otra cosa.
+
+—¿El Saldo?
+
+—El Saldo. —Bostezó—. Que tampoco es gran cosa, si lo piensas. Treinta y un momentos y un gato mal llamado. Pero es más de dos palabras.
+
+Se durmieron sin mucha conversación adicional, ambos sabiendo que las palabras importantes ya se habían dicho, en distintos momentos, a lo largo de los años que habían compartido ese cuarto.
+
+Kael despertó antes de que sonara ningún silbido de tren. Repasó mentalmente la lista de equipo una última vez, se colgó el estuche de las Voces al costado y se quedó un momento de pie en medio del cuarto, mirando las veintidós camas: los mismos bultos bajo las mismas mantas grises, la misma respiración desordenada de siempre, la placa de hojalata sobre cada cabecera con un nombre que nadie usaba.
+
+Se acercó a la ventana —la única que daba al oeste— por costumbre, y no llegó a mirar por ella. No le hizo falta. Se la sabía.
+
+Tamsin seguía dormida, con el cuaderno de tapas duras todavía abierto sobre la mesilla, y Kael entendió, mirándolo, que despertarla para despedirse habría sido pedirle que le dijera algo tranquilizador a las cinco de la mañana. Arrancó una hoja del suyo, escribió cuatro palabras y media, y la dejó apoyada contra el cuaderno de ella: *te lo contaré todo a la vuelta: cada momento, en orden, como se cuenta un Saldo*.
+
+Salió en silencio mientras el resto del Ala Norte todavía dormía.
+
+Afuera, el aire tenía ese frío particular de las horas previas al amanecer, cuando la ciudad entera parecía sostener la respiración antes del primer movimiento del día. Kael bajó los cinco tramos de escalera de piedra que separaban el Ala Norte de la calle —el primer descanso con su callejón de provisiones, el segundo con el patio de prácticas vacío, el tercero con las banderas descoloridas del patio de honor— y por una vez no se detuvo en ninguno.
+
+Soraya Vahn ya estaba en el andén cuando llegó, revisando una lista de carga con la eficiencia de quien lleva hecho ese gesto cientos de veces. Le hizo abrir el saco de lona ahí mismo, sobre el andén, y comprobó cada pieza contra la lista sin comentar nada, hasta que llegó al final.
+
+—¿Raciones para cuántos días?
+
+—Cinco.
+
+—El examen dura tres.
+
+—Ya lo sé, señora.
+
+Soraya levantó la vista por primera vez, registró el estuche que Kael llevaba al costado, y algo en su cara se detuvo medio segundo más de la cuenta.
+
+—Las conozco —dijo.
+
+—¿Señora?
+
+—Que suba el equipo al vagón, Doran. Salimos en veinte minutos. —Volvió a su lista sin añadir nada más, y esa fue toda la conversación.
+
+Bram llegó poco después, discutiendo con Renn sobre el peso de las mochilas; Ilsa, la última, con cara de no haber dormido bien y un saco impecablemente empacado. Soraya los revisó a los tres con la misma indiferencia meticulosa, le hizo sacar a Bram media docena de cosas que no iba a necesitar, y a Renn le preguntó por el tobillo de una forma que dejó claro que ya lo sabía.
+
+El andén de mercancías, a esa hora, no se parecía en nada al de la tarde en que Kael había visto volver una expedición: sin multitud, sin vítores, sin nadie esperando a nadie. Solo cuatro aprendices, una Exploradora licenciada, un maquinista somnoliento y el vapor subiendo entre las vías en la penumbra.
+
+A las seis en punto, el silbido cruzó la estación: tres cortos.
+
+Carga de expedición.
+
+Antes de que el sol terminara de decidirse a salir sobre Cumbresenda, Kael Doran —diecisiete años, Categoría I, Senda Rastreador encaminada, heredero de un apellido que durante años solo le había pesado y que ahora, por fin, empezaba a sentir como propio— subió al tren que lo llevaría, junto a su cohorte y a Soraya Vahn, hacia una quebrada sin nombre catalogado, en lo que todos creían que sería la misión más intrascendente de su vida.

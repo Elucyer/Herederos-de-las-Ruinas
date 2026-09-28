@@ -1,81 +1,155 @@
-# Capítulo 7 — El que volvió
+# Capítulo 7 — Las campanas de Cumbresenda
 
-Kael corrió hacia el alboroto sin pensarlo dos veces, dejando atrás el resto de su ración a medio comer sobre el peldaño de piedra.
+Las campanas de alarma de Cumbresenda no se parecían a ninguna otra campana que Kael hubiera escuchado. No tenían el tañido limpio de las de templo, ni el repique alegre que anunciaba un tren con buenas noticias. Sonaban en un patrón de tres golpes largos y dos cortos, repetido sin pausa, diseñado para que nadie pudiera confundirlo con nada bueno.
 
-La multitud se había concentrado frente a la estación de mercancías, donde un tren más pequeño que los de pasajeros —de los que solo corrían entre Cumbresenda y las puertas de las rutas de expedición— acababa de detenerse entre nubes de vapor que se disolvían lentamente en el aire frío de la tarde. De sus vagones bajaban hombres y mujeres vestidos con el equipo desgastado de quien ha pasado semanas, quizá meses, fuera de cualquier ciudad: capas reforzadas con remiendos visibles, botas que ya no parecían botas sino una segunda piel de cuero curtido, mochilas tan cargadas que algunas necesitaban dos personas para bajarlas del vagón.
+Las escuchó por primera vez en su vida un mediodía de su decimoquinto año, cruzando el patio de prácticas con Tamsin rumbo al comedor. La mañana había sido buena: Ressk lo había felicitado delante del grupo por separar, por primera vez, cuatro capas distintas de huella en un mismo objeto. Caminaba con ese pequeño triunfo todavía fresco cuando el primer golpe de campana lo interrumpió a media frase.
 
-La gente aplaudía, gritaba nombres, algunos llorando de alivio al reconocer a un familiar entre la fila de Exploradores que avanzaba hacia la salida de la estación. Un niño pequeño, no mayor de cinco años, se soltó de la mano de su madre y corrió a abrazar las piernas de un hombre cubierto de polvo de camino, que se agachó de inmediato para levantarlo en brazos entre risas y lágrimas mezcladas.
+El sonido llegó desde el sur, desde algún punto cercano a las murallas exteriores, y en cuestión de segundos se propagó por toda la ciudad como si Cumbresenda tuviera un solo cuerpo y acabara de recibir un golpe en el mismo lugar. Los aprendices que cruzaban el patio se detuvieron en seco, algunos palideciendo, otros —los que ya habían vivido algo así— moviéndose de inmediato hacia los refugios marcados en cada esquina del Instituto con la eficiencia silenciosa de quien ha practicado ese movimiento sin saber que lo practicaba.
 
-Kael se abrió paso entre la multitud, sorteando codos y hombros, hasta quedar cerca del cordón que separaba a los recién llegados del resto del mercado, y ahí, por primera vez de cerca, vio lo que significaba en realidad volver de una expedición.
+—¿Qué es eso? —preguntó Kael, aunque algo en el estómago ya le decía que no iba a gustarle la respuesta.
 
-Una mujer, quizás de la edad que tendría su madre si hubiera vivido, llevaba un vendaje improvisado en el brazo izquierdo, manchado de algo que ya se había secado hacía días. Caminaba con una sonrisa cansada, casi orgullosa, como si la herida fuera, en cierto modo, la prueba misma de que había valido la pena. Un hombre más joven, a su lado, cargaba sobre la espalda algo envuelto en tela gruesa que goteaba un líquido oscuro y dejaba un olor metálico en el aire —Kael no sabría decir qué era, pero algo en la forma en que los demás Exploradores se mantenían a distancia de ese bulto le dijo que probablemente era mejor no preguntarlo.
+—Desbordamiento —dijo Tamsin, con una palidez que él nunca le había visto—. Vamos. Ahora.
 
-Más adelante en la fila, una joven Exploradora, no mucho mayor que algunos de los aprendices de los últimos cursos del Instituto, caminaba con la mirada fija al frente, sin sonreír, sin llorar, con una expresión que Kael reconoció sin saber bien por qué: el rostro de alguien que ha visto algo que todavía no ha terminado de procesar del todo, y que necesita primero el silencio antes que cualquier celebración.
+Lo arrastró del brazo hacia el refugio más cercano, una construcción baja de piedra reforzada bajo el ala administrativa, donde ya se apretujaban decenas de aprendices e instructores que dirigían el flujo con gritos cortos y precisos. Por el camino, Kael alcanzó a ver a varios instructores mayores corriendo en dirección contraria a la multitud, hacia las murallas, cargando equipo que normalmente permanecía bajo llave: bastones reforzados con metal, cuerdas gruesas, una caja plana que dos de ellos llevaban entre ambos con un cuidado que hablaba por sí solo.
 
-Detrás de ellos, casi al final de la fila, un hombre mayor avanzaba sin prisa, observando a la multitud con un gesto sereno que contrastaba con el cansancio evidente en su cuerpo. Llevaba al cinto algo que parecía un revólver, aunque distinto a cualquiera que Kael hubiera visto en los puestos del mercado: el metal tenía un brillo apagado, casi vivo, y el tambor parecía demasiado grande para el resto del arma.
+Entre ellos iba Ressk.
 
-—¿Qué encontraron? —preguntó alguien desde la multitud.
+Kael se quedó mirándolo un segundo de más. No le pareció que un hombre que llevaba veinte años sin pasar de Cuenca tuviera nada que hacer en esa dirección, y algo en la forma en que Ressk sostenía su parte de la caja —con las dos manos, los hombros cuadrados, sin mirar atrás— le dijo que él pensaba exactamente lo mismo y que iba igual.
 
-—Lo que fuimos a buscar —respondió el hombre, sin detenerse del todo, con la voz ronca de quien lleva semanas sin hablar más de lo necesario—. Y un poco más de lo que esperábamos. Eso es siempre la mitad de cualquier expedición decente.
+Después la puerta de hierro se cerró y no hubo nada más que ver.
 
-La gente rió, aliviada, y la fila siguió su camino hacia los edificios administrativos del Instituto, donde algún oficial los esperaría para registrar el éxito —o el fracaso parcial— de su misión. Kael, sin embargo, no se movió de su lugar junto al cordón. Algo en aquel revólver de brillo apagado lo había dejado clavado en el sitio, sin poder apartar la vista.
+El refugio, una vez sellado, se llenó de un silencio tenso que solo rompía el sonido amortiguado de las campanas. El aire empezó a pesar enseguida, cargado del calor de demasiados cuerpos entre las mismas cuatro paredes. Kael terminó contra un muro de piedra fría, con Tamsin a un lado y un grupo de aprendices pequeños acurrucados cerca, algunos conteniendo las lágrimas.
 
-—¿Te interesa el arma, chico? —preguntó el hombre, deteniéndose por fin al notar la insistencia de su mirada.
+—¿Has vivido esto antes? —le preguntó a Tamsin en voz baja, más por distraer a los niños que por saberlo.
 
-—Nunca había visto una así.
+—Una vez, a los siete años. No recuerdo mucho. Solo el ruido, y que mi tutora de entonces no dejó de rezarle a nadie en particular durante todo el rato.
 
-—Pocos la han visto de cerca. —El hombre desenfundó el revólver con un gesto lento, casi ceremonial, y lo sostuvo de modo que Kael pudiera examinarlo sin tocarlo—. Es de Artífice. El tambor no guarda balas comunes; guarda cargas, alimentadas por un núcleo de bestia engastado justo aquí. —Señaló un pequeño compartimento traslúcido en la base del arma, donde algo parecido a una brasa fría parpadeaba con un ritmo casi imperceptible—. Cuando se agota el núcleo, el arma deja de funcionar hasta que se le pone uno nuevo.
+Pasaron horas. O lo que se sintió como horas, porque nadie tenía forma de medir el tiempo más allá del hambre y de la incomodidad de estar sentados sobre piedra. Alguien repartió raciones de pan duro guardadas para emergencias exactamente como esta. De vez en cuando, un rugido distante se filtraba por la rejilla de ventilación, cada vez un poco más cerca o un poco más lejos, imposible de precisar desde dentro. En un momento el suelo vibró, un temblor sordo que duró apenas un segundo, y varios de los pequeños ahogaron un grito.
 
-—¿Cuánto cuesta algo así?
+—Eso fue algo grande —murmuró Tamsin, apretándole la mano sin pensarlo.
 
-El hombre se rió, no con burla, sino con la diversión cansada de quien ha escuchado esa pregunta demasiadas veces.
+—O algo cercano.
 
-—Más de lo que tú o yo podríamos costear con un sueldo normal, chico. Esto se hereda, o se gana después de años de expediciones exitosas, ahorrando cada Reliquia que el Instituto te paga de más por el riesgo. No es algo que se compra un día cualquiera en el mercado.
+Un aprendiz mayor, de los que ya hacían prácticas de campo, se pegó el oído a la rejilla y fue describiendo en voz baja lo que alcanzaba a oír: gritos de mando, el resoplido de las locomotoras de emergencia movilizando tropa hacia el sur, y debajo de todo eso, disparos en ráfagas cortas y disciplinadas.
 
-—¿Y vale la pena el riesgo? Para conseguir algo así, quiero decir.
+—Eso es la Guardia —dijo otro, hijo de un soldado retirado—. Y los Exploradores. Cuando suena así, siempre son los dos juntos.
 
-El hombre lo consideró un momento, guardando de nuevo el arma en su funda con el mismo cuidado ceremonial de antes.
+Kael pensó, sin poder evitarlo, en el revólver de brillo apagado que Marek Hessan le había mostrado en la estación de mercancías hacía dos años. En el hombre que le había enseñado a negociar su propio jornal antes que ninguna otra cosa. Se preguntó si estaría ahí afuera, y en qué punto exacto de la muralla, y si el núcleo de su arma tendría carga suficiente.
 
-—Eso solo lo sabes después de haberlo intentado, chico. Antes de eso, es solo una apuesta. —Le dio una palmada breve en el hombro, casi paternal, y siguió su camino hacia los edificios administrativos sin decir nada más.
+En algún momento la puerta se abrió lo justo para que entrara la Maestra Korr, que recorrió el refugio con una mirada rápida, contó cabezas del Ala Norte, y volvió a salir sin explicar a dónde iba.
 
-Kael se quedó mirando hasta que el último Explorador desapareció detrás de las puertas, sintiendo en el pecho una mezcla de cosas que no sabía bien cómo ordenar: envidia, admiración, un anhelo que no tenía nombre todavía pero que se le clavaba más hondo cada vez que veía algo así. Eso era lo que sus padres habían sido. Gente que volvía con heridas, con bultos que olían raro, con revólveres que no se vendían en ningún puesto del mercado porque costaban más de lo que cualquier persona común podría reunir en años de trabajo. Gente que la ciudad entera recibía como héroes, aunque fuera solo por un día, antes de que la vida normal volviera a tragárselos entre el ruido de los trenes y las preocupaciones de cada uno.
+—¿Va a estar bien? —le preguntó un aprendiz pequeño, agarrándose de su manga.
 
-Caminó de vuelta hacia el puesto donde había dejado su comida, pero ya no tenía hambre. Tenía, en cambio, una claridad que no había sentido antes con tanta fuerza: algún día, él también bajaría de ese tren. Algún día, alguien en esa misma multitud lo miraría a él con esa mezcla de alivio y admiración, y por una vez en su vida, nadie tendría que decirle "el huérfano Doran" como si fuera lo único que pudiera ser.
+—Va a estar bien —dijo ella, con una firmeza que no admitía discusión, aunque Kael, que ya la conocía mejor que la mayoría, notó la tensión escondida detrás—. Mi trabajo ahora es asegurarme de eso. El de ustedes es quedarse aquí, callados, y dejarme hacer el mío.
 
-No tenía el dinero para comprarse, esa misma tarde, ni la más sencilla de las cuerdas de ese mercado. No tenía un revólver como el del Explorador mayor, ni nunca lo tendría con su propio sueldo, eso ya lo sabía con la claridad práctica de quien ha aprendido a contar cada Marca dos veces. Pero tenía algo que ese día, mirando bajar a esos hombres y mujeres cansados del tren, sintió por primera vez como una certeza propia, no heredada: la voluntad de llegar hasta ahí, aunque tardara años, aunque el camino fuera el más largo y el más pobre de todos los posibles.
+Con las horas, los sonidos de afuera cambiaron de carácter. Los disparos se espaciaron. El rugido fue apagándose hasta convertirse en algo más parecido a un gemido, y después en nada. Nadie dentro se atrevió a celebrarlo en voz alta.
 
-Se quedó un rato más cerca de los edificios administrativos, observando de lejos el ir y venir de oficiales y funcionarios menores que cruzaban el patio frontal con carpetas bajo el brazo, registrando cada detalle de la expedición que acababa de volver. Vio a la joven Exploradora de mirada fija salir por una puerta lateral, ya sin el peso visible de su mochila, todavía con esa misma expresión distante que Kael no terminaba de entender del todo. Se sentó sola en un banco de piedra cercano, sin hablar con nadie, y Kael, por respeto a algo que no sabía nombrar, no se acercó a preguntarle nada.
+Las campanas se detuvieron poco antes del anochecer, y el silencio que llegó con ellas ya no era tenso, sino agotado, como el de un cuerpo que por fin deja de contener la respiración. Alguien empezó a llorar de alivio, en voz baja, y nadie le pidió que se contuviera.
 
-Un poco más allá, dos oficiales discutían en voz baja sobre el contenido de uno de los bultos que los Exploradores habían traído consigo —el mismo que goteaba aquel líquido oscuro de olor metálico— y Kael alcanzó a escuchar fragmentos sueltos de la conversación: algo sobre "catalogar antes de que se descomponga del todo" y "avisar al Yunque Hondo si resulta ser lo que creemos". No entendió el significado completo de ninguna de las dos frases, pero guardó las palabras de todos modos, como guardaba cualquier pieza de información que el mundo le ofreciera sin que él la pidiera directamente, convencido de que algún día, cuando menos lo esperara, esas piezas sueltas terminarían encajando en algo más grande.
+Tardaron casi una hora más en abrir las puertas —el protocolo exigía confirmación oficial de que la amenaza estaba contenida, no solo silenciada— y cuando por fin salieron, el cielo sobre Cumbresenda tenía un tono ceniciento que no era de nubes. Un olor a humo y a algo quemado, mezclado con un filo metálico, flotaba en el aire incluso a esa distancia de las murallas sur.
 
-Caminó de regreso hacia la estación del tren urbano, deteniéndose una última vez frente al mirador de los globos aerostáticos donde había hablado con el viejo encargado de las góndolas. La ciudad seguía ahí, inmensa, indiferente, extendiéndose hacia un horizonte que ni el más alto de los globos podría abarcar nunca por completo. Pero ahora, mirándola, Kael ya no sentía solo pequeñez. Sentía, mezclado con ella, algo parecido a un mapa empezando a dibujarse dentro de su propia cabeza, aunque todavía no tuviera ninguna línea trazada con claridad.
+La Maestra Korr los esperaba en el patio principal junto al resto de los instructores, con una mancha oscura en la manga que no se molestó en explicar y un corte superficial en la mejilla que alguien ya le había limpiado de forma apresurada.
 
-Volvió a la escuela esa tarde con las manos vacías y la cabeza llena de imágenes que tardaría días en ordenar del todo, y cuando Tamsin le preguntó qué había comprado en el mercado, Kael solo pudo responder, con una sonrisa que no había tenido en mucho tiempo:
+—El Desbordamiento fue contenido en las murallas sur —dijo, antes de que nadie preguntara—. Una manada de bestias de División baja, empujada hacia la ciudad por algo que todavía no se ha confirmado. No cruzó hacia el distrito comercial.
 
-—Nada. Pero vi algo que no voy a olvidar.
+—¿Hubo heridos? —preguntó Kael.
 
-—¿Vas a contarme qué fue, o vas a hacer ese misterio toda la noche?
+Korr lo miró un momento antes de responder, como calculando cuánta verdad era apropiada frente a todo el grupo.
 
-—Con el tiempo —dijo Kael, sonriendo—. Todavía estoy intentando entenderlo yo mismo.
+—Sí.
 
-Esa noche, ya en la cama, le contó a Tamsin con más detalle lo que había visto: la fila de Exploradores bajando del tren, el bulto que goteaba algo oscuro, el revólver de brillo apagado que se alimentaba de un núcleo de bestia en vez de balas comunes.
+Esperó, por si añadía algo. No añadió nada, y esa fue la primera vez en cinco años que Kael la vio elegir el silencio en lugar de una respuesta corta.
 
-—¿Crees que algún día vas a tener algo así? —preguntó ella, ya medio dormida, con la voz arrastrada por el cansancio del día.
+---
 
-—No con mi sueldo. Eso seguro.
+La lista se colgó a la mañana siguiente en el vestíbulo del edificio administrativo, dos hojas de papel barato clavadas a la altura de los ojos, con los nombres escritos a mano por alguien que había tenido que hacerlo deprisa. Kael la leyó entera dos veces, sin saber a ciencia cierta qué estaba buscando hasta que lo encontró.
 
-—Pero algún día vas a ser Explorador de verdad. Vas a tener sueldo de Explorador, no de aprendiz.
+*Hessan, Marek. Explorador licenciado. Murallas sur.*
 
-—Va a tomar años. Y aun así, algo como eso cuesta más de lo que ganaría en años enteros.
+Se quedó un rato largo frente al papel. Un hombre que había hablado con él once minutos, hacía dos años, y que le había regalado dos años de su propia vida en una sola frase sobre dónde se pagaban mejor los turnos de inventario. No tenía ningún derecho a que aquello le doliera de esa forma, y le dolió de todos modos.
 
-—Entonces tendrás que conformarte con lo que cualquier Explorador normal usa —dijo Tamsin, ya casi dormida del todo—. Que tampoco está mal. No todos necesitan un arma rara para ser buenos en lo que hacen.
+—¿Lo conocías? —preguntó Tamsin, que había subido a buscarlo cuando no apareció en el comedor.
 
-Kael no respondió enseguida, repasando mentalmente la imagen del revólver, el modo en que el metal parecía respirar con un ritmo propio, casi vivo. Pensó, sin decirlo en voz alta, que no era solo el arma lo que lo había impresionado tanto, sino lo que representaba: una vida entera de riesgo convertida en algo que se podía sostener con las manos, algo que sobrevivía a quien lo llevaba y pasaba, quizás, a la siguiente generación si la suerte y el tiempo lo permitían.
+—Hablé con él una vez.
 
-—¿Tamsin?
+—¿Cuánto tiempo?
 
-No hubo respuesta. Se había quedado dormida a mitad de la conversación, como le ocurría casi todas las noches últimamente, agotada por las clases del día y por la simple tarea de seguir adelante sin ninguna Marca propia que la distinguiera del resto.
+—Once minutos.
 
-Kael se quedó despierto un rato más, mirando el techo, repasando en su cabeza todo lo que había visto ese día: el mercado, los talleres escondidos, la vista desde el mirador de los globos, la fila de Exploradores volviendo con heridas y trofeos a partes iguales. Sentía que algo en él había cambiado, aunque no pudiera nombrarlo con precisión todavía, algo parecido a una dirección que antes no tenía y que ahora, aunque borrosa, empezaba a dibujarse con un poco más de claridad cada día que pasaba.
+Tamsin miró la lista, después a él, y no le dijo ninguna de las cosas que se le dicen a alguien en ese momento.
 
-Se quedó dormido pensando en trenes, en revólveres de brillo apagado, en filas de Exploradores cansados volviendo a una ciudad que los recibía como héroes por un solo día antes de que la rutina volviera a tragárselos, y en un mapa que algún día, con suerte y con años de esfuerzo por delante, terminaría de completar con sus propias manos.
+—Entonces eres el único de todo el Instituto que puede contar esos once minutos —dijo—. Guárdalos bien.
+
+Esa tarde, Kael vio pasar por el patio administrativo a dos funcionarios cargando una caja plana de madera oscura, del tamaño justo para un arma larga o para dos cortas, rumbo al despacho de custodias. No preguntó de quién era. Ya lo sabía, y el peso exacto de lo que significaba —que el revólver de brillo apagado iba a pasar los años siguientes en un estante numerado, esperando a alguien que tuviera edad para reclamarlo— se le asentó en el pecho de una forma que no supo nombrar entonces.
+
+De Ressk no había noticias en la lista. Ni en la de muertos ni en ninguna otra.
+
+Tardó tres días en aparecer, y cuando lo hizo, ya no daba clase.
+
+Kael lo encontró por casualidad, sentado en el borde del patio interior donde habían entrenado dos años, mirando la mesa vacía donde solían estar los objetos. Tenía el brazo derecho en cabestrillo, lo cual no explicaba nada, porque un brazo roto se cura. Lo que Kael notó fue otra cosa: una mecha de pelo, sobre la sien, que había perdido el color de golpe, como si se la hubieran lavado con lejía.
+
+—No se moleste en preguntar —dijo Ressk, sin girarse—. Se nota en la cara de todos los que entran aquí.
+
+—Instructor…
+
+—Siéntate, Doran, o vete. Las dos cosas están bien, pero elige una.
+
+Kael se sentó.
+
+—Nos pusieron a los de Cuenca a sostener el flanco este —dijo Ressk, después de un rato—. No a pelear. A sostener. Los Custodios de verdad estaban en el frente, así que a los que no servimos para nada nos tocó reforzar lo que quedaba detrás. —Movió apenas el hombro del brazo herido—. Extraje más de lo que aguanto. Más de lo que había extraído en veinte años, todo en una tarde. Y algo dentro se abrió.
+
+—¿Una Grieta?
+
+—Una Grieta que no selló. —Lo dijo sin dramatismo, como quien informa de un inventario—. Hay una forma correcta de que eso pase, con años de Voluntad detrás sosteniéndola, y hay esta otra. Pregúntale a cualquier Curtidor de Alma la diferencia y te dirá que una te ensancha y la otra te deja como una taza con una fisura: sirve, se puede beber de ella, pero ya nadie la va a llenar hasta el borde nunca más.
+
+Kael no supo qué decir. Se le ocurrieron tres cosas y descartó las tres.
+
+—¿Le duele?
+
+—No. Eso es lo peor. —Ressk se quedó mirando la mesa vacía—. Veinte años preguntándome si lo mío era el Techo, el método o la mala suerte. Y resulta que la respuesta no iba a llegar nunca por entrenar mejor. Iba a llegar una tarde de campanas, por hacer lo que había que hacer con lo poco que tenía. —Por primera vez desde que Kael lo conocía, sonrió con algo parecido a la satisfacción—. Que conste que volvería a ir.
+
+---
+
+Dos días después, con permiso especial de Korr, un grupo pequeño de los mayores —Kael entre ellos— pudo acompañar a un instructor de campo hasta el límite seguro más cercano a las murallas sur.
+
+El paisaje no se parecía a nada que Kael hubiera imaginado durante las horas de encierro. Una franja de terreno antes ocupada por huertos comunitarios había quedado arada en surcos profundos, sin patrón reconocible, y algunos árboles estaban partidos a media altura con una fuerza que ningún viento explicaría. Más cerca del muro, equipos de la Guardia y un par de Arquitectos de Cauce trabajaban ya en restaurar las secciones dañadas.
+
+—¿Eso es sangre? —preguntó un aprendiz, señalando una mancha oscura y extensa cerca de uno de los surcos.
+
+—No preguntes cosas que no quieres responder de verdad —dijo el instructor, sin crueldad, solo con el cansancio práctico de quien ha visto demasiadas veces la misma reacción ante la misma escena.
+
+Se llamaba Herrik, y aprovechó la vista del desastre para dar, sin pizarra ni protocolo, la lección de bestias más seria que ninguno de ellos había recibido.
+
+—Lo que llegó era una manada de División I, puede que con alguna pieza de División II —dijo, señalando los surcos con el mentón—. Niveles uno a seis, lo más bajo de la escala entera. Instinto puro, sin núcleo, sin nada dentro que valga el riesgo de cazarlas salvo quitarlas de en medio. Y miren lo que le hicieron a los huertos. —Dejó que el silencio trabajara un momento—. La escala sigue hasta el veintiuno, en siete divisiones, y por encima de todo eso hay un Nivel 22 del que no les voy a hablar hoy porque no me pagan lo suficiente. Grábense esto, en su lugar: a partir del Nivel 7, División III, la bestia forma núcleo. Y ahí cambia todo. Un solo núcleo vale más de lo que la mayoría de la gente gana en años, y cazar algo de esa división ya no es trabajo de la Guardia: es trabajo de escuadrones enteros de Trazadores. La cuenta gruesa de los gremios de caza es de tres a cinco Trazadores por cada nivel de la pieza. Háganse el número de lo que costaría bajar algo de Nivel 12, y después háganse esta otra pregunta: ¿de dónde creen que salen los núcleos que alimentan los portales entre continentes?
+
+—¿Y si hubiera venido algo así? —preguntó uno—. De División IV, contra la muralla.
+
+—Entonces no estaríamos mirando el muro. Estaríamos ayudando a buscar la ciudad. —Herrik lo dijo sin sonreír, y nadie tomó la frase como un chiste—. Por eso existen los escuadrones, los Exploradores y las campanas. Y entiendan bien esto, porque es la parte que más cuesta aprender: el territorio de ahí afuera no odia a Cumbresenda. Ni siquiera sabe que existe una Cumbresenda. Las bestias que llegaron venían empujadas por algo más grande que ellas, igual que ustedes corrieron al refugio empujados por las campanas. Todo lo que camina ahí afuera está huyendo de algo o buscando comida, sin excepción, y la muralla simplemente está en medio. El día que entiendan que no hay malicia en nada de eso, van a poder trabajar afuera sin volverse locos de miedo. Malicia van a encontrar en este oficio, no lo duden. Pero no en las bestias.
+
+Kael se quedó atrás cuando el grupo empezó a volver.
+
+Quería saber una cosa concreta, y no era la lección. Quería saber dónde había caído Marek Hessan. Había un tramo de muro a unos veinte pasos, fuera del cordón, donde la piedra estaba más oscura que el resto, y pensó —con la claridad tonta de los quince años— que si conseguía leer ahí una capa reciente, tendría algo que contar. Un último momento de alguien que no tenía a nadie que lo contara por él.
+
+Apoyó la palma contra la piedra.
+
+Lo que encontró no se parecía en nada al candil. No hubo cajón que abrir ni luz pequeña. Fue como meter la mano en una corriente que bajaba demasiado rápido: capas y capas de una sola tarde, todas frescas, todas gritando a la vez, tan densas que no pudo distinguir una sola de las otras ni encontrar el borde por donde soltarlas. Intentó retirar la mano y descubrió, con una lucidez helada, que la parte de él que decidía esas cosas ya no estaba al mando.
+
+Después, el suelo.
+
+Volvió en sí boca arriba, con Herrik agachado sobre él, sujetándole la muñeca con una fuerza que dolía, y con el sabor de la sangre bajándole desde la nariz hasta la comisura de la boca.
+
+—Respira. Cuatro al entrar, seis al salir. —Herrik esperó tres ciclos completos antes de volver a hablar, y cuando lo hizo, su voz no tenía nada del tono de la lección—. ¿Qué etapa, Doran?
+
+—Cauce Naciente.
+
+—Cauce Naciente. —Herrik cerró los ojos un segundo—. Ahí hay veinte horas de muerte reciente metidas en la piedra. Un Perito lo pensaría dos veces antes de leerlas. ¿Qué creías que ibas a encontrar?
+
+—Un nombre —dijo Kael, y le costó reconocer su propia voz—. Quería contar sus últimos minutos. Nadie más va a hacerlo.
+
+Herrik lo miró un rato largo, y lo que fuera que hubiera estado a punto de decir no lo dijo.
+
+—Levántate despacio. —Le pasó un pañuelo para la nariz—. Y anota esto en ese cuaderno que todos sabemos que llevas: no te desmayaste por ser débil. Te desmayaste por intentar cargar el duelo de otro con las manos que tienes hoy. Lo primero se arregla con los años. Lo segundo, con nada.
+
+Kael volvió al Instituto con el pañuelo apretado contra la cara y el cuaderno en el bolsillo sin abrir. No escribió la frase de Herrik esa noche, ni la de las bestias, ni ninguna otra.
+
+Escribió una sola línea, mucho más corta, y la subrayó dos veces: *once minutos. No los gasté. Todavía están.*
